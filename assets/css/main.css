@@ -1,4 +1,7 @@
-@import url("font-awesome.all.css");
+@import url("font-awesome.min.css");
+
+
+
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 @import url("https://fonts.googleapis.com/css?family=Source+Code+Pro:300,300italic,400,600");
 /*
@@ -2253,7 +2256,7 @@ input, select, textarea {
 			}
 
 			#main > section.conf {
-				
+
 				margin-top: 2em;
 				margin-bottom: 0em;
 				padding: 0 0 ;
