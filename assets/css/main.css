@@ -1,5 +1,6 @@
 @import url("font-awesome.all.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url("https://fonts.googleapis.com/css?family=Source+Code+Pro:300,300italic,400,600");
 /*
 	Prologue by HTML5 UP
 	html5up.net | @ajlkn
@@ -110,6 +111,7 @@ input, select, textarea {
 		color: #888;
 	}
 
+
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		color: #666;
@@ -176,7 +178,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #E27689;
+			color: #620E9E;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -2156,7 +2158,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: #620E9E;
 					}
 
 /* Footer */
