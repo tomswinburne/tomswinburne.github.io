@@ -178,7 +178,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #620E9E;
+			color: #b31cff;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -2158,7 +2158,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #620E9E;
+						color: #b31cff;
 					}
 
 /* Footer */
@@ -2250,6 +2250,14 @@ input, select, textarea {
 
 			#main > section.four {
 				background-color: #e8edec;
+			}
+
+			#main > section.conf {
+				
+				margin-top: 2em;
+				margin-bottom: 0em;
+				padding: 0 0 ;
+
 			}
 
 /* Wide */
