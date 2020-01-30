@@ -122,12 +122,14 @@ input, select, textarea {
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-		color: inherit;
+		/*color: inherit;*/
+		color: #b31cff;
 		text-decoration: none;
 	}
 
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-			color: #333;
+			color: #b31cff;
+			/*color: #333;*/
 		}
 
 	h2 {
@@ -171,19 +173,23 @@ input, select, textarea {
 
 	a {
 		text-decoration: none;
-		color: inherit;
+		color: #b31cff;
 		border-bottom: dotted 1px rgba(128, 128, 128, 0.5);
 		-moz-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		-webkit-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		-ms-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
-		outline: 0;
+		outline: 1;
 	}
 
-		a:hover {
-			color: #b31cff;
-			border-bottom-color: rgba(255, 255, 255, 0);
-		}
+	a:hover {
+		color: #b31cff;
+		border-bottom-color: rgba(255, 255, 255, 0);
+	}
+	img, a {
+		border-bottom: none;
+		outline: 0;
+	}	
 
 	sub {
 		position: relative;
