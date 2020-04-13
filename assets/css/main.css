@@ -34,7 +34,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 body {
-	line-height: 1;
+	line-height: 1.0;
 }
 
 ol, ul {
@@ -89,9 +89,9 @@ input, select, textarea {
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 17pt;
+		font-size: 18pt;
 		font-weight: 350;
-		line-height: 2.0em;
+		line-height: 1.2em;
 		color: #555;
 	}
 
@@ -110,7 +110,7 @@ input, select, textarea {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
-		line-height: 1.75em;
+		line-height: 1.0em;
 		color: #888;
 	}
 
@@ -226,7 +226,7 @@ input, select, textarea {
 
 	.container {
 		margin: 0 auto;
-		max-width: 75%;
+		max-width: 85%;
 		width: 1400px;
 	}
 	.list {
