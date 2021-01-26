@@ -36,7 +36,9 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1.0;
 }
-
+summary {
+	cursor: pointer;
+}
 ol, ul {
 	list-style: none;
 }
