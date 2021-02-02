@@ -143,35 +143,38 @@
 			<section id="news" class="two">
 				<div class="container">
 					<header><h2><span class="icon fa-bullhorn">&nbsp;&nbsp;News</h2></header>
+						<div id="newslist"></div>
+
 						<script language="JavaScript">
-							// Create a connection to the file.
 							var Connect = new XMLHttpRequest();
-							// Define which file to open and
-							// send the request.
-							Connect.open("GET", "news.xml", false);
+							Connect.open("GET", "news.xml");
 							Connect.setRequestHeader("Content-Type", "text/xml");
-							Connect.send(null);
-							var TheDocument = Connect.responseXML;
-							var Items = TheDocument.childNodes[0];
-							var i = 0;
-							for (; i < Items.children.length; i++) {
-								var Item = Items.children[i];
-								var Date = Item.getElementsByTagName("Date");
-								var Header = Item.getElementsByTagName("Header");
-								var Body = Item.getElementsByTagName("Body");
-								var Link = Item.getElementsByTagName("Link");
-								if (i==3) document.write("<details><summary> <i><a>More news...</a></i></summary><br>");
-								document.write("<h4><strong><span class=\"icon fa-bullhorn\"></span>&nbsp;");
-								document.write(Date[0].textContent.toString());
-								document.write("&nbsp; ");
-								document.write(Header[0].textContent.toString());
-								document.write("</strong></br>");
-								document.write(Body[0].textContent.toString());
-								document.write(" (<a href=\"");
-								document.write(Link[0].textContent.toString());
-								document.write("\" target=_new>Link</a>)</h4></br>");
+							Connect.send();
+							Connect.onload = function() {
+								var TheDocument = this.responseXML;
+								var Items = TheDocument.childNodes[0];
+								var i = 0;
+								var text = "";
+								for (; i < Items.children.length; i++) {
+									var Item = Items.children[i];
+									var Date = Item.getElementsByTagName("Date");
+									var Header = Item.getElementsByTagName("Header");
+									var Body = Item.getElementsByTagName("Body");
+									var Link = Item.getElementsByTagName("Link");
+									if (i==3) text += "<details><summary> <i><a>More news...</a></i></summary><br>";
+									text += "<h4><strong><span class=\"icon fa-bullhorn\"></span>&nbsp;";
+									text += Date[0].textContent.toString();
+									text += "&nbsp; ";
+									text += Header[0].textContent.toString();
+									text += "</strong></br>";
+									text += Body[0].textContent.toString();
+									text += " (<a href=\"";
+									text += Link[0].textContent.toString();
+									text += "\" target=_new>Link</a>)</h4></br>";
+								}
+								if (i>=3)	text += "</details>";
+								document.getElementById('newslist').innerHTML = text;
 							}
-							if (i>=3)	document.write("</details>");
 						</script>
 				</div>
 			</section>
@@ -185,38 +188,44 @@
 						<em><span>&#8224;</span> = corresponding author(s) </em>
 					</header>
 					<dl>
+						<div id="publicationlist"></div>
 						<script language="JavaScript">
 							// Create a connection to the file.
 							var Connect = new XMLHttpRequest();
 							// Define which file to open and
 							// send the request.
-							Connect.open("GET", "publications.xml", false);
+							Connect.open("GET", "publications.xml");
 							Connect.setRequestHeader("Content-Type", "text/xml");
-							Connect.send(null);
-							var TheDocument = Connect.responseXML;
-							var Items = TheDocument.childNodes[0];
-							var i = 0;
-							for (; i < Items.children.length; i++) {
-								var Item = Items.children[i];
-								var Title = Item.getElementsByTagName("Title");
-								var Journal = Item.getElementsByTagName("Journal");
-								var Authors = Item.getElementsByTagName("Authors");
-								var Link = Item.getElementsByTagName("Link");
-								var Year = Item.getElementsByTagName("Year");
-								if (i==4) document.write("<details><summary> <i><a>More publications...</a></i></summary><br>");
-								document.write("<dt><li>");
-								document.write(Title[0].textContent.toString());
-								document.write("</li></dt><dd><em>");
-								document.write(Authors[0].textContent.toString());
-								document.write("</em><br><a href=\"");
-								document.write(Link[0].textContent.toString());
-								document.write("\" target=_new>");
-								document.write(Journal[0].textContent.toString());
-								document.write(" ");
-								document.write(Year[0].textContent.toString());
-								document.write("</a></dd></br>");
+							Connect.send();
+							Connect.onload = function() {
+								var TheDocument = this.responseXML;
+								var Items = TheDocument.childNodes[0];
+								var i = 0;
+								var text = "";
+								for (; i < Items.children.length; i++) {
+									var Item = Items.children[i];
+									var Title = Item.getElementsByTagName("Title");
+									var Journal = Item.getElementsByTagName("Journal");
+									var Authors = Item.getElementsByTagName("Authors");
+									var Link = Item.getElementsByTagName("Link");
+									var Year = Item.getElementsByTagName("Year");
+
+									if (i==4) text += "<details><summary> <i><a>More publications...</a></i></summary><br>";
+									text += "<dt><li>";
+									text += Title[0].textContent.toString();
+									text += "</li></dt><dd><em>";
+									text += Authors[0].textContent.toString();
+									text += "</em><br><a href=\"";
+									text += Link[0].textContent.toString();
+									text += "\" target=_new>";
+									text += Journal[0].textContent.toString();
+									text += " ";
+									text += Year[0].textContent.toString();
+									text += "</a></dd></br>";
+								}
+								if (i>=4)	text += "</details>";
+								document.getElementById('publicationlist').innerHTML = text;
 							}
-							if (i>=4)	document.write("</details>");
 						</script>
 					</dl>
 				</div>
