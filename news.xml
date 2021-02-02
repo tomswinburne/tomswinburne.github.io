@@ -1,0 +1,44 @@
+<News>
+  <Item>
+    <Date>01/21</Date>
+    <Header>New paper in Material Research Letters</Header>
+    <Body>In collaboration with Profs S Ogata and D Rodney, using <![CDATA[<a href="#code">PAFI</a>]]> to study anharmonic effects on twin nucleation in Mg</Body>
+    <Link>https://www.tandfonline.com/doi/full/10.1080/21663831.2021.1875079</Link>
+  </Item>
+  <Item>
+    <Date>11/20</Date>
+    <Header>Petr Grigorev joins the group</Header>
+    <Body>He will use his expertise in atomistic simulations to spearhead UQ controlled exploration as part of the ANR MeMoPas project. Welcome Petr!</Body>
+    <Link></Link>
+  </Item>
+  <Item>
+    <Date>10/20</Date>
+    <Header>New paper in NPJ Computational Materials</Header>
+    <Body>With Danny Perez, LANL. Unsupervised method to calculate defect diffusivities, with a novel convergence measure.</Body>
+    <Link>https://www.nature.com/articles/s41524-020-00463-8</Link>
+  </Item>
+  <Item>
+    <Date>10/20</Date>
+    <Header>New paper in Journal of Chemical Physics</Header>
+    <Body>With Deepti Kannan, Daniel Sharpe and David Wales, U Cambridge. How first passage time distributions can be evaluated for highly metastable systems.</Body>
+    <Link>https://aip.scitation.org/doi/full/10.1063/5.0016244</Link>
+  </Item>
+  <Item>
+    <Date>09/20</Date>
+    <Header>New paper in PRB Rapid Communications</Header>
+    <Body>Primarily with Jan Janssen, Mira Todorova and Joerg Neugebauer of MPIE Dusseldorf. Neat mean field model for highly anharmonic free energies.</Body>
+    <Link>https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.100101</Link>
+  </Item>
+  <Item>
+    <Date>05/20</Date>
+    <Header>First paper by Clovis Lapointe in PR Materials</Header>
+    <Body>PhD student joint with M-C Marinica. Machine learning prediction of defect formation entropy, with really impressive transferability. Well done Clovis!</Body>
+    <Link>https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.063802</Link>
+  </Item>
+  <Item>
+    <Date>03/20</Date>
+    <Header>New paper in Journal of Chemical Theory and Computation</Header>
+    <Body>With Prof David J Wales on converging numerically challenging reaction networks, with application to nanoclusters.</Body>
+    <Link>https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b01211</Link>
+  </Item>
+</News>
