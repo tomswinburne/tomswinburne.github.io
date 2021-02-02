@@ -168,9 +168,12 @@
 									text += Header[0].textContent.toString();
 									text += "</strong></br>";
 									text += Body[0].textContent.toString();
-									text += " (<a href=\"";
-									text += Link[0].textContent.toString();
-									text += "\" target=_new>Link</a>)</h4></br>";
+									if(Link[0].textContent.toString().length > 2) {
+										text += " (<a href=\"";
+										text += Link[0].textContent.toString();
+										text += "\" target=_new>Link</a>)";
+									}
+									text += "</h4></br>";
 								}
 								if (i>=3)	text += "</details>";
 								document.getElementById('newslist').innerHTML = text;
