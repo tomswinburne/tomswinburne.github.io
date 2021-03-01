@@ -27,7 +27,11 @@ section, summary, time, mark, audio, video {
 	font-weight: 500;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+}
+td {
+	vertical-align: middle;
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {

@@ -1,5 +1,13 @@
 <Publications>
   <Publication>
+    <Title>Uncertainty and anharmonicity in thermally activated dynamics</Title>
+    <Authors>TD Swinburne<![CDATA[<span>&#8224;</span>]]></Authors>
+    <Journal>Computational Materials Science</Journal>
+    <Year>2021</Year>
+    <Link>https://doi.org/10.1016/j.commatsci.2020.110256</Link>
+  </Publication>
+
+  <Publication>
     <Title>Anharmonic effect on the thermally-activated migration of {10-12} twin interfaces in magnesium</Title>
     <Authors>Y Sato, TD Swinburne, S Ogata and D Rodney<![CDATA[<span>&#8224;</span>]]></Authors>
     <Journal>Materials Research Letters</Journal>
@@ -38,7 +46,7 @@
     <Year>2020</Year>
     <Link>https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043254</Link>
   </Publication>
-  
+
   <Publication>
     <Title>Anharmonic free energy of lattice vibrations in fcc crystals from a mean-field bond</Title>
     <Authors>TD Swinburne<![CDATA[<span>&#8224;</span>]]>, J Janssen, M Todorova, G Simpson, P Plechac, M Luskin, and J Neugebauer</Authors>
