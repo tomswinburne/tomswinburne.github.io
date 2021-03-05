@@ -526,6 +526,13 @@ input, select, textarea {
 					padding-top: 80px;
 				}
 
+			.intro_cell_l {
+				text-align: left;
+			}
+			.intro_cell_r {
+				text-align: right;
+			}
+
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
 
 			.row {
@@ -1262,7 +1269,14 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 960px) {
-
+			.intro_cell_l {
+				display:block;
+				text-align: center;
+			}
+			.intro_cell_r {
+				display:block;
+				text-align: center;
+			}
 			.row {
 				display: flex;
 				flex-wrap: wrap;
