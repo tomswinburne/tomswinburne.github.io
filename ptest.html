@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+h2 {
+    text-align: center;
+}
+</style>
+<script>
+  buy_in = 20;
+  nplayers=2;
+  turn=0;
+  var chips = [];
+  var pots = [];
+  for(var count=0;count<nplayers;count++) chips.push(buy_in);
+  for(var count=0;count<nplayers;count++) pots.push(0.0);
+
+
+  bb=0;
+  function set(){
+    var pot=0.;
+    var max_pot=0.;
+    for(var count=0;count<nplayers;count++) {
+      pot += pots[count];
+      if(pots[count]>max_pot) max_pot=pots[count];
+    }
+    document.getElementById("pot").innerHTML = pot;
+    for(var count=0;count<nplayers;count++) {
+      document.getElementById("chips_"+String(count+1)).innerHTML = chips[count];
+      document.getElementById("tocall_"+String(count+1)).innerHTML = max_pot-pots[count];
+      if(chips[count]==0) {
+        document.getElementById("status_"+String(count+1)).innerHTML = "IS OUT!!";
+      }
+    }
+  };
+
+  function reset(){
+    for(var count=0;count<nplayers;count++) {
+      chips[count] = 0;
+      pots[count] = 0;
+    }
+    set();
+    bb=0;
+  }
+
+  function call(player) {
+    var amount=0.;
+    for(var count=0;count<nplayers;count++) if(pots[count]>amount) amount=pots[count];
+    amount -= pots[player];
+    if(chips[player]-amount>=0) {
+      pots[player] += amount;
+      chips[player] -= amount;
+      set();
+    }
+  };
+
+
+  function raise(amount,player) {
+    if(chips[player]-amount>=0) {
+      pots[player] += amount;
+      chips[player] -= amount;
+      set();
+    }
+  };
+
+  function fold(player) {
+    chips[(player+1)%2] += pot;
+    pot = 0;
+    set();
+    document.getElementById("status_"+String(bb+1)).innerHTML = "";
+    document.getElementById("status_"+String((bb+1)%2+1)).innerHTML = "*";
+    bb = (bb+1)%2;
+  };
+
+  function switchbb(){
+    document.getElementById("status_"+String(bb+1)).innerHTML = "";
+    document.getElementById("status_"+String((bb+1)%2+1)).innerHTML = "*";
+    bb = (bb+1)%2;
+  };
+
+  function initial(){
+    document.getElementById("status_1").innerHTML = "*";
+    set();
+  };
+
+
+
+</script>
+</head>
+<body onload="initial()" align="center">
+  <div class="content">
+    <h2 ">POKER CHIPZ!!!!</h2>
+    <h2><button type="button" onclick="switchbb()">Switch Big Blind</button></h2>
+    <h2><button type="button" onclick="reset()">Reset</button></h2>
+
+    <h2>Pot: <div id="pot">0</div></h2>
+    <table width="400px">
+      <tr>
+        <td><h2>P_E: <div id="chips_1">0</div> <div id="status_1"></div></h2></td>
+        <td><h2>P_S: <div id="chips_2">0</div> <div id="status_2"></div></h2></td>
+      </tr>
+      <tr>
+        <td><h2>to call: <div id="tocall_1">0</div> </h2></td>
+        <td><h2>to call: <div id="tocall_2">0</div> </h2></td>
+      </tr>
+
+      <tr>
+        <td><h2><button type="button" onclick="call(0)">Call</button></h2></td>
+        <td><h2><button type="button" onclick="call(1)">Call</button></h2></td>
+      </tr>
+
+      <tr>
+        <td><h2><button type="button" onclick="raise(1,0)">Bet 1</button></h2></td>
+        <td><h2><button type="button" onclick="raise(1,1)">Bet 1</button></h2></td>
+      </tr>
+      <tr>
+        <td><h2><button type="button" onclick="raise(2,0)">Bet 2</button></h2></td>
+        <td><h2><button type="button" onclick="raise(2,1)">Bet 2</button></h2></td>
+      </tr>
+      <tr>
+        <td><h2><button type="button" onclick="fold(0)">Fold / Lose</button></h2></td>
+        <td><h2><button type="button" onclick="fold(1)">Fold / Lose</button></h2></td>
+      </tr>
+    </table>
+  </div>
+</body>
+</html>
