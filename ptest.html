@@ -123,44 +123,51 @@ h2 {
     <h2><button class="button" type="button" onclick="switchbb()">Switch Big Blind</button></h2>
     <h2><button class="button" type="button" onclick="reset()">Reset</button></h2>
 
-    <h2>Pot: <div id="pot">0</div></h2>
     <table width="400px">
       <tr>
-        <td><h2><img src="bach.jpg" width="200px"></img></h2></td>
-        <td><h2><img src="7pmps2i1cs801.jpg" width="200px"></img></h2></td>
+        <td></td>
+        <td><h2><img src="bach.jpg" width="150px"></img></h2></td>
+        <td><h2><img src="7pmps2i1cs801.jpg" width="150px"></img></h2></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td> <h2>Pot: </h2></td>
+        <td> <h2> <div id="pot">0</div></h2></td>
+        <td></td>
       </tr>
       <tr>
         <td><h2>Chip Stack: <div id="chips_1">0</div></h2></td>
+
+        <td><h2><button class="button" type="button" onclick="call(0)">Call</button></h2></td>
+        <td><h2><button class="button" type="button" onclick="call(1)">Call</button></h2></td>
+
         <td><h2>Chip Stack: <div id="chips_2">0</div></h2></td>
       </tr>
       <tr>
         <td><h2><div id="status_1"></div></h2></td>
+
+        <td><h2><button class="button" type="button" onclick="raise(1,0)">Bet 1</button></h2></td>
+        <td><h2><button class="button" type="button" onclick="raise(1,1)">Bet 1</button></h2></td>
+
         <td><h2><div id="status_2"></div></h2></td>
+
       </tr>
       <tr>
         <td><h2>in pot: <div id="pots_1">0</div> </h2></td>
+
+        <td><h2><button class="button" type="button" onclick="raise(2,0)">Bet 2</button></h2></td>
+        <td><h2><button class="button" type="button" onclick="raise(2,1)">Bet 2</button></h2></td>
+
         <td><h2>in pot: <div id="pots_2">0</div> </h2></td>
       </tr>
       <tr>
         <td><h2>to call: <div id="tocall_1">0</div> </h2></td>
-        <td><h2>to call: <div id="tocall_2">0</div> </h2></td>
-      </tr>
-      <tr>
-        <td><h2><button class="button" type="button" onclick="call(0)">Call</button></h2></td>
-        <td><h2><button class="button" type="button" onclick="call(1)">Call</button></h2></td>
-      </tr>
 
-      <tr>
-        <td><h2><button class="button" type="button" onclick="raise(1,0)">Bet 1</button></h2></td>
-        <td><h2><button class="button" type="button" onclick="raise(1,1)">Bet 1</button></h2></td>
-      </tr>
-      <tr>
-        <td><h2><button class="button" type="button" onclick="raise(2,0)">Bet 2</button></h2></td>
-        <td><h2><button class="button" type="button" onclick="raise(2,1)">Bet 2</button></h2></td>
-      </tr>
-      <tr>
         <td><h2><button class="button" type="button" onclick="fold(0)">Fold / Lose</button></h2></td>
         <td><h2><button class="button" type="button" onclick="fold(1)">Fold / Lose</button></h2></td>
+
+        <td><h2>to call: <div id="tocall_2">0</div> </h2></td>
       </tr>
     </table>
   </div>
