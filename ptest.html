@@ -6,6 +6,16 @@
   max-width: 500px;
   margin: auto;
 }
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+}
 h2 {
     text-align: center;
 }
@@ -110,8 +120,8 @@ h2 {
 <body onload="initial()" align="center">
   <div class="content">
     <h2 ">POKER CHIPZ!!!!</h2>
-    <h2><button type="button" onclick="switchbb()">Switch Big Blind</button></h2>
-    <h2><button type="button" onclick="reset()">Reset</button></h2>
+    <h2><button class="button" type="button" onclick="switchbb()">Switch Big Blind</button></h2>
+    <h2><button class="button" type="button" onclick="reset()">Reset</button></h2>
 
     <h2>Pot: <div id="pot">0</div></h2>
     <table width="400px">
@@ -132,21 +142,21 @@ h2 {
         <td><h2>to call: <div id="tocall_2">0</div> </h2></td>
       </tr>
       <tr>
-        <td><h2><button type="button" onclick="call(0)">Call</button></h2></td>
-        <td><h2><button type="button" onclick="call(1)">Call</button></h2></td>
+        <td><h2><button class="button" type="button" onclick="call(0)">Call</button></h2></td>
+        <td><h2><button class="button" type="button" onclick="call(1)">Call</button></h2></td>
       </tr>
 
       <tr>
-        <td><h2><button type="button" onclick="raise(1,0)">Bet 1</button></h2></td>
-        <td><h2><button type="button" onclick="raise(1,1)">Bet 1</button></h2></td>
+        <td><h2><button class="button" type="button" onclick="raise(1,0)">Bet 1</button></h2></td>
+        <td><h2><button class="button" type="button" onclick="raise(1,1)">Bet 1</button></h2></td>
       </tr>
       <tr>
-        <td><h2><button type="button" onclick="raise(2,0)">Bet 2</button></h2></td>
-        <td><h2><button type="button" onclick="raise(2,1)">Bet 2</button></h2></td>
+        <td><h2><button class="button" type="button" onclick="raise(2,0)">Bet 2</button></h2></td>
+        <td><h2><button class="button" type="button" onclick="raise(2,1)">Bet 2</button></h2></td>
       </tr>
       <tr>
-        <td><h2><button type="button" onclick="fold(0)">Fold / Lose</button></h2></td>
-        <td><h2><button type="button" onclick="fold(1)">Fold / Lose</button></h2></td>
+        <td><h2><button class="button" type="button" onclick="fold(0)">Fold / Lose</button></h2></td>
+        <td><h2><button class="button" type="button" onclick="fold(1)">Fold / Lose</button></h2></td>
       </tr>
     </table>
   </div>
