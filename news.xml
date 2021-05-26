@@ -1,5 +1,19 @@
 <News>
   <Item>
+    <Date>05/21</Date>
+    <Header>Upcoming conferences: Cote d'Azur and Los Angeles</Header>
+    <Body>Tom is lead organizer of COSIRES 2022 conference, held on the beautiful island of Porquerolles</Body>
+    <Link>https://sites.google.com/view/COSIRES2020</Link>
+    <Body>He will also co-organize "New mathematics for the exascale", 03-06/2023, IPAM, UCLA</Body>
+    <Link>http://www.ipam.ucla.edu/programs/long-programs/new-mathematics-for-the-exascale-applications-to-materials-science/?tab=overview</Link>
+  </Item>
+  <Item>
+    <Date>04/21</Date>
+    <Header>Upcoming Talks</Header>
+    <Body>Tom will be givng invited talks at SIAM Bilbao and MRS Fall, the latter in person hopefully....</Body>
+    <Link>https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/detail/2021_mrs_fall_meeting/ds02/Symposium_DS02</Link>
+  </Item>
+  <Item>
     <Date>03/21</Date>
     <Header>New paper in Computational Materials Science</Header>
     <Body>Invited review article for "2020 Rising Stars in Computational Materials Science"</Body>

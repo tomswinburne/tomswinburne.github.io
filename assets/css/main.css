@@ -525,7 +525,9 @@ input, select, textarea {
 				.row.gtr-200.gtr-uniform > * {
 					padding-top: 80px;
 				}
-
+			.intro_cell_c {
+				text-align: center;
+			}
 			.intro_cell_l {
 				text-align: left;
 			}
@@ -1269,6 +1271,10 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 960px) {
+			.intro_cell_c {
+				display:block;
+				text-align: center;
+			}
 			.intro_cell_l {
 				display:block;
 				text-align: center;
