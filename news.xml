@@ -1,5 +1,19 @@
 <News>
   <Item>
+    <Date>10/21</Date>
+    <Header>Linear machine learning potentials for Fe,W</Header>
+    <Body>With group of M-C Marinica, CEA Saclay. The linear functional form allows for transparent fitting / error approximation, along with state-of-the-art accuracy!</Body>
+    <Link>https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.103803</Link>
+  </Item>
+  <Item>
+    <Date>10/21</Date>
+    <Header>Interstitial diffusion in disordered Ni3Al</Header>
+    <Body>With group of L-K Beland, Queen's University (CA). Our <![CDATA[<a href="#code">TAMMBER</a>]]> code was used
+    to rapidly characterize the complex energy landscape of this disordered system, allowing the parametrization of an accurate mean field model.
+   </Body>
+    <Link>https://www.sciencedirect.com/science/article/pii/S2589152921001836</Link>
+  </Item>
+  <Item>
     <Date>05/21</Date>
     <Header>Upcoming conferences: Cote d'Azur and Los Angeles</Header>
     <Body>Tom is lead organizer of COSIRES 2022, Porquerolles, 05/22</Body>
@@ -29,7 +43,7 @@
   <Item>
     <Date>11/20</Date>
     <Header>Petr Grigorev joins the group</Header>
-    <Body>He will use his expertise in atomistic simulations to spearhead UQ controlled exploration as part of the <![CDATA[<a href="#funding">ANR MeMoPas</a>]]> project. Welcome Petr!</Body>
+    <Body>He will use his expertise in atomistic simulations to spearhead UQ controlled exploration and advacned DFT methods as part of the <![CDATA[<a href="#funding">ANR MeMoPas</a>]]> project. Welcome Petr!</Body>
     <Link></Link>
   </Item>
   <Item>
