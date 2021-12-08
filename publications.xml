@@ -1,4 +1,12 @@
 <Publications>
+<Publication>
+    <Title>Synergistic coupling in ab initio-machine learning simulations of dislocations</Title>
+    <Authors>P Grigorev<![CDATA[<span>&#8224;</span>]]>, A Goryaeva, M-C Marinica, JR Kermode, TD Swinburne<![CDATA[<span>&#8224;</span>]]></Authors>
+    <Journal>arXiv</Journal>
+    <Year>2021</Year>
+    <Link>https://arxiv.org/abs/2111.11262</Link>
+  </Publication>
+
   <Publication>
     <Title>Uncertainty and anharmonicity in thermally activated dynamics</Title>
     <Authors>TD Swinburne<![CDATA[<span>&#8224;</span>]]></Authors>
