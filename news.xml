@@ -1,5 +1,17 @@
 <News>
   <Item>
+    <Date>12/21</Date>
+    <Header>Synergistic coupling in ab initio / machine learning</Header>
+    <Body>Petr's first paper from the <![CDATA[<a href="#funding">ANR MeMoPas</a>]]> project is out on arXiv! Encoding coupling constraints geometrically in the parameter space of linear machine learning potentials allows for world-first simulations of dislocation-defect interactions. It's getting quite a reaction!</Body>
+    <Link>https://arxiv.org/abs/2111.11262</Link>
+  </Item>
+  <Item>
+    <Date>11/21</Date>
+    <Header>COSIRES 2022 submissions are open DEADLINE 4th February 2022</Header>
+    <Body>Join us in Porquerolles to discuss the future of irradiation modelling in materials!</Body>
+    <Link>https://sites.google.com/view/COSIRES2020</Link>
+  </Item>
+  <Item>
     <Date>10/21</Date>
     <Header>Linear machine learning potentials for Fe,W</Header>
     <Body>With group of M-C Marinica, CEA Saclay. The linear functional form allows for transparent fitting / error approximation, along with state-of-the-art accuracy!</Body>
