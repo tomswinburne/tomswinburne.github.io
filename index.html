@@ -96,16 +96,12 @@
 			<section id="intro">
 				<div class="container">
 				<p>The design of more durable materials is key to reduce the carbon emissions
-					of construction, transportation and energy production. To achieve this requires
+					of construction, transportation and energy production. This requires
 					an understanding of mechanical strength and toughness at the level of
 					<a href="https://www.feynmanlectures.caltech.edu/I_01.html" target="_new">jiggling atoms</a>.</p>
-				<p><strong>We design tools to discover the atomic mechanisms of plasticity and diffusion: how metals bend and break.</strong></p>
-				<!--<
-				<p>As the range of atomic mechanisms is practically infinite, the challenge is to find the most influential, then characterize these accurately.
-				A particular focus is designing autonomous methods that harness massively parallel computers to rapidly search configurational space.
-				This requires the development of statistical uncertainty measures, coarse-grained modelling tools and data-efficient machine learning approaches.</p>
-				A better idea of our research interests can be found in our
-				<a href="#papers">publications</a> and <a href="#code">open source software</a>.-->
+				<p><strong>We design atomic simulation methods to discover how metals bend and break.</strong></p>
+				<p>The range of atomic deformation mechanisms is vast- the challenge is to <em>discover</em> and characterize the most influential.
+				A short summary is below; for more detail please see our <a href="#papers">publications</a> and <a href="#code">open source software</a>.</p>
 			</div>
 			</section>
 
@@ -147,10 +143,10 @@
 							</td>
 							<td class="intro_cell_l">
 								<p><strong>Autonomous exploration at scale: TAMMBER</strong></br>
-								At the peta/exascale, decisions must be made every few minutes
-								to optimally explore complex systems. TAMMBER uses novel Bayesian methods to autonomously allocate computational effort
-								only in the most relevant regions of configuration space,
-								building Monte Carlo (kMC/Markov) models with robust UQ measures.
+								In massively parallel computatation, decisions must be made every few minutes
+								to optimise resources. TAMMBER uses novel Bayesian methods to autonomously
+								allocate computational effort only in the most relevant regions of configuration space,
+								building kMC/Markov models with robust UQ.
 								<br>
 								<i>TDS<span>&#8224;</span> and D Perez, NPJ Computational Materials (2020)
 									<a href="https://www.nature.com/articles/s41524-020-00463-8.pdf"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
@@ -165,22 +161,19 @@
 						<tr>
 							<td class="intro_cell_l_img" >
 								<div class="imgbox">
-									<img class="center-fit" src="images/pafi_2.png"></img>
+									<img class="center-fit" src="images/pafi_3.png"></img>
 								</div>
 							</td>
 							<td class="intro_cell_l">
-								<p><strong>Anharmonic vibrational free energies: PAFI</strong></br>
-									PAFI is a linear-scaling, path-constrained sampling routine, whose original application is to
-									evaluate free energy barriers beyond harmonicity, allowing evaluation of e.g. twin and dislocation mobility laws.</br>
+								<p><strong>Vibrational free energies beyond harmonicity: PAFI</strong></br>
+									PAFI is a path-constrained sampling routine, which returns exact vibrational
+									free energy differences for linear-scaling effort. This enables evaluation of
+									activation free energies for very large systems of e.g. dislocation or twin
+									migration, which can not be treated by cubic-scaling HTST approximations.</br>
 								<i>
 								TDS<span>&#8224;</span> and M-C Marinica, PRL (2018)
 									<a href="pdf/Swinburne_Marinica_PRL_2018.pdf"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
 									<a href="https://github.com/tomswinburne/pafi"><span class="icon fa-github" alttext="code"></span> PAFI</a></i><br>
-								BLaSa is a lightening-fast mean field approach for phase free energies (PhD of R Dsouza since 2020).<br>
-								<i>
-								TDS<span>&#8224;</span> <i>et al.</i>, J Neugebauer PRB RC (2020)
-									<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.100101"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
-									<a href="https://github.com/tomswinburne/blasa"><span class="icon fa-github" alttext="code"></span> BLaSa</a></i>
 								</p>
 							</td>
 						</tr>
@@ -227,6 +220,27 @@
 								</p>
 							</td>
 						</tr>
+
+						<tr>
+							<td class="intro_cell_l_img" >
+								<div class="imgbox">
+									<img class="center-fit" src="images/blasa_2.png"></img>
+								</div>
+							</td>
+							<td class="intro_cell_l">
+								<p><strong>Mean-field models for anharmonic lattice vibrations</strong></br>
+									BLaSa is a lightening-fast mean field approach to evaluate vibrational phase free energies for
+									milliseconds of computational effort. For unary FCC we are within meV/atom of brute force
+									thermodynamic integration, requiring hours of effort. Current developments are within the PhD of R Dsouza since 2020.<br>
+									<i>
+									TDS<span>&#8224;</span> <i>et al.</i>, J Neugebauer PRB RC (2020)
+										<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.100101"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
+										<a href="https://github.com/tomswinburne/blasa"><span class="icon fa-github" alttext="code"></span> BLaSa</a></i>
+								</p>
+							</td>
+						</tr>
+
+
 					</table>
 				</div>
 			</section>
