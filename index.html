@@ -31,7 +31,7 @@
 					<nav id="nav">
 
 						<ul>
-							<li><a href="#intro" id="intro-link"><span class="icon fa-map">Overview</span></a></li>
+							<li><a href="#research" id="intro-link"><span class="icon fa-search">Research</span></a></li>
 							<li><a href="#team" id="team-link"><span class="icon fa-users">Team</span></a></li>
 							<li><a href="#news" id="news-link"><span class="icon fa-bullhorn">News</span></a></li>
 							<li><a href="#papers" id="papers-link"><span class="icon fa-file-pdf-o">Recent Publications</span></a></li>
@@ -65,12 +65,12 @@
 				<div class="container">
 
 					<header>
-						<!--<h2 class="alt">Swinburne Group</h2>-->
-						<h3>Using computers to understand the atomic structure of materials</h3>
+						<h2 class="alt">TD Swinburne</h2>
+						<br>
+						<!--<h3>Computational discovery of how metals bend and break</h3>-->
 						<h3><a href="http://www.cnrs.fr">
 						<img src="images/cnrs.png" alt="CNRS" style="max-width:200px;max-height:153px;"></img>
 						</a>
-						&nbsp;
 						&nbsp;
 						<a href="http://www.cinam.univ-mrs.fr/cinam/">
 						<img src="images/cinam.png" alt="CINaM" style="max-width:200px;max-height:153px;"></img>
@@ -95,49 +95,141 @@
 			<!-- CV / Bio -->
 			<section id="intro">
 				<div class="container">
-					<table style="max-width:100%">
-						<tr>
-							<td class="intro_cell_c">
-								<div class="imgbox">
-									<img class="center-fit" src="images/tammber_sm.png"></img>
-								</div>
-							</br>
-								<strong>UQ-aware sampling at scale</strong></br>
-								<i>Bayesian control of supercomputers to build models we can trust</i>
-							</td>
-							<td class="intro_cell_c">
-								<div class="imgbox">
-									<img class="center-fit" src="images/pafi_sm.jpg"></img>
-								</div>
-							</br>
-								<strong>Vibrational thermodynamics</strong></br>
-								<i>Going beyond harmonic theories to connect simulation and experiment</i>
-							</td>
-							<td class="intro_cell_c">
-								<div class="imgbox">
-									<img class="center-fit" src="images/qmmm.jpg"></img>
-								</div>
-							</br>
-								<strong>Hybrid DFT/ML-MD methods</strong></br>
-								<i>Extending ab initio simulations with machine learning</i>
-							</td>
-						</tr>
-					</table>
 				<p>The design of more durable materials is key to reduce the carbon emissions
 					of construction, transportation and energy production. To achieve this requires
 					an understanding of mechanical strength and toughness at the level of
 					<a href="https://www.feynmanlectures.caltech.edu/I_01.html" target="_new">jiggling atoms</a>.</p>
-
-				<p>We design theoretical and numerical tools to discover the atomic mechanisms by which solid materials bend and break.
-				As the range of possibilities is practically infinite, the challenge is to find the most influential, then characterize these accurately.
+				<p><strong>We design tools to discover the atomic mechanisms of plasticity and diffusion: how metals bend and break.</strong></p>
+				<!--<
+				<p>As the range of atomic mechanisms is practically infinite, the challenge is to find the most influential, then characterize these accurately.
 				A particular focus is designing autonomous methods that harness massively parallel computers to rapidly search configurational space.
 				This requires the development of statistical uncertainty measures, coarse-grained modelling tools and data-efficient machine learning approaches.</p>
-
 				A better idea of our research interests can be found in our
-				<a href="#papers">publications</a> and <a href="#code">open source software</a>.
+				<a href="#papers">publications</a> and <a href="#code">open source software</a>.-->
 			</div>
 			</section>
-			<!--if (this.readyState == 4 && this.status == 200) {}-->
+
+			<section id="research">
+				<div class="container">
+					<header>
+						<h2><i class="icon fa-search"></i>&nbsp;&nbsp;Main Research Themes</h2>
+					</header>
+
+					<table style="max-width:100%">
+						<tr>
+							<td class="intro_cell_l_img" >
+								<div class="imgbox">
+									<img class="center-fit" src="images/QMML_4.png"></img>
+								</div>
+							</td>
+							<td class="intro_cell_l">
+								<p><strong>ML-assisted DFT for dislocation-defect interations</strong></br>
+								(Postdoc of Petr Grigorev)<br>
+								<i>Ab initio</i> methods such as DFT are essential to
+								train and validate atomic models, but extended defects are at or beyond current computational limits.
+								We design efficient methods to <i>embed</i>
+								DFT accuracy only where it is needed, using custom-built machine learning interatomic potentials.
+								This builds on earlier developments that enabled energy calculations.
+								<br>
+								<i>P Grigorev <i>et al.</i>, TDS<span>&#8224;</span>, arXiv (2022)
+									<a href="https://arxiv.org/pdf/2111.11262.pdf" target ="_new"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
+									<a href="https://github.com/marseille-matmol/LML-retrain" target ="_new"><span class="icon fa-github" alttext="code"></span></a></li>
+								<br>TDS<span>&#8224;</span> and JR Kermode, PRB (2017)
+									<a href="pdf/Swinburne_Kermode_PRB_2017.pdf" target ="_new"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a></i>
+								</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="intro_cell_l_img" >
+								<div class="imgbox">
+									<img class="center-fit" src="images/tammber_2.png"></img>
+								</div>
+							</td>
+							<td class="intro_cell_l">
+								<p><strong>Autonomous exploration at scale: TAMMBER</strong></br>
+								At the peta/exascale, decisions must be made every few minutes
+								to optimally explore complex systems. TAMMBER uses novel Bayesian methods to autonomously allocate computational effort
+								only in the most relevant regions of configuration space,
+								building Monte Carlo (kMC/Markov) models with robust UQ measures.
+								<br>
+								<i>TDS<span>&#8224;</span> and D Perez, NPJ Computational Materials (2020)
+									<a href="https://www.nature.com/articles/s41524-020-00463-8.pdf"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
+									<a href="https://github.com/tomswinburne/tammber"><span class="icon fa-github" alttext="code"></span> TAMMBER</a>
+								<br>
+								TDS<span>&#8224;</span> and D Perez, PR Materials (2018)
+									<a href="pdf/Swinburne_Perez_2018.pdf"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
+								</i>
+								</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="intro_cell_l_img" >
+								<div class="imgbox">
+									<img class="center-fit" src="images/pafi_2.png"></img>
+								</div>
+							</td>
+							<td class="intro_cell_l">
+								<p><strong>Anharmonic vibrational free energies: PAFI</strong></br>
+									PAFI is a linear-scaling, path-constrained sampling routine, whose original application is to
+									evaluate free energy barriers beyond harmonicity, allowing evaluation of e.g. twin and dislocation mobility laws.</br>
+								<i>
+								TDS<span>&#8224;</span> and M-C Marinica, PRL (2018)
+									<a href="pdf/Swinburne_Marinica_PRL_2018.pdf"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
+									<a href="https://github.com/tomswinburne/pafi"><span class="icon fa-github" alttext="code"></span> PAFI</a></i><br>
+								BLaSa is a lightening-fast mean field approach for phase free energies (PhD of R Dsouza since 2020).<br>
+								<i>
+								TDS<span>&#8224;</span> <i>et al.</i>, J Neugebauer PRB RC (2020)
+									<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.100101"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
+									<a href="https://github.com/tomswinburne/blasa"><span class="icon fa-github" alttext="code"></span> BLaSa</a></i>
+								</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="intro_cell_l_img" >
+								<div class="imgbox">
+									<img class="center-fit" src="images/lml_1.png"></img>
+								</div>
+							</td>
+							<td class="intro_cell_l">
+								<p><strong>ML-boostrapping of defect informatics</strong></br>
+									(Thesis of Clovis Lapointe)<br>
+									We have applied a machine learning formalism typically used for energetics to predict the formation
+									and migration entropy of defects. This can be used for predictive modelling and
+									to "bootstrap" informatics - resample to reduce variance or discover correlations.
+								<br>
+								<i>
+								C Lapointe<span>&#8224;</span> et al. Submitted (2022)</br>
+								C Lapointe<span>&#8224;</span> et al. PRMaterials (2020)
+									<a href="pdf/LaPointeSwinburneMarinica2020.pdf"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a></i>
+								</p>
+							</td>
+						</tr>
+
+						<tr>
+							<td class="intro_cell_l_img" >
+								<div class="imgbox">
+									<img class="center-fit" src="images/mm_analysis.png"></img>
+								</div>
+							</td>
+							<td class="intro_cell_l">
+								<p><strong>Analysis of Markov Models</strong></br>
+								Much atomic data (from TAMMBER or other codes) is a connected network of metastable states, which
+								can be mapped to a discrete state Markov model, or master equation. We have developed tools to automatically propagate atomic data, with UQ, to drift-diffusion equations or first passage distributions between distant regions.
+								<br>
+								<i>TDS<span>&#8224;</span> and D Perez, arXiv (2022)
+									<a href="https://arxiv.org/pdf/2110.15081"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
+									 <a href="https://github.com/tomswinburne/ReactionDriftDiffusion/"><span class="icon fa-github" alttext="code"></span></a>
+									 <br>
+								TDS<span>&#8224;</span> and DJ Wales, JCTC (2020)
+									<a href="pdf/Swinburne_Wales_2020.pdf"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
+									 <a href="https://github.com/tomswinburne/PyGT/"><span class="icon fa-github" alttext="code"></span>
+									 </a></i>
+								</p>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</section>
 			<!-- Position -->
 			<section id="team">
 				<div class="container">
@@ -201,7 +293,7 @@
 							<td class="intro_cell_c">
 							</td>
 							<td class="intro_cell_l">
-								<strong>09/18-09/22:</strong>&nbsp;
+								<strong>09/20-09/23:</strong>&nbsp;
 								PhD, mean field vibration models. External with Prof J Neugebauer, MPIE Dusseldorf
 							</td>
 						</tr>
@@ -344,27 +436,37 @@
 						<h2><span class="icon fa-code">&nbsp;&nbsp;Software</h2>
 					</header>
 					<dl>
-						<dt><li style="font-family:'Source Code Pro',monospace;">PAFI- Projected Average Force Integrator</ul></li></br>
-							<dd><a href="https://github.com/tomswinburne/pafi" target ="_new"><em>Anharmonic free energy barrier evaluations using in LAMMPS/MPI/C++</em>&nbsp;<span class="icon fa-github"></span></a></br></br>
-							<a href="pdf/Swinburne_Marinica_PRL_2018.pdf"><em>Physical Review Letters 2018</em>&nbsp;<span class="icon fa-file-pdf-o"></span></a></br></br>
-							<img style="max-width:50%;height:auto;border:1px solid #888;" src="images/pafi.png"></img>
+						<dt><li style="font-family:'Source Code Pro',monospace;">PAFI- Projected Average Force Integrator</ul></li>
+							<dd><a href="https://github.com/tomswinburne/pafi" target ="_new"><em>Anharmonic free energy barrier evaluations using in LAMMPS/MPI/C++</em>&nbsp;<span class="icon fa-github"></span></a></br>
+							<a href="pdf/Swinburne_Marinica_PRL_2018.pdf"><em>Physical Review Letters 2018</em>&nbsp;<span class="icon fa-file-pdf-o"></span></a></br>
+							<img style="max-width:50%;height:auto;border:1px solid #888;" src="images/pafi.png"></img></br>
+							<i>Works using PAFI (more coming soon...)</br>
+							<a href="https://www.tandfonline.com/doi/full/10.1080/21663831.2021.1875079">Y Sato <i>et al.</i>, D Rodney MRL (2021) <span class="icon fa-file-pdf-o" alttext="pdf"></span></a></i>
 							</dd>
 						</br></br></br>
-						 <dt><li style="font-family:'Source Code Pro',monospace;">TAMMBER- Temperature Accelerated Markov Models with Bayesian Estimation of Rates</li></br>
-                                                        <dd><a href="https://github.com/tomswinburne/tammber" target ="_new"><em>Branch of ParSplice code for massively parallel rate matrix contruction</em>&nbsp;<span class="icon fa-github"></span></a></br></br>
-                                                        <a href="pdf/Swinburne_Perez_2018.pdf"><em>Physical Review Materials 2018</em>&nbsp;<span class="icon fa-file-pdf-o"></span></a></br></br>
-                                                        <img style="max-width:50%;height:auto;border:1px solid #888;" src="images/tammber.png"></img>
-                                                        </dd>
-                                                </br></br></br>
-						<dt><li style="font-family:'Source Code Pro',monospace;">PyGT- Graph Transformation in Python</ul></li></br>
-							<dd><a href="https://pygt.readthedocs.io" target ="_new"><em>Stable analysis of metastable Markov chains</em>&nbsp;<span class="icon fa-book"></span></a>&nbsp;<a href="https://github.com/tomswinburne/PyGT" target ="_new"><span class="icon fa-github"></span></a></br></br>
-							<a href="pdf/Swinburne_Wales_2020.pdf"><em>J Chem. Th. Comp. 2020</em>&nbsp;<span class="icon fa-file-pdf-o"></span></a></br></br>
-							<img style="max-width:50%;height:auto;border:1px solid #888;" src="images/PyGT.png"></img>
+						 <dt><li style="font-family:'Source Code Pro',monospace;">TAMMBER- Temperature Accelerated Markov Models, Bayesian Estimation of Rates</li>
+							 <dd><a href="https://github.com/tomswinburne/tammber" target ="_new"><em>Massively parallel, autonmous exploration of atomic systems</em>&nbsp;<span class="icon fa-github"></span></a>
+							 </br>
+								 <a href="pdf/Swinburne_Perez_2018.pdf"><em>Physical Review Materials 2018</em>&nbsp;<span class="icon fa-file-pdf-o"></span></a></br>
+								 <i><a href="https://www.nature.com/articles/s41524-020-00463-8.pdf">TDS<span>&#8224;</span> and D Perez, NPJ Computational Materials (2020) <span class="icon fa-file-pdf-o" alttext="pdf"></span></a></i><br>
+								 <img style="max-width:50%;height:auto;border:1px solid #888;" src="images/tammber.png"></img><br>
+								 <i>Works using TAMMBER (more coming soon...)</br>
+								 <a href="https://www.sciencedirect.com/science/article/abs/pii/S2589152921001836"><i>K Ferasat et al., Materialia (2021)</i><span class="icon fa-file-pdf-o" alttext="pdf"></span></a></i>
 							</dd>
 						</br></br></br>
-						<dt><li style="font-family:'Source Code Pro',monospace;">BLaSa- Bond Lattice Sampling and Analytics</li></br>
-							<dd><a href="https://github.com/tomswinburne/blasa" target ="_new"><em>Execution and analysis of bond lattice dynamics</em>&nbsp;<span class="icon fa-github"></span></a></br></br>
-							<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.100101"><em>Physical Review B Rapid Communications 2020</em>&nbsp;<span class="icon fa-file-pdf-o"></span></a></br></br>
+						<dt><li style="font-family:'Source Code Pro',monospace;">PyGT- Graph Transformation in Python</ul></li>
+							<dd><a href="https://pygt.readthedocs.io" target ="_new"><em>Stable analysis of metastable Markov chains</em>&nbsp;<span class="icon fa-book"></span></a>&nbsp;<a href="https://github.com/tomswinburne/PyGT" target ="_new"><span class="icon fa-github"></span></a></br>
+							<a href="pdf/Swinburne_Wales_2020.pdf"><em>J Chem. Th. Comp. 2020</em>&nbsp;<span class="icon fa-file-pdf-o"></span></a></br>
+							<img style="max-width:50%;height:auto;border:1px solid #888;" src="images/PyGT.png"></img><br>
+							<i>Works using PyGT (more coming soon...)</br>
+								<a href="https://hal.archives-ouvertes.fr/hal-02958853/file/swinburne_sharpe_kannan_wales_2020.pdf"><i>TDS et al. JCP (2020)</i><span class="icon fa-file-pdf-o" alttext="pdf"></span></a><br>
+								<a href="https://hal.archives-ouvertes.fr/hal-03090008/file/KSSW_JCP_2020_Main_Text%281%29.pdf"><i>D Kannan et al. JCP (2021)</i><span class="icon fa-file-pdf-o" alttext="pdf"></span></a><br>
+							</i>
+							</dd>
+						</br></br></br>
+						<dt><li style="font-family:'Source Code Pro',monospace;">BLaSa- Bond Lattice Sampling and Analytics</li>
+							<dd><a href="https://github.com/tomswinburne/blasa" target ="_new"><em>Execution and analysis of bond lattice dynamics</em>&nbsp;<span class="icon fa-github"></span></a></br>
+							<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.100101"><em>Physical Review B Rapid Communications 2020</em>&nbsp;<span class="icon fa-file-pdf-o"></span></a></br>
 							<img style="max-width:70%;height:auto;border:1px solid #888;" src="images/blasa.png"></img>
 							</dd>
 					</dl>
