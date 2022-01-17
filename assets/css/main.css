@@ -544,9 +544,11 @@ input, select, textarea {
 			.intro_cell_l {
 				text-align: left;
 				max-width: 500px;
+				min-width: 300px;
 			}
 			.intro_cell_l_img {
-				text-align: left;
+				display:block;
+				text-align: right;
 				max-width: 500px;
 				min-width: 300px;
 			}
@@ -1297,9 +1299,16 @@ input, select, textarea {
 			.intro_cell_l {
 				display:block;
 				text-align: center;
-				max-width: 500px;
+				max-width: 600px;
 				min-width: 300px;
 			}
+			.intro_cell_l_img {
+				display:block;
+				text-align: center;
+				max-width: 600px;
+				min-width: 300px;
+			}
+
 			.intro_cell_r {
 				display:block;
 				text-align: center;
