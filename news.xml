@@ -1,48 +1,60 @@
 <News>
   <Item>
-    <Date>12/21</Date>
-    <Header>Synergistic coupling in ab initio / machine learning</Header>
-    <Body>Petr's first paper from the <![CDATA[<a href="#funding">ANR MeMoPas</a>]]> project is out on arXiv! Encoding coupling constraints geometrically in the parameter space of linear machine learning potentials allows for world-first simulations of dislocation-defect interactions!</Body>
-    <Link>https://arxiv.org/abs/2111.11262</Link>
-  </Item>
-  <Item>
-    <Date>11/21</Date>
-    <Header>COSIRES 2022 submissions are open DEADLINE 4th February 2022</Header>
-    <Body>Join us in Porquerolles to discuss the future of irradiation modelling in materials!</Body>
-    <Link>https://sites.google.com/view/COSIRES2020</Link>
-  </Item>
-  <Item>
-    <Date>10/21</Date>
-    <Header>Linear machine learning potentials for Fe,W</Header>
-    <Body>With group of M-C Marinica, CEA Saclay. The linear functional form allows for transparent fitting / error approximation, along with state-of-the-art accuracy!</Body>
-    <Link>https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.103803</Link>
-  </Item>
-  <Item>
-    <Date>10/21</Date>
-    <Header>Interstitial diffusion in disordered Ni3Al</Header>
-    <Body>With group of L-K Beland, Queen's University (CA). Our <![CDATA[<a href="#code">TAMMBER</a>]]> code was used
-    to rapidly characterize the complex energy landscape of this disordered system, allowing the parametrization of an accurate mean field model.
-   </Body>
-    <Link>https://www.sciencedirect.com/science/article/pii/S2589152921001836</Link>
-  </Item>
-  <Item>
-    <Date>05/21</Date>
-    <Header>Upcoming conferences: Cote d'Azur and Los Angeles</Header>
-    <Body>Tom is lead organizer of COSIRES 2022, Porquerolles, 05/22</Body>
-    <Link>https://sites.google.com/view/COSIRES2020</Link>
-    <Body>and co-organizer of one week in the "New mathematics for the exascale" program, 03-06/2023, IPAM, UCLA</Body>
-    <Link>http://www.ipam.ucla.edu/programs/long-programs/new-mathematics-for-the-exascale-applications-to-materials-science/?tab=overview</Link>
-  </Item>
-  <Item>
-    <Date>04/21</Date>
-    <Header>Upcoming Talks</Header>
-    <Body>Tom will be giving invited talks at SIAM Bilbao and MRS Fall</Body>
-    <Link>https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/detail/2021_mrs_fall_meeting/ds02/Symposium_DS02</Link>
-    <Body>the latter in person hopefully...</Body>
-  </Item>
-  <Item>
-    <Date>03/21</Date>
-    <Header>New paper in Computational Materials Science</Header>
+    <Date>02/22</Date>
+    <Header>Petr's paper on ReproHack</Header>
+    <Body>Reproducibility, the ability to reproduce reported results from underlying data, computer code and reported methodology, are essential for modern computational science. ReproHack is a new effort to demonstrate good practice in reproducible research, and Petr's paper is a great example! </Body>
+    <Link>https://www.reprohack.org/paper/61/</Link>
+</Item>
+<Item>
+<Date>01/22</Date>
+<Header>Congratulation Dr Lapointe!</Header>
+<Body>Clovis passed his PhD viva with flying colours! Fantastic work on developing data-driven linear models and accelerated sampling schemes for point defect thermodynamics. Congratulations Clovis!</Body>
+</Item>
+
+<Item>
+<Date>12/21</Date>
+<Header>Synergistic coupling in ab initio / machine learning</Header>
+<Body>Petr's first paper from the <![CDATA[<a href="#funding">ANR MeMoPas</a>]]> project is out on arXiv! Encoding coupling constraints geometrically in the parameter space of linear machine learning potentials allows for world-first simulations of dislocation-defect interactions!</Body>
+<Link>https://arxiv.org/abs/2111.11262</Link>
+</Item>
+<Item>
+<Date>11/21</Date>
+<Header>COSIRES 2022 submissions are open DEADLINE 4th February 2022</Header>
+<Body>Join us in Porquerolles to discuss the future of irradiation modelling in materials!</Body>
+<Link>https://sites.google.com/view/COSIRES2020</Link>
+</Item>
+<Item>
+<Date>10/21</Date>
+<Header>Linear machine learning potentials for Fe,W</Header>
+<Body>With group of M-C Marinica, CEA Saclay. The linear functional form allows for transparent fitting / error approximation, along with state-of-the-art accuracy!</Body>
+<Link>https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.103803</Link>
+</Item>
+<Item>
+<Date>10/21</Date>
+<Header>Interstitial diffusion in disordered Ni3Al</Header>
+<Body>With group of L-K Beland, Queen's University (CA). Our <![CDATA[<a href="#code">TAMMBER</a>]]> code was used
+to rapidly characterize the complex energy landscape of this disordered system, allowing the parametrization of an accurate mean field model.
+</Body>
+<Link>https://www.sciencedirect.com/science/article/pii/S2589152921001836</Link>
+</Item>
+<Item>
+<Date>05/21</Date>
+<Header>Upcoming conferences: Cote d'Azur and Los Angeles</Header>
+<Body>Tom is lead organizer of COSIRES 2022, Porquerolles, 05/22</Body>
+<Link>https://sites.google.com/view/COSIRES2020</Link>
+<Body>and co-organizer of one week in the "New mathematics for the exascale" program, 03-06/2023, IPAM, UCLA</Body>
+<Link>http://www.ipam.ucla.edu/programs/long-programs/new-mathematics-for-the-exascale-applications-to-materials-science/?tab=overview</Link>
+</Item>
+<Item>
+<Date>04/21</Date>
+<Header>Upcoming Talks</Header>
+<Body>Tom will be giving invited talks at SIAM Bilbao and MRS Fall</Body>
+<Link>https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/detail/2021_mrs_fall_meeting/ds02/Symposium_DS02</Link>
+<Body>the latter in person hopefully...</Body>
+</Item>
+<Item>
+<Date>03/21</Date>
+<Header>New paper in Computational Materials Science</Header>
     <Body>Invited review article for "2020 Rising Stars in Computational Materials Science"</Body>
     <Link>https://doi.org/10.1016/j.commatsci.2020.110256</Link>
   </Item>
