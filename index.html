@@ -31,9 +31,9 @@
 					<nav id="nav">
 
 						<ul>
+							<li><a href="#news" id="news-link"><span class="icon fa-bullhorn">News</span></a></li>
 							<li><a href="#research" id="intro-link"><span class="icon fa-search">Research</span></a></li>
 							<li><a href="#team" id="team-link"><span class="icon fa-users">Team / Collaborators</span></a></li>
-							<li><a href="#news" id="news-link"><span class="icon fa-bullhorn">News</span></a></li>
 							<li><a href="#papers" id="papers-link"><span class="icon fa-file-pdf-o">Recent Publications</span></a></li>
 							<li><a href="#code" id="code-link"><span class="icon fa-code">Software</span></a></li>
 							<li><a href="#funding" id="funding-link"><span class="icon fa-euro">Funding</span></a></li>
@@ -95,7 +95,7 @@
 			<!-- CV / Bio -->
 			<section id="intro">
 				<div class="container">
-				<p><i>PLEASE NOTE MY NEW EMAIL ADDRESS: thomas.swinburne <a href="https://commons.wikimedia.org/wiki/File:19-manasses-chronicle.jpg" target="_new"><img src="images/arrabo.jpg" height="22" alttext="at"></img></a> cnrs.fr</i></p>
+				<p><i>PLEASE NOTE NEW EMAIL ADDRESS: thomas.swinburne <a href="https://commons.wikimedia.org/wiki/File:19-manasses-chronicle.jpg" target="_new"><img src="images/arrabo.jpg" height="22" alttext="at"></img></a> cnrs.fr</i></p>
 				<p>The design of more durable materials is key to reduce the carbon emissions
 					of construction, transportation and energy production. This requires
 					an understanding of mechanical strength and toughness at the level of
@@ -104,6 +104,52 @@
 				<p>The range of atomic deformation mechanisms is vast- the challenge is to <em>discover</em> and characterize the most influential.
 				A short summary is below; for more detail please see our <a href="#papers">publications</a> and <a href="#code">open source software</a>.</p>
 			</div>
+			</section>
+
+			<!-- News -->
+			<section id="news" class="two">
+				<div class="container">
+					<header><h2><span class="icon fa-bullhorn">&nbsp;&nbsp;News</h2></header>
+					<div id="newslist"></div>
+
+					<script language="JavaScript">
+						var Connect = new XMLHttpRequest();
+						Connect.open("GET", "news.xml");
+						Connect.setRequestHeader("Content-Type", "text/xml");
+						Connect.send();
+						Connect.onload = function() {
+							var TheDocument = this.responseXML;
+							var Items = TheDocument.childNodes[0];
+							var i = 0;
+							var text = "";
+							for (; i < Items.children.length; i++) {
+								var Item = Items.children[i];
+								var Date = Item.getElementsByTagName("Date");
+								var Header = Item.getElementsByTagName("Header");
+								var Body = Item.getElementsByTagName("Body");
+								var Link = Item.getElementsByTagName("Link");
+								if (i==3) text += "<details><summary> <i><a>More news...</a></i></summary><br>";
+								text += "<h4><strong><span class=\"icon fa-bullhorn\"></span>&nbsp;";
+								text += Date[0].textContent.toString();
+								text += "&nbsp; ";
+								text += Header[0].textContent.toString();
+								text += "</strong></br>";
+								var j=0;
+								for (; j < Body.length; j++) {
+									text += Body[j].textContent.toString();
+									if(Link.length>j && Link[j].textContent.toString().length > 2) {
+										text += " (<a href=\"";
+										text += Link[j].textContent.toString();
+										text += "\" target=_new>Link</a>) ";
+									}
+								}
+								text += "</h4></br>";
+							}
+							if (i>=3)	text += "</details>";
+							document.getElementById('newslist').innerHTML = text;
+						}
+					</script>
+				</div>
 			</section>
 
 			<section id="research">
@@ -245,8 +291,9 @@
 					</table>
 				</div>
 			</section>
+
 			<!-- Position -->
-			<section id="team">
+			<section id="team" class="two">
 				<div class="container">
 					<header>
 						<h2><span class="icon fa-users">&nbsp;&nbsp;Team</h2>
@@ -407,52 +454,6 @@
 
 				</div>
 			</section>
-			<!-- News -->
-			<section id="news" class="two">
-				<div class="container">
-					<header><h2><span class="icon fa-bullhorn">&nbsp;&nbsp;News</h2></header>
-						<div id="newslist"></div>
-
-						<script language="JavaScript">
-							var Connect = new XMLHttpRequest();
-							Connect.open("GET", "news.xml");
-							Connect.setRequestHeader("Content-Type", "text/xml");
-							Connect.send();
-							Connect.onload = function() {
-								var TheDocument = this.responseXML;
-								var Items = TheDocument.childNodes[0];
-								var i = 0;
-								var text = "";
-								for (; i < Items.children.length; i++) {
-									var Item = Items.children[i];
-									var Date = Item.getElementsByTagName("Date");
-									var Header = Item.getElementsByTagName("Header");
-									var Body = Item.getElementsByTagName("Body");
-									var Link = Item.getElementsByTagName("Link");
-									if (i==5) text += "<details><summary> <i><a>More news...</a></i></summary><br>";
-									text += "<h4><strong><span class=\"icon fa-bullhorn\"></span>&nbsp;";
-									text += Date[0].textContent.toString();
-									text += "&nbsp; ";
-									text += Header[0].textContent.toString();
-									text += "</strong></br>";
-									var j=0;
-									for (; j < Body.length; j++) {
-										text += Body[j].textContent.toString();
-										if(Link.length>j && Link[j].textContent.toString().length > 2) {
-											text += " (<a href=\"";
-											text += Link[j].textContent.toString();
-											text += "\" target=_new>Link</a>) ";
-										}
-									}
-									text += "</h4></br>";
-								}
-								if (i>=5)	text += "</details>";
-								document.getElementById('newslist').innerHTML = text;
-							}
-						</script>
-				</div>
-			</section>
-
 
 			<!-- Papers -->
 			<section id="papers">
@@ -575,7 +576,7 @@
 				</div>
 			</section>
 			<!-- Position -->
-			<section id="jobs">
+			<section id="jobs" class="two">
 				<div class="container">
 					<header>
 						<h2><span class="icon fa-user-plus">&nbsp;&nbsp;Job Openings</h2>
@@ -593,7 +594,8 @@
 					</dl>
 				</div>
 			</section>
-			<section id="slides" class="two">
+
+			<section id="slides">
 				<div class="container">
 					<header>
 						<h2><span class="icon fa-tv">&nbsp;&nbsp;Some Presentations </h2>
@@ -632,12 +634,12 @@
 		</div>
 
 		<!-- Footer -->
-			<div id="footer">
-				<!-- Copyright -->
-					<ul class="copyright">
-						<li>&copy; TD Swinburne 2021. All rights reserved.</li><li>Modification of <a href="http://html5up.net">HTML5 UP</a> template</li>
-					</ul>
-			</div>
+		<div id="footer">
+			<!-- Copyright -->
+				<ul class="copyright">
+					<li>&copy; TD Swinburne 2021. All rights reserved.</li><li>Modification of <a href="http://html5up.net">HTML5 UP</a> template</li>
+				</ul>
+		</div>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
