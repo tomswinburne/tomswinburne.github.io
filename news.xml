@@ -1,9 +1,9 @@
 <News>
   <Item>
     <Date>03/22</Date>
-    <Header>Invited MSMSE paper on data-driven reaction-diffusion models</Header>
-    <Body>With Danny Perez, LANL. Invited paper as part of the 2021 "emerging leaders". Building coarse-grained defect models typically needs a lot of user supervision to keep the model small and efficient.
-      We designed a data-driven alternative, applying Bloch's theorem to Markov models and reinterpreting clustering algorithms first used in biochemistry. Preprint:</Body>
+    <Header>Invited paper on reaction-diffusion models for MSMSE's "emerging leaders"</Header>
+    <Body>With Danny Perez, LANL. Models for defect diffusion typically require human construction to keep them efficient;
+      we designed a data-driven approach using clustering algorithms with Bloch's theorem for efficient spectral analysis. Preprint:</Body>
     <Link>https://arxiv.org/pdf/2110.15081</Link>
     <Body>Code:</Body>
     <Link>https://github.com/tomswinburne/ReactionDiffusion</Link>
