@@ -1,9 +1,20 @@
 <News>
   <Item>
-    <Date>02/22</Date>
-    <Header>Petr's paper on ReproHack</Header>
-    <Body>Reproducibility, the ability to reproduce reported results from underlying data, computer code and reported methodology, are essential for modern computational science. ReproHack is a new effort to demonstrate good practice in reproducible research, and Petr's paper is a great example! </Body>
-    <Link>https://www.reprohack.org/paper/61/</Link>
+    <Date>03/22</Date>
+    <Header>Invited MSMSE paper on data-driven reaction-diffusion models</Header>
+    <Body>With Danny Perez, LANL. Invited paper as part of the 2021 "emerging leaders". Building coarse-grained defect models typically needs a lot of user supervision to keep the model small and efficient.
+      We designed a data-driven alternative, applying Bloch's theorem to Markov models and reinterpreting clustering algorithms first used in biochemistry. Preprint:</Body>
+    <Link>https://arxiv.org/pdf/2110.15081</Link>
+    <Body>Code:</Body>
+    <Link>https://github.com/tomswinburne/ReactionDiffusion</Link>
+    <Body>Paper:</Body>
+    <Link>https://iopscience.iop.org/article/10.1088/1361-651X/ac54c5/meta</Link>
+  </Item>
+<Item>
+  <Date>02/22</Date>
+  <Header>Petr's paper on ReproHack</Header>
+  <Body>Reproducibility, the ability to reproduce reported results from underlying data, computer code and reported methodology, are essential for modern computational science. ReproHack is a new effort to demonstrate good practice in reproducible research, and Petr's paper is a great example! </Body>
+  <Link>https://www.reprohack.org/paper/61/</Link>
 </Item>
 <Item>
 <Date>01/22</Date>
@@ -25,7 +36,7 @@
 </Item>
 <Item>
 <Date>10/21</Date>
-<Header>Linear machine learning potentials for Fe,W</Header>
+<Header>PRMaterials paper on linear ML potentials for Fe and W</Header>
 <Body>With group of M-C Marinica, CEA Saclay. The linear functional form allows for transparent fitting / error approximation, along with state-of-the-art accuracy!</Body>
 <Link>https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.103803</Link>
 </Item>
