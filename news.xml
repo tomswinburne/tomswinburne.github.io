@@ -1,15 +1,27 @@
 <News>
-  <Item>
-    <Date>03/22</Date>
-    <Header>Invited paper on reaction-diffusion models for MSMSE's "emerging leaders"</Header>
-    <Body>With Danny Perez, LANL. Models for defect diffusion typically require human construction to keep them efficient;
-      we designed a data-driven approach using clustering algorithms with Bloch's theorem for efficient spectral analysis. Preprint:</Body>
-    <Link>https://arxiv.org/pdf/2110.15081</Link>
-    <Body>Code:</Body>
-    <Link>https://github.com/tomswinburne/ReactionDiffusion</Link>
-    <Body>Paper:</Body>
-    <Link>https://iopscience.iop.org/article/10.1088/1361-651X/ac54c5/meta</Link>
-  </Item>
+<Item>
+  <Date>09/22</Date>
+  <Header>PCCP paper "Capabilities and limits of autoencoders for extracting
+		collective variables in atomistic materials science"</Header>
+  <Body>With J. Baima and Marinica Group, CEA Saclay. Collective variables are an
+		essential compenent of enhanced sampling approaches, but they can be very
+		challenging to define. (See <![CDATA[<a href="#code">PAFI</a>]]>).
+		This work investigates the ability of deep learning techniques to
+		solve this problem.
+  <Body>Paper:</Body>
+  <Link>https://doi.org/10.1039/D2CP01917E</Link>
+</Item>
+<Item>
+  <Date>03/22</Date>
+  <Header>Invited paper on reaction-diffusion models for MSMSE's "emerging leaders"</Header>
+  <Body>With Danny Perez, LANL. Models for defect diffusion typically require human construction to keep them efficient;
+    we designed a data-driven approach using clustering algorithms with Bloch's theorem for efficient spectral analysis. Preprint:</Body>
+  <Link>https://arxiv.org/pdf/2110.15081</Link>
+  <Body>Code:</Body>
+  <Link>https://github.com/tomswinburne/ReactionDiffusion</Link>
+  <Body>Paper:</Body>
+  <Link>https://iopscience.iop.org/article/10.1088/1361-651X/ac54c5/meta</Link>
+</Item>
 <Item>
   <Date>02/22</Date>
   <Header>Petr's paper on ReproHack</Header>
