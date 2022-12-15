@@ -1,5 +1,14 @@
 <News>
 <Item>
+  <Date>11/22</Date>
+  <Header>PRMat paper "Machine learning surrogate models for strain-dependent vibrational properties and migration rates of point defects"</Header>
+  <Body>Second paper from PhD of Clovis Lapointe on machine learning defect entropies, now extended to kinetics. 
+	  The linear formulation allows a new perspective on the famous Meyer-Neldel compensation law</Body>
+  <Link>https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.113803</Link>
+  <Body>First paper on this subject:</Body>
+  <Link>https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.063802</Link>
+</Item>
+<Item>
   <Date>09/22</Date>
   <Header>PCCP paper "Capabilities and limits of autoencoders for extracting
 		collective variables in atomistic materials science"</Header>
