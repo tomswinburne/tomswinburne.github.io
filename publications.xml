@@ -1,5 +1,22 @@
 <Publications>
-<Publication>
+  
+  <Publication>
+    <Title>Temperature dependent stacking fault free energy profiles and partial dislocation separation in FCC Cu</Title>
+    <Authors>R Namakian, D Moldovan and TD Swinburne<![CDATA[<span>&#8224;</span>]]></Authors>
+    <Journal>Computational Materials Science</Journal>
+    <Year>2022</Year>
+    <Link>https://doi.org/10.1016/j.commatsci.2022.111971</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Machine learning surrogate models for strain-dependent vibrational properties and migration rates of point defects</Title>
+    <Authors>C Lapointe<![CDATA[<span>&#8224;</span>]]>, TD Swinburne<![CDATA[<span>&#8224;</span>]]>, N Mousseau, L Proville, CS Becquart, M-C Marinica<![CDATA[<span>&#8224;</span>]]></Authors>
+    <Journal>Physical Review Materials </Journal>
+    <Year>2022</Year>
+    <Link>https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.113803</Link>
+  </Publication>
+
+  <Publication>
     <Title>Synergistic coupling in ab initio-machine learning simulations of dislocations</Title>
     <Authors>P Grigorev<![CDATA[<span>&#8224;</span>]]>, A Goryaeva, M-C Marinica, JR Kermode, TD Swinburne<![CDATA[<span>&#8224;</span>]]></Authors>
     <Journal>arXiv</Journal>
