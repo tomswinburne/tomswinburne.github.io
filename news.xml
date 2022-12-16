@@ -1,5 +1,17 @@
 <News>
 <Item>
+  <Date>13/22</Date>
+  <Header>New paper in Computational Materials Science</Header>
+  <Body>From PhD of Reza Namakian. Using <![CDATA[<a href="#code">PAFI</a>]]>,\
+  the full stacking fault free energy profile, a key measure of plasticity, 
+  is evaluated at finite temperature for the first time. Only metastable points
+  have previously been evaluated; our full calculation gives the unstable 
+  stacking fault (important for fracture) 
+  and shows excellent agreement with molecular dynamics of isolated dislocations. 
+  Reza is a student under Prof. Dorel Moldovan, Louisiana state university.
+  <Link>https://doi.org/10.1016/j.commatsci.2022.111971</Link>
+</Item>
+<Item>
   <Date>11/22</Date>
   <Header>PRMat paper "Machine learning surrogate models for strain-dependent vibrational properties and migration rates of point defects"</Header>
   <Body>Second paper from PhD of Clovis Lapointe on machine learning defect entropies, now extended to kinetics. 
