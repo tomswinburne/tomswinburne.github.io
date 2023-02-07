@@ -1,5 +1,22 @@
 <News>
 <Item>
+  <Date>01/23</Date>
+  <Header>New paper in Acta Materialia</Header>
+  <Body>A tour-de-force from postdoc of Petr Grigorev, funded by <![CDATA[<a href="#funding">ANR MeMoPas</a>]]>. 
+  We use machine learning potentials as a highly flexible coupling medium, allowing world-first 
+  large-scale atomistic simulations of defects and dislocations (i.e. real materials), where 
+  the machine learning force field can be replaced by an embedded DFT simulation in any region of 
+  interest. The first paper uses this to investigate impurity segregation to dislocations - a 
+  small region around the impurity is treated with DFT, whilst the remainder by a state-of-the-art
+  machine learning force-field. Many more exciting results from this project to come, as Petr
+  will now be funded by a new grant from CEA, <![CDATA[<a href="#funding">PTC Emergence</a>]]>. 
+  The paper:
+  </Body>
+  <Link>https://doi.org/10.1016/j.actamat.2023.118734</Link>
+  <Body>Open source code to perform the coupling operations</Body>
+  <Link>https://github.com/marseille-matmol/LML-retrain</Link>
+</Item>
+<Item>
   <Date>13/22</Date>
   <Header>New paper in Computational Materials Science</Header>
   <Body>From PhD of Reza Namakian. Using <![CDATA[<a href="#code">PAFI</a>]]>,\
@@ -57,7 +74,8 @@
 <Item>
 <Date>12/21</Date>
 <Header>Synergistic coupling in ab initio / machine learning</Header>
-<Body>Petr's first paper from the <![CDATA[<a href="#funding">ANR MeMoPas</a>]]> project is out on arXiv! Encoding coupling constraints geometrically in the parameter space of linear machine learning potentials allows for world-first simulations of dislocation-defect interactions!</Body>
+<Body>Petr's first paper from the <![CDATA[<a href="#funding">ANR MeMoPas</a>]]> project is out on arXiv! 
+Encoding coupling constraints geometrically in the parameter space of linear machine learning potentials allows for world-first simulations of dislocation-defect interactions!</Body>
 <Link>https://arxiv.org/abs/2111.11262</Link>
 </Item>
 <Item>
