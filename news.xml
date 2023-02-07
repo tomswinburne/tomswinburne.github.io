@@ -10,10 +10,12 @@
   small region around the impurity is treated with DFT, whilst the remainder by a state-of-the-art
   machine learning force-field. Many more exciting results from this project to come, as Petr
   will now be funded by a new grant from CEA, <![CDATA[<a href="#funding">PTC Emergence</a>]]>. 
-  The paper:
+  The published paper:
   </Body>
   <Link>https://doi.org/10.1016/j.actamat.2023.118734</Link>
-  <Body>Open source code to perform the coupling operations</Body>
+  <Body>Preprint:</Body>
+  <Link>https://arxiv.org/abs/2111.11262</Link>
+  <Body>Open source code:</Body>
   <Link>https://github.com/marseille-matmol/LML-retrain</Link>
 </Item>
 <Item>
