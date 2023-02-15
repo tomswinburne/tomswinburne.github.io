@@ -21,9 +21,8 @@
 <Item>
   <Date>13/22</Date>
   <Header>New paper in Computational Materials Science</Header>
-  <Body>From PhD of Reza Namakian. Using <![CDATA[<a href="#code">PAFI</a>]]>,\
-  the full stacking fault free energy profile, a key measure of plasticity, 
-  is evaluated at finite temperature for the first time. Only metastable points
+  <Body>From PhD of Reza Namakian. Using <![CDATA[<a href="#code">PAFI</a>]]>,
+  the full stacking fault free energy profile is evaluated at finite temperature for the first time. Only metastable points
   have previously been evaluated; our full calculation gives the unstable 
   stacking fault (important for fracture) 
   and shows excellent agreement with molecular dynamics of isolated dislocations. 
