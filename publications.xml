@@ -1,10 +1,17 @@
 <Publications>
-  
+  <Publication>
+    <Title>Calculation of dislocation binding to helium-vacancy defects in tungsten using hybrid ab initio-machine learning methods</Title>
+    <Authors>P Grigorev<![CDATA[<span>&#8224;</span>]]>, A Goryaeva, M-C Marinica, JR Kermode, TD Swinburne<![CDATA[<span>&#8224;</span>]]></Authors>
+    <Journal>Acta Materialia</Journal>
+    <Year>2023</Year>
+    <Link>https://doi.org/10.1016/j.actamat.2023.118734</Link>
+  </Publication>
+
   <Publication>
     <Title>Temperature dependent stacking fault free energy profiles and partial dislocation separation in FCC Cu</Title>
     <Authors>R Namakian, D Moldovan and TD Swinburne<![CDATA[<span>&#8224;</span>]]></Authors>
     <Journal>Computational Materials Science</Journal>
-    <Year>2022</Year>
+    <Year>2023</Year>
     <Link>https://doi.org/10.1016/j.commatsci.2022.111971</Link>
   </Publication>
 
@@ -14,6 +21,14 @@
     <Journal>Physical Review Materials </Journal>
     <Year>2022</Year>
     <Link>https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.113803</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Reaction–drift–diffusion models from master equations: application to material defects</Title>
+    <Authors>TD Swinburne<![CDATA[<span>&#8224;</span>]]>, D Perez</Authors>
+    <Journal>Modelling and Simulation in Materials Science and Engineering</Journal>
+    <Year>2022</Year>
+    <Link>http://dx.doi.org/10.1088/1361-651X/ac54c5</Link>
   </Publication>
 
   <Publication>
