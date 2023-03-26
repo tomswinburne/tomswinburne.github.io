@@ -14,7 +14,7 @@ intro images
 }
 .center-fit {
 		max-width: 100%;
-		max-height: 250px;
+		max-height: 150px;
 		margin: auto;
 }
 /*
@@ -544,13 +544,13 @@ input, select, textarea {
 			.intro_cell_l {
 				text-align: left;
 				max-width: 500px;
-				min-width: 300px;
+				/*min-width: 200px;*/
 			}
 			.intro_cell_l_img {
 				display:block;
 				text-align: right;
 				max-width: 500px;
-				min-width: 300px;
+				min-width: 400px;
 			}
 			.intro_cell_r {
 				text-align: right;
@@ -1300,13 +1300,13 @@ input, select, textarea {
 				display:block;
 				text-align: center;
 				max-width: 600px;
-				min-width: 300px;
+				/*min-width: 300px;*/
 			}
 			.intro_cell_l_img {
 				display:block;
 				text-align: center;
 				max-width: 600px;
-				min-width: 300px;
+				min-width: 400px;
 			}
 
 			.intro_cell_r {
@@ -2308,8 +2308,8 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../../images/loop_fancy.png");
+				background-color: #FFFFFF;
+				background-image: url("../../images/web_copy.png");
 			}
 
 			#main > section.two {
