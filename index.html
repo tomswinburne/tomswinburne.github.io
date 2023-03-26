@@ -163,11 +163,16 @@
 							</td>
 							<td class="intro_cell_l">
 								<p><strong>Autonomous exploration at scale: TAMMBER</strong></br>
-								In massively parallel computation, decisions must be made every few minutes
-								to optimise resources. TAMMBER uses novel Bayesian methods to autonomously
-								allocate computational effort only in the most relevant regions of configuration space,
-								building kMC/Markov models with robust UQ.
+									TAMMBER uses Bayesian methods to build kMC/Markov models 
+									with robust UQ, and autonomously allocates parallel 
+									computational effort to reduce this UQ by sampling 
+									only the most relevant regions of configuration space.
+									We can now propagate this UQ to diffusion models. 
 								<br>
+								<i>TDS<span>&#8224;</span> and D Perez, MSMSE (2022)
+									<a href="https://arxiv.org/pdf/2110.15081"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
+									 <a href="https://github.com/tomswinburne/ReactionDriftDiffusion/"><span class="icon fa-github" alttext="code"></span></a>
+									 <br>
 								<i>TDS<span>&#8224;</span> and D Perez, NPJ Computational Materials (2020)
 									<a href="https://www.nature.com/articles/s41524-020-00463-8.pdf"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
 									<a href="https://github.com/tomswinburne/tammber"><span class="icon fa-github" alttext="code"></span> TAMMBER</a>
@@ -185,13 +190,10 @@
 								</div>
 							</td>
 							<td class="intro_cell_l">
-								<p><strong>ML-assisted DFT for dislocation-defect interations</strong></br>
-								(Postdoc of Petr Grigorev, from ANR JCJC MeMoPas)<br>
-								<i>Ab initio</i> methods such as DFT are essential to
-								train and validate atomic models, but extended defects are at or beyond current computational limits.
-								We design efficient methods to <i>embed</i>
-								DFT accuracy only where it is needed, using custom-built machine learning interatomic potentials.
-								This builds on earlier developments that enabled energy calculations.
+								<p><strong>ML-assisted QM/MM simulations</strong></br>
+								We use retrained ML potentials to <i>embed</i> DFT simulations in 
+								large-scale MD with seamless 
+								coupling. This permits DFT calculations at unprecedented scales.
 								<br>
 								<i>P Grigorev <i>et al.</i>, TDS<span>&#8224;</span>, arXiv (2022)
 									<a href="https://arxiv.org/pdf/2111.11262.pdf" target ="_new"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
@@ -209,10 +211,10 @@
 							</td>
 							<td class="intro_cell_l">
 								<p><strong>Vibrational free energies beyond harmonicity: PAFI</strong></br>
-									PAFI is a path-constrained sampling routine, which returns exact vibrational
+									PAFI is a path-constrained sampling routine, giving exact vibrational
 									free energy differences for linear-scaling effort. This enables evaluation of
 									activation free energies for very large systems of e.g. dislocation or twin
-									migration, which can not be treated by cubic-scaling HTST approximations.</br>
+									migration, which can not be treated by HTST approximations.</br>
 								<i>
 								TDS<span>&#8224;</span> and M-C Marinica, PRL (2018)
 									<a href="pdf/Swinburne_Marinica_PRL_2018.pdf"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
@@ -229,12 +231,12 @@
 							<td class="intro_cell_l">
 								<p><strong>Surrogate ML models for defect entropics</strong></br>
 									(PhD of Clovis Lapointe, with M-C Marinica)<br>
-									A linear machine learning model typically used for energetics can predict the formation
-									and migration <em>entropy</em> of defects. Generalised linear models allow a
-									parameter-geometric interpretation of relations such as the Meyer-Neldel compensation law.
+									Descriptor models typically used for energetics can predict the formation
+									and migration <em>entropy</em> of defects. Allows a geometric interpretation 
+									of e.g. the Meyer-Neldel compensation law.
 								<br>
 								<i>
-								C Lapointe, TDS<span>&#8224;</span> et al. Submitted (2022)</br>
+								C Lapointe, TDS<span>&#8224;</span> et al. PRMaterials (2022)</br>
 								C Lapointe, TDS<span>&#8224;</span> et al. PRMaterials (2020)
 									<a href="pdf/LaPointeSwinburneMarinica2020.pdf"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a></i>
 								</p>
@@ -249,13 +251,11 @@
 							</td>
 							<td class="intro_cell_l">
 								<p><strong>Analysis of Markov Models: PyGT</strong></br>
-								Much atomic data (from TAMMBER or other codes) is a connected network of metastable states, which
-								can be mapped to a discrete state Markov model, or master equation. We have developed tools to automatically propagate atomic data, with UQ, to drift-diffusion equations or first passage distributions between distant regions.
+								Much atomic data (from e.g. TAMMBER) is a network of metastable states, 
+								mapped to a discrete state Markov chain, which is often 
+								very large and numerically ill-conditioned. 
+								PyGT analyses and reduces these challenging networks.
 								<br>
-								<i>TDS<span>&#8224;</span> and D Perez, arXiv (2022)
-									<a href="https://arxiv.org/pdf/2110.15081"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
-									 <a href="https://github.com/tomswinburne/ReactionDriftDiffusion/"><span class="icon fa-github" alttext="code"></span></a>
-									 <br>
 								TDS<span>&#8224;</span> and DJ Wales, JCTC (2020)
 									<a href="pdf/Swinburne_Wales_2020.pdf"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
 									 <a href="https://github.com/tomswinburne/PyGT/"><span class="icon fa-github" alttext="code"></span> PyGT
@@ -272,9 +272,10 @@
 							</td>
 							<td class="intro_cell_l">
 								<p><strong>Mean-field models for lattice vibrations: BLaSa</strong></br>
-									BLaSa is a lightening-fast mean field approach to evaluate anharmonic vibrational phase free energies for
-									milliseconds of effort. For unary FCC we are within meV/atom of brute force
-									thermodynamic integration, requiring hours of effort. Current developments are within the PhD of R Dsouza since 2020.<br>
+									Analytic mean-field approach for local anharmonic models, evaluating 
+									anharmonic vibrational phase free energies for
+									milliseconds of effort. 
+									Current developments are within the PhD of R Dsouza since 2021.<br>
 									<i>
 									TDS<span>&#8224;</span> <i>et al.</i>, J Neugebauer PRB Rapid Communications (2020)
 										<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.100101"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
