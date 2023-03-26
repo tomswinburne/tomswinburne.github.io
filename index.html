@@ -93,9 +93,9 @@
 			<!-- CV / Bio -->
 			<section id="intro">
 				<div class="container">
-				<p>The design of more durable materials is key to reduce the carbon emissions
+				<p>Designing more durable materials is key to reduce carbon emissions
 					of construction, transportation and energy production. This requires
-					an understanding of mechanical strength and toughness at the level of
+					understanding mechanical strength and toughness at the level of
 					<a href="https://www.feynmanlectures.caltech.edu/I_01.html" target="_new">jiggling atoms</a>.
 				<br><br><strong>We design atomic simulation methods to discover how metals bend and break.</strong><br><br>
 				The range of atomic deformation mechanisms is vast- the challenge is to <em>discover</em> and characterize the most influential.
@@ -164,10 +164,9 @@
 							<td class="intro_cell_l">
 								<p><strong>Autonomous exploration at scale: TAMMBER</strong></br>
 									TAMMBER uses Bayesian methods to build kMC/Markov models 
-									with robust UQ, and autonomously allocates parallel 
-									computational effort to reduce this UQ by sampling 
-									only the most relevant regions of configuration space.
-									We can now propagate this UQ to diffusion models. 
+									with robust UQ on sampling incompleteness. 
+									We use this UQ to optimize resourse allocation in
+									parallel computation, and bound predictions of diffusion models. 
 								<br>
 								<i>TDS<span>&#8224;</span> and D Perez, MSMSE (2022)
 									<a href="https://arxiv.org/pdf/2110.15081"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
@@ -195,7 +194,7 @@
 								large-scale MD with seamless 
 								coupling. This permits DFT calculations at unprecedented scales.
 								<br>
-								<i>P Grigorev <i>et al.</i>, TDS<span>&#8224;</span>, arXiv (2022)
+								<i>P Grigorev <i>et al.</i>, TDS<span>&#8224;</span>, Acta Materialia (2023)
 									<a href="https://arxiv.org/pdf/2111.11262.pdf" target ="_new"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
 									<a href="https://github.com/marseille-matmol/LML-retrain" target ="_new"><span class="icon fa-github" alttext="code"></span> LML-retrain</a></li>
 								<br>TDS<span>&#8224;</span> and JR Kermode, PRB (2017)
@@ -210,11 +209,11 @@
 								</div>
 							</td>
 							<td class="intro_cell_l">
-								<p><strong>Vibrational free energies beyond harmonicity: PAFI</strong></br>
+								<p><strong>Vibrational free energies beyond HTST: PAFI</strong></br>
 									PAFI is a path-constrained sampling routine, giving exact vibrational
 									free energy differences for linear-scaling effort. This enables evaluation of
-									activation free energies for very large systems of e.g. dislocation or twin
-									migration, which can not be treated by HTST approximations.</br>
+									activation free energies for very large systems 
+									which can not be treated by HTST approximations.</br>
 								<i>
 								TDS<span>&#8224;</span> and M-C Marinica, PRL (2018)
 									<a href="pdf/Swinburne_Marinica_PRL_2018.pdf"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>
@@ -246,15 +245,14 @@
 						<tr>
 							<td class="intro_cell_l_img" >
 								<div class="imgbox">
-									<img class="center-fit" src="images/mm_analysis.png"></img>
+									<img class="center-fit" src="images/PyGT.png"></img>
 								</div>
 							</td>
 							<td class="intro_cell_l">
 								<p><strong>Analysis of Markov Models: PyGT</strong></br>
-								Much atomic data (from e.g. TAMMBER) is a network of metastable states, 
-								mapped to a discrete state Markov chain, which is often 
-								very large and numerically ill-conditioned. 
-								PyGT analyses and reduces these challenging networks.
+								Much atomic data is a large network of metastable states. The Markov 
+								dynamics cannot be treated by usual routines (LAPACK) due to conditioning issues;
+								PyGT provides a solution for these challenging networks.
 								<br>
 								TDS<span>&#8224;</span> and DJ Wales, JCTC (2020)
 									<a href="pdf/Swinburne_Wales_2020.pdf"><span class="icon fa-file-pdf-o" alttext="pdf"></span></a>

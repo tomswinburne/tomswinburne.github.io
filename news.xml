@@ -1,5 +1,16 @@
 <News>
 <Item>
+  <Date>04/23</Date>
+  <Header>CNRS Emergence Postdoc, 10/23</Header>
+  <Body>
+  From "Emergence" grant of Institut de Physique, CNRS. Twelve month
+  opening for a postdoctoral project on uncertainty quantification of diffusion models, 
+  which will use emerging automatic 
+	differentation tools. <![CDATA[<strong>Start date October 2023</strong>:]]> If interested, 
+  please <![CDATA[<a href="#contact">email me</a>]]> with a CV and motivation letter.
+  </Body>
+</Item>
+<Item>
   <Date>03/23</Date>
   <Header>Petr hired by CNRS!</Header>
   <Body>Postdoc Dr Petr Grigorev, funded by <![CDATA[<a href="#funding">ANR MeMoPas</a>]]>, has just been
