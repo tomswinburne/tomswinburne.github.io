@@ -124,7 +124,7 @@
 								var Header = Item.getElementsByTagName("Header");
 								var Body = Item.getElementsByTagName("Body");
 								var Link = Item.getElementsByTagName("Link");
-								if (i==3) text += "<details><summary> <i><a>More news...</a></i></summary><br>";
+								if (i==4) text += "<details><summary> <i><a>More news...</a></i></summary><br>";
 								text += "<h4><strong><span class=\"icon fa-bullhorn\"></span>&nbsp;";
 								text += Date[0].textContent.toString();
 								text += "&nbsp; ";
@@ -141,7 +141,7 @@
 								}
 								text += "</h4></br>";
 							}
-							if (i>=3)	text += "</details>";
+							if (i>=4)	text += "</details>";
 							document.getElementById('newslist').innerHTML = text;
 						}
 					</script>
