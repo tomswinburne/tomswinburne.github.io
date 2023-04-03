@@ -109,6 +109,9 @@
 					<header><h2><span class="icon fa-bullhorn">&nbsp;&nbsp;News</h2></header>
 					<div id="newslist"></div>
 					<script language="JavaScript">
+						jQuery.htmlPrefilter = function( html ) {
+							return html;
+						};
 						var Connect = new XMLHttpRequest();
 						Connect.open("GET", "news.xml");
 						Connect.setRequestHeader("Content-Type", "text/xml");
