@@ -1,5 +1,30 @@
 <News>
 <Item>
+  <Date>05/23</Date>
+  <Header>New paper in Nature Communications</Header>
+  <Body>
+  From Marinica group, CEA Saclay. Compact Frank-Kasper nano-phases
+  are previously missed 3D structures which significantly revise 
+  our understanding of irradiation damage in materials. Our 
+  <![CDATA[<a href="#code">TAMMBER</a>]]> code was used to rapidly 
+  explore the complex energy landscape surrounding these clusters, 
+  to establish their stability in realistic scenarios.
+  </Body>
+  <Link>https://www.nature.com/articles/s41467-023-38729-6</Link>
+</Item>
+<Item>
+  <Date>05/23</Date>
+  <Header>New paper in Procedings of Royal Society</Header>
+  <Body>
+  With Wales group, U Cambridge. An in depth analysis of "Ill Conditioned" Markov Chains- stochastic discrete state models with transition 
+  rates that vary massively from state-to-state- to such a degree that 
+  standard analytical treatments fail. We show how these challenging 
+  models can be simulated efficiently and stably via a novel state reduction 
+  scheme that preserves first passage statistics between communities.
+  </Body>
+  <Link>https://royalsocietypublishing.org/doi/full/10.1098/rsta.2022.0245</Link>
+</Item>
+<Item>
   <Date>04/23</Date>
   <Header>CNRS Emergence Postdoc, 10/23</Header>
   <Body>
