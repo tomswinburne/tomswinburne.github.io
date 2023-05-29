@@ -1,5 +1,19 @@
 <Publications>
   <Publication>
+    <Title>Compact A15 Frank-Kasper nano-phases at the origin of dislocation loops in face-centred cubic metals</Title>
+    <Authors>AM Goryaeva<![CDATA[<span>&#8224;</span>]]>, C Domain, A Chartier, A Dézaphie, TD Swinburne, K Ma, M Loyer-Prost, J Creuze and MC Marinica<![CDATA[<span>&#8224;</span>]]></Authors>
+    <Journal>Nature Communications</Journal>
+    <Year>2023</Year>
+    <Link>https://www.nature.com/articles/s41467-023-38729-6</Link>
+  </Publication>
+  <Publication>
+    <Title>Analysing ill-conditioned Markov chains</Title>
+    <Authors>EJ Woods, D Kannan, DJ Sharpe, TD Swinburne<![CDATA[<span>&#8224;</span>]]> and DJ Wales<![CDATA[<span>&#8224;</span>]]></Authors>
+    <Journal>Philosophical Transactions of the Royal Society A</Journal>
+    <Year>2023</Year>
+    <Link>https://doi.org/10.1098/rsta.2022.024</Link>
+  </Publication>
+  <Publication>
     <Title>Calculation of dislocation binding to helium-vacancy defects in tungsten using hybrid ab initio-machine learning methods</Title>
     <Authors>P Grigorev<![CDATA[<span>&#8224;</span>]]>, A Goryaeva, M-C Marinica, JR Kermode, TD Swinburne<![CDATA[<span>&#8224;</span>]]></Authors>
     <Journal>Acta Materialia</Journal>
