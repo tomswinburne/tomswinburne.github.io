@@ -1,11 +1,21 @@
 <News>
 <Item>
-  <Date>06/23</Date>
+  <Date>11/23</Date>
+  <Header>New paper in Physical Review Letters</Header>
+  <Body>
+  Excited to finally share this work, which shows descriptor vectors are a general method to coarse-grain atomic simulations of materials. 
+  We can regress, classify and forecast MD. Many more results to come!
+  </Body>
+  <Link>http://dx.doi.org/10.1103/PhysRevLett.131.236101</Link>
+  <Body>Preprint:</Body>
+  <Link>https://arxiv.org/abs/2309.02242</Link>
+</Item>
+<Item>
+  <Date>08/23</Date>
   <Header>Probabilistic Sampling For Physics</Header>
   <Body>
   Tom is co-organising a three-week workshop with Manon Michel (CNRS) at 
-  the Institut Pascal, Paris-Saclay, this September. Whilst the funded places 
-  have been filled, unfunded occaisonal participation is still possible !
+  the Institut Pascal, Paris-Saclay, this September.
   </Body>
   <Link>https://indico.ijclab.in2p3.fr/event/9042/</Link>
 </Item>
@@ -13,24 +23,20 @@
   <Date>06/23</Date>
   <Header>ANR PRC Grant "DAPREDIS" Selected for Funding!</Header>
   <Body>
-  To start 04/24, in collaboration with Sylvain Queyreau (LPSM, Paris Nord).
-  DAPREDIS will develop data-driven techniques to accelerate and analyze
-  simulations of dislocation plasticity at the atomic and mesoscale. The project will recrute a PhD student (Paris) and young postdoc (Marseille). 
-  Watch this space for more information!
+  To start 04/24, DAPREDIS will develop data-driven techniques to accelerate and analyze simulations of dislocation plasticity at the atomic and mesoscale. The project will recrute a PhD and postdoc- watch this space!
   </Body>
 </Item>
 <Item>
   <Date>05/23</Date>
   <Header>New paper in Nature Communications</Header>
   <Body>
-  From Marinica group, CEA Saclay. Compact Frank-Kasper nano-phases
-  are previously missed 3D structures which significantly revise 
-  our understanding of irradiation damage in materials. Our 
-  <![CDATA[<a href="#code">TAMMBER</a>]]> code was used to rapidly 
-  explore the complex energy landscape surrounding these clusters, 
-  to establish their stability in realistic scenarios.
+  From Marinica group, CEA Saclay. Frank-Kasper nano-phase defects
+  significantly revise our understanding of irradiation damage. Our 
+  <![CDATA[<a href="#code">TAMMBER</a>]]> code was used to explore the energy landscape around these clusters, establishing their stability.
+  Paper:
   </Body>
   <Link>https://www.nature.com/articles/s41467-023-38729-6</Link>
+
 </Item>
 <Item>
   <Date>05/23</Date>
