@@ -1,6 +1,11 @@
 <News>
 <Item>
-  <Date>11/23</Date>
+  <Date>01/24</Date>
+  <Header>International Conference presence in 2024</Header>
+  <Body>Tom will be giving invited talks at CIMTEC (Tuscany), COSIRES (Ontario), MRS Fall (Boston) and IMSI (Chicago) this year- if you want to meet don't hesitate to email thomas "dot" swinburne "at" cnrs "dot" fr !</Body>
+</Item>
+<Item>
+  <Date>12/23</Date>
   <Header>New paper in Physical Review Letters</Header>
   <Body>
   Excited to finally share this work, which shows descriptor vectors are a general method to coarse-grain atomic simulations of materials. 
