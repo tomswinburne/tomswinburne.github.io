@@ -1,5 +1,12 @@
 <Publications>
   <Publication>
+    <Title>Coarse-Graining and Forecasting Atomic Material Simulations with Descriptors</Title>
+    <Authors>TD Swinburne<![CDATA[<span>&#8224;</span>]]></Authors>
+    <Journal>Physical Review Letters</Journal>
+    <Year>2023</Year>
+    <Link>http://dx.doi.org/10.1103/PhysRevLett.131.236101</Link>
+  </Publication>
+  <Publication>
     <Title>Compact A15 Frank-Kasper nano-phases at the origin of dislocation loops in face-centred cubic metals</Title>
     <Authors>AM Goryaeva<![CDATA[<span>&#8224;</span>]]>, C Domain, A Chartier, A Dézaphie, TD Swinburne, K Ma, M Loyer-Prost, J Creuze and MC Marinica<![CDATA[<span>&#8224;</span>]]></Authors>
     <Journal>Nature Communications</Journal>
@@ -20,7 +27,6 @@
     <Year>2023</Year>
     <Link>https://doi.org/10.1016/j.actamat.2023.118734</Link>
   </Publication>
-
   <Publication>
     <Title>Temperature dependent stacking fault free energy profiles and partial dislocation separation in FCC Cu</Title>
     <Authors>R Namakian, D Moldovan and TD Swinburne<![CDATA[<span>&#8224;</span>]]></Authors>
