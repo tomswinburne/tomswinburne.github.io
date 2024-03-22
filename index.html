@@ -32,9 +32,9 @@
 
 						<ul>
 							<li><a href="#news" id="news-link"><span class="icon fa-bullhorn">News</span></a></li>
-							<li><a href="#research" id="intro-link"><span class="icon fa-search">Research</span></a></li>
-							<li><a href="#team" id="team-link"><span class="icon fa-users">Team / Collaborators</span></a></li>
 							<li><a href="#papers" id="papers-link"><span class="icon fa-file-pdf-o">Recent Publications</span></a></li>
+							<!--<li><a href="#research" id="intro-link"><span class="icon fa-search">Research</span></a></li>-->
+							<li><a href="#team" id="team-link"><span class="icon fa-users">Team / Collaborators</span></a></li>
 							<li><a href="#code" id="code-link"><span class="icon fa-code">Software</span></a></li>
 							<li><a href="#funding" id="funding-link"><span class="icon fa-euro">Funding</span></a></li>
 							<li><a href="#jobs" id="jobs-link"><span class="icon fa-user-plus">Job Openings</span></a></li>
@@ -147,7 +147,58 @@
 					</script>
 				</div>
 			</section>
+			
+			<!-- Papers -->
+			<section id="papers">
+				<div class="container">
+					<header>
+						<h2><span class="icon fa-file-pdf-o">&nbsp;&nbsp;Recent Publications</h2></br>
+						<em><span>&#8224;</span> = corresponding author(s). Full list at <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a>.</em></br>
+					</header>
+					<dl>
+						<div id="publicationlist"></div>
+						<script language="JavaScript">
+							// Create a connection to the file.
+							var Connect = new XMLHttpRequest();
+							// Define which file to open and
+							// send the request.
+							Connect.open("GET", "publications.xml");
+							Connect.setRequestHeader("Content-Type", "text/xml");
+							Connect.send();
+							Connect.onload = function() {
+								var TheDocument = this.responseXML;
+								var Items = TheDocument.childNodes[0];
+								var i = 0;
+								var text = "";
+								for (; i < Items.children.length; i++) {
+									var Item = Items.children[i];
+									var Title = Item.getElementsByTagName("Title");
+									var Journal = Item.getElementsByTagName("Journal");
+									var Authors = Item.getElementsByTagName("Authors");
+									var Link = Item.getElementsByTagName("Link");
+									var Year = Item.getElementsByTagName("Year");
 
+									if (i==5) text += "<details><summary> <i><a>More publications...</a></i></summary><br>";
+									text += "<dt><li>";
+									text += Title[0].textContent.toString();
+									text += "</li></dt><dd><em>";
+									text += Authors[0].textContent.toString();
+									text += "</em><br><a href=\"";
+									text += Link[0].textContent.toString();
+									text += "\" target=_new>";
+									text += Journal[0].textContent.toString();
+									text += " ";
+									text += Year[0].textContent.toString();
+									text += "</a></dd></br>";
+								}
+								if (i>=5)	text += "</details>";
+								document.getElementById('publicationlist').innerHTML = text;
+							}
+						</script>
+					</dl>
+				</div>
+			</section>
+<!--
 			<section id="research">
 				<div class="container">
 					<header>
@@ -286,7 +337,7 @@
 					</table>
 				</div>
 			</section>
-
+			-->
 			<!-- Position -->
 			<section id="team" class="two">
 				<div class="container">
@@ -369,6 +420,9 @@
 							<td class="intro_cell_l">
 								<li><strong>Reza Namakian</strong></li>
 							</td>
+							<td class="intro_cell_c">
+							</td>
+							
 							<td class="intro_cell_l">
 								<strong>03/22-03/23:</strong>&nbsp;
 								PhD collaborator, anharmonic effects in plasticity, under Prof D Moldovan, Louisiana State University, USA
@@ -387,6 +441,8 @@
 						<tr>
 							<td class="intro_cell_l">
 								<li><strong>Deepti Kannan</strong></li>
+							</td>
+							<td class="intro_cell_c">
 							</td>
 							<td class="intro_cell_l">
 								<strong>20-21:</strong>&nbsp;
@@ -458,58 +514,8 @@
 				</div>
 			</section>
 
-			<!-- Papers -->
-			<section id="papers">
-				<div class="container">
-					<header>
-						<h2><span class="icon fa-file-pdf-o">&nbsp;&nbsp;Recent Publications</h2></br>
-						<em><span>&#8224;</span> = corresponding author(s). Full list at <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a>.</em></br>
-					</header>
-					<dl>
-						<div id="publicationlist"></div>
-						<script language="JavaScript">
-							// Create a connection to the file.
-							var Connect = new XMLHttpRequest();
-							// Define which file to open and
-							// send the request.
-							Connect.open("GET", "publications.xml");
-							Connect.setRequestHeader("Content-Type", "text/xml");
-							Connect.send();
-							Connect.onload = function() {
-								var TheDocument = this.responseXML;
-								var Items = TheDocument.childNodes[0];
-								var i = 0;
-								var text = "";
-								for (; i < Items.children.length; i++) {
-									var Item = Items.children[i];
-									var Title = Item.getElementsByTagName("Title");
-									var Journal = Item.getElementsByTagName("Journal");
-									var Authors = Item.getElementsByTagName("Authors");
-									var Link = Item.getElementsByTagName("Link");
-									var Year = Item.getElementsByTagName("Year");
-
-									if (i==5) text += "<details><summary> <i><a>More publications...</a></i></summary><br>";
-									text += "<dt><li>";
-									text += Title[0].textContent.toString();
-									text += "</li></dt><dd><em>";
-									text += Authors[0].textContent.toString();
-									text += "</em><br><a href=\"";
-									text += Link[0].textContent.toString();
-									text += "\" target=_new>";
-									text += Journal[0].textContent.toString();
-									text += " ";
-									text += Year[0].textContent.toString();
-									text += "</a></dd></br>";
-								}
-								if (i>=5)	text += "</details>";
-								document.getElementById('publicationlist').innerHTML = text;
-							}
-						</script>
-					</dl>
-				</div>
-			</section>
 			<!-- Code -->
-			<section id="code" class="two">
+			<section id="code">
 				<div class="container">
 
 					<header>
@@ -569,24 +575,26 @@
 			</section>
 
 			<!-- Position -->
-			<section id="funding">
+			<section id="funding" class="two">
 				<div class="container">
 					<header>
 						<h2><span class="icon fa-euro">&nbsp;&nbsp;Funding</h2>
 					</header>
 					<dl>
 						<br>
+						<img src="images/anr_logo.png" alt="anr" style="max-height:100px;"></img>
+						<dt><li><strong><a href="https://anr.fr/Project-ANR-19-CE46-0006" target="_new">ANR DAPREDIS</a> (2024-2028)</strong></li></dt>
+						PI on ANR PRC project, <i>Data-Driven Prediction of Dislocation Plasticity</i><br><br>
+						<dt><li><strong><a href="https://anr.fr/Project-ANR-19-CE46-0006" target="_new">ANR MeMoPas</a> (2020-2022)</strong></li></dt>
+						PI on ANR JCJC project, <i>Mesoscale models from massively parallel atomistic simulations: uncertainty driven, self-optimizing strategies for hard materials</i><br>
+						<br><br>
 						<img src="images/cea_logo.png" alt="anr" style="max-height:100px;"></img>
 						<dt><li><strong>CEA PTC ANEMONE</a> (2022-2024)</strong></li></dt>
 						Co-PI with Dr L Ventelon, CEA Saclay, developing ML-assisted DFT for ab initio accuracy in large scale simulations of extended defects.
-						</br><br>
-						<img src="images/anr_logo.png" alt="anr" style="max-height:100px;"></img>
-						<dt><li><strong><a href="https://anr.fr/Project-ANR-19-CE46-0006" target="_new">ANR MeMoPas</a> (2020-2022)</strong></li></dt>
-						PI on ANR JCJC project, <i>Mesoscale models from massively parallel atomistic simulations: uncertainty driven, self-optimizing strategies for hard materials</i>
 						</br><br><br>
 						<img src="images/eurofusion.png" alt="EuroFusion" style="max-height:100px;"></img>
-						<dt><li><strong>EuroFusion / IREMEV program</strong></li></dt>
-						Computational resources (2020-2022) for studies of timescale estimation of microstructural evolution
+						<dt><li><strong>EuroFusion / IREMEV program (2020-present)</strong></li></dt>
+						PI on IREMEV grant to study timescale estimation of microstructural evolution
 						</br><br><br>
 						<img src="images/genci_logo.png" alt="genci" style="max-height:100px;"></img>
 						<dt><li><strong>GENCI / IDRIS national supercomputing centers</strong></li></dt>
@@ -595,17 +603,15 @@
 				</div>
 			</section>
 			<!-- Position -->
-			<section id="jobs" class="two">
+			<section id="jobs">
 				<div class="container">
 					<header>
 						<h2><span class="icon fa-user-plus">&nbsp;&nbsp;Job Openings</h2>
 					</header>
 					<dl>
 						<dt>
-							<strong>CNRS "Emergence" Postdoc: Automatic Differentiation of Energy Landscapes</strong>
-							We currently have an opening for a 12 month postdoctoral project concerning
-							uncertainty quantification of diffusion models, which will use emerging automatic 
-							differentation tools. <strong>Start date October 2023</strong>. 
+							<strong>ANR PRD DAPREDIS (2024-28)</strong><br>
+							We will soon (late 2024) be hiring a postdoc (Marseille) and PhD (Paris) to investigate data-driven representations of dislocation phenomena, at the atomic and mesoscales. There will be many opportunities for travel and collaboration with groups in the US, UK and France.
 							<br>
 							If this sounds interesting, please <a href="#contact">email me</a> with a CV and motivation letter.
 						</dt>
@@ -619,7 +625,7 @@
 				</div>
 			</section>
 
-			<section id="slides">
+			<section id="slides" class="two">
 				<div class="container">
 					<header>
 						<h2><span class="icon fa-tv">&nbsp;&nbsp;Some Presentations </h2>
