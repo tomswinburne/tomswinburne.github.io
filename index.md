@@ -22,8 +22,9 @@ Predicting how alloys age, bend and break
 remains a grand engineering challenge, limiting
 performance, reducing component life and raising emissions.<br> 
 We draw from condensed matter physics, dislocation theory and
-machine learning to discover atomic mechanisms of plasticity 
-and diffusion. A particular focus is robust uncertainty 
+machine learning to discover the atomic mechanisms of plasticity 
+and diffusion.<br>
+A particular focus is robust uncertainty 
 quantification for models that span many time and length scales.
 
 <strong>Recent papers / preprints (* = sole/corresponding)</strong><br>
