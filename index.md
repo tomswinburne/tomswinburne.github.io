@@ -17,7 +17,7 @@
 <strong>We're hiring:</strong> <a href="/projects">PhD & Postdoc (ANR DAPREDIS)</a>
 
 <strong>New approaches in computational metallurgy</strong><br>
-<em>Keywords: atomic simulation, enhanced sampling, data-driven coarse-graining, uncertainty quantification, Markov chains.</em><br>
+<em>Keywords: atomic simulation, enhanced sampling, data-driven coarse-graining, uncertainty quantification, stochastic processes.</em><br>
 Metal alloys are uniquely strong, ductile and recyclable.
 Predicting how metal components fail remains a grand challenge, 
 limiting performance, reducing lifetime and raising emissions.
