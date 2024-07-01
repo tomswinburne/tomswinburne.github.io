@@ -32,7 +32,7 @@ models spanning many time/length scales.<br>
 *Misspecification uncertainty for low-noise models
 <a href="https://arxiv.org/abs/2402.01810v3" _target="_new">ArXiv 2024</a><br>
 MACE foundation model (Csyani Group, Section A.13)
-<a href="https://doi.org/10.1063/5.0155322" >ArXiv 2023</a><br>
+<a href="https://arxiv.org/abs/2401.00096" >ArXiv 2023</a><br>
 *Free energies from mean-field bonds (PhD R Dsouza)
 <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064108" _target="_new" >Phys. Rev. B 2024</a><br>
 *Coarse-graining & forecasting MD with descriptors 
