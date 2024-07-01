@@ -31,20 +31,20 @@ models that span many time and length scales.<br>
 
 <strong>Recent preprints/papers (*= sole/corresponding)</strong><br>
 *Misspecification uncertainty for low-noise models<br>
-<a href="https://arxiv.org/abs/2402.01810v3" _target="_new" style="display: block; text-align: right;">ArXiv 2024</a>
+<a href="https://arxiv.org/abs/2402.01810v3" _target="_new" style="display: block; text-align:center;">ArXiv 2024</a>
 MACE model (Csyani Group, Section A.13)<br> 
-<a href="https://doi.org/10.1063/5.0155322" style="display: block; text-align: right;">ArXiv 2023</a>
+<a href="https://doi.org/10.1063/5.0155322" style="display: block; text-align:center;">ArXiv 2023</a>
 *Free energies from a mean-field bond (R Dsouza) <br> 
-<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064108" _target="_new" style="display: block; text-align: right;">Phys. Rev. B 2024</a>
+<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064108" _target="_new" style="display: block; text-align:center;">Phys. Rev. B 2024</a>
 *Coarse-graining & forecasting with descriptors <br>
-<a href="http://dx.doi.org/10.1103/PhysRevLett.131.236101" target="_new" style="display: block; text-align: right;"> Phys. Rev. Lett. 2023</a>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.131.236101" target="_new" style="display: block; text-align:center;"> Phys. Rev. Lett. 2023</a>
 *Embedded <em>ab initio</em> with <a href="https://github.com/marseille-matmol/LML-retrain" target="_new">QM/ML</a> (P Grigorev) <br>
-<a href="https://doi.org/10.1016/j.actamat.2023.118734" target="_new" style="display: block; text-align: right;">Acta Mat. 2023 </a>
+<a href="https://doi.org/10.1016/j.actamat.2023.118734" target="_new" style="display: block; text-align:center;">Acta Mat. 2023 </a>
 A15 defects in FCC (Marinica Group / <a href="https://github.com/tomswinburne/TAMMBER" target="_new">TAMMBER</a>)
 <br>
-<a href="https://www.nature.com/articles/s41467-023-38729-6" target="_new" style="display: block; text-align: right;">Nat. Comm. 2023</a>
+<a href="https://www.nature.com/articles/s41467-023-38729-6" target="_new" style="display: block; text-align:center;">Nat. Comm. 2023</a>
 *Ill-conditioned Markov chains (Wales Group/<a href="https://github.com/tomswinburne/PyGT" target="_new">PyGT</a>)<br>
-<a href="https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2022.0245" target="_new" style="display: block; text-align: right;">Proc. Roy. Soc. 2023</a><br>
+<a href="https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2022.0245" target="_new" style="display: block; text-align:center;">Proc. Roy. Soc. 2023</a><br>
 
 
 <strong>Upcoming invited conferences/seminars</strong><br>
