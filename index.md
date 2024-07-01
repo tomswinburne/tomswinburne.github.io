@@ -24,7 +24,7 @@ We use ideas from condensed matter physics, dislocation theory and
 machine learning to discover the atomic mechanisms of plasticity 
 and diffusion.
 A central focus is quantfying uncertainty in data-driven 
-models that span many time and length scales.<br>
+models spanning many time/length scales.<br>
 <em>Keywords: atomic simulation, enhanced sampling, data-driven coarse-graining, uncertainty quantification, stochastic processes.</em><br>
 
 
