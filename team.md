@@ -21,7 +21,7 @@ SALTO CNRS/MPG mobility grant scholar<br>
 PhD candidate under Prof J Neugebauer, Max Planck Dusseldorf
 
 ## Past Members
-<strong>Petr Grigorev</strong> Postdoc, Machine learning assisted DFT methods</br>
+<strong>Petr Grigorev</strong> Postdoc, Machine learning assisted DFT methods<br>
 Now: <strong>CNRS Researcher, MATEIS Lyon</strong>
 
 <strong>Clovis Lapointe</strong> PhD, machine learning for defect entropics (with MC Marinica)<br>
