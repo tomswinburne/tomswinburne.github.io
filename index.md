@@ -35,6 +35,7 @@ models spanning many time/length scales.<br>
 <a href="https://arxiv.org/abs/2402.01810v3" _target="_new">ArXiv 2024</a><br>
 MACE foundation model (Csyani Group, Section A.13)
 <a href="https://arxiv.org/abs/2401.00096" >ArXiv 2023</a><br>
+-------<br>
 *Free energies from mean-field bonds (PhD R Dsouza)
 <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064108" _target="_new" >Phys. Rev. B 2024</a><br>
 *Coarse-graining & forecasting MD with descriptors 
@@ -53,6 +54,7 @@ A15 defects in FCC (Marinica Group / <a href="https://github.com/tomswinburne/TA
 <a href="https://www.cimtec-congress.org/" target="_new">CIMTEC</a> Conference, Tuscany, June<br>
 <a href="https://www.imsi.institute/activities/data-driven-materials-informatics/" target="_new">
 IMSI</a> Workshops, U Chicago, March-June<br>
+-------<br>
 Engineering Seminar, U Oxford, October<br>
 Chemistry Seminar, U Cambridge, October<br>
 Hattrick-Simpers Seminar, U Toronto, July<br>
