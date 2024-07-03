@@ -17,6 +17,7 @@
 <strong>We're hiring:</strong> <a href="/projects">PhD & Postdoc (ANR DAPREDIS)</a>
 
 <strong>New approaches in computational metallurgy</strong><br>
+<em>Keywords: data-driven coarse-graining, uncertainty quantification, stochastic processes, atomic simulation, enhanced sampling.</em><br>
 Metal alloys are uniquely strong, ductile and recyclable.
 Predicting how metal components fail remains a grand challenge, 
 limiting performance, reducing lifetime and raising emissions.
@@ -25,10 +26,11 @@ machine learning to discover the atomic mechanisms of plasticity
 and diffusion.
 A central focus is quantfying uncertainty in data-driven 
 models spanning many time/length scales.<br>
-<em>Keywords: atomic simulation, enhanced sampling, data-driven coarse-graining, uncertainty quantification, stochastic processes.</em><br>
 
 
 <strong>Recent Preprints / Papers (* = sole/corres.)</strong><br>
+*Implicit differentiation in MD (postdoc I Maliyov)
+<a href="pdf/Maliyov_Swinburne_Implicit_Diff.pdf" _target="_new">ArXiv 2024</a><br>
 *Misspecification uncertainty for low-noise models
 <a href="https://arxiv.org/abs/2402.01810v3" _target="_new">ArXiv 2024</a><br>
 MACE foundation model (Csyani Group, Section A.13)
