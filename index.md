@@ -30,7 +30,7 @@ models spanning many time/length scales.<br>
 
 <strong>Recent Preprints / Papers (* = sole/corres.)</strong><br>
 *Implicit differentiation in MD (postdoc I Maliyov)
-<a href="pdf/Maliyov_Swinburne_Implicit_Diff.pdf" _target="_new">ArXiv 2024</a><br>
+<a href="https://arxiv.org/abs/2407.02414" _target="_new">ArXiv 2024</a><br>
 *Misspecification uncertainty for low-noise models
 <a href="https://arxiv.org/abs/2402.01810v3" _target="_new">ArXiv 2024</a><br>
 MACE foundation model (Csyani Group, Section A.13)
