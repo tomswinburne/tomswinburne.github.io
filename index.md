@@ -17,7 +17,7 @@
 <strong>We're hiring:</strong> <a href="/projects">PhD & Postdoc (ANR DAPREDIS)</a>
 
 <strong>New approaches in computational metallurgy</strong><br>
-<em>Keywords: data-driven coarse-graining, uncertainty quantification, stochastic processes, atomic simulation, enhanced sampling.</em><br>
+<em>Keywords: data-driven coarse-graining, uncertainty quantification, atomic simulation, rare event sampling, dislocation plasticity, Markov chains</em><br>
 Metal alloys are uniquely strong, ductile and recyclable.
 Predicting how metal components fail remains a grand challenge, 
 limiting performance, reducing lifetime and raising emissions.
@@ -28,23 +28,23 @@ A central focus is quantfying uncertainty in data-driven
 models spanning many time/length scales.<br>
 
 
-<strong>Recent Preprints / Papers (* = sole/corres.)</strong><br>
-*Implicit differentiation in MD (postdoc I Maliyov)
+<strong>Recent Preprints / Papers (&Dagger; = sole/corres.)</strong><br>
+&Dagger;Implicit differentiation in MD (postdoc I Maliyov)
 <a href="https://arxiv.org/abs/2407.02414" _target="_new">ArXiv 2024</a><br>
-*Misspecification uncertainty for low-noise models
+&Dagger;Misspecification uncertainty for low-noise models
 <a href="https://arxiv.org/abs/2402.01810v3" _target="_new">ArXiv 2024</a><br>
 MACE foundation model (Csyani Group, Section A.13)
 <a href="https://arxiv.org/abs/2401.00096" >ArXiv 2023</a><br>
 -------<br>
-*Free energies from mean-field bonds (PhD R Dsouza)
+&Dagger;Free energies from mean-field bonds (PhD R Dsouza)
 <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064108" _target="_new" >Phys. Rev. B 2024</a><br>
-*Coarse-graining & forecasting MD with descriptors 
+&Dagger;Coarse-graining & forecasting MD with descriptors 
 <a href="http://dx.doi.org/10.1103/PhysRevLett.131.236101" target="_new" > Phys. Rev. Lett. 2023</a><br>
-*Embedded <em>ab initio</em> with <a href="https://github.com/marseille-matmol/LML-retrain" target="_new">QM/ML</a> (postdoc P Grigorev)
+&Dagger;Embedded <em>ab initio</em> with <a href="https://github.com/marseille-matmol/LML-retrain" target="_new">QM/ML</a> (postdoc P Grigorev)
 <a href="https://doi.org/10.1016/j.actamat.2023.118734" target="_new" >Acta Mat. 2023 </a><br>
 A15 defects in FCC (Marinica Group / <a href="https://github.com/tomswinburne/TAMMBER" target="_new">TAMMBER</a>)
 <a href="https://www.nature.com/articles/s41467-023-38729-6" target="_new" >Nat. Comm. 2023</a><br>
-*Ill-conditioned Markov chains (Wales Group / <a href="https://github.com/tomswinburne/PyGT" target="_new">PyGT</a>)
+&Dagger;Ill-conditioned Markov chains (Wales Group / <a href="https://github.com/tomswinburne/PyGT" target="_new">PyGT</a>)
 <a href="https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2022.0245" target="_new" >Proc. Roy. Soc. 2023</a><br>
 
 
