@@ -55,9 +55,10 @@ A15 defects in FCC (Marinica Group / <a href="https://github.com/tomswinburne/TA
 <a href="https://www.imsi.institute/activities/data-driven-materials-informatics/" target="_new">
 IMSI</a> Workshops, U Chicago, March-June<br>
 -------<br>
+Physics Seminar, École Polytechnique, November<br>
 Engineering Seminar, U Oxford, October<br>
 Chemistry Seminar, U Cambridge, October<br>
-Hattrick-Simpers Seminar, U Toronto, July<br>
+Hattrick-Simpers Group, U Toronto, July<br>
 UQ Seminar, LLNL, June (remote)<br>
 Mech Eng Seminar, U Michigan, February<br>
 TYC Seminar, Imperial College London, January
