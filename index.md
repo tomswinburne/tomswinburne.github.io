@@ -15,6 +15,8 @@
 <a href="https://github.com/tomswinburne/tammber.git" target="_new">TAMMBER</a>-->
 
 <strong>We're hiring:</strong> <a href="/projects">PhD & Postdoc (ANR DAPREDIS)</a>
+<strong><a href="https://emploi.cnrs.fr/Offres/Doctorant/UPR3407-SYLQUE-002/Default.aspx" target="_new">PhD Application</a></strong>
+
 
 <strong>New approaches in computational metallurgy</strong><br>
 <em>Keywords: data-driven coarse-graining, uncertainty quantification, atomic simulation, rare event sampling, dislocation plasticity, Markov chains</em><br>
