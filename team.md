@@ -3,6 +3,7 @@
 Data-Driven Prediction of Dislocation Plasticity
 
 With S Queyreau, LPSM, Sorbonne, Paris Nord
+<strong><a href="https://emploi.cnrs.fr/Offres/Doctorant/UPR3407-SYLQUE-002/Default.aspx" target="_new">PhD Application</a></strong>
 
 Motivated candidates with an interest in machine learning, 
 plasticity and dynamical systems should email me for more
