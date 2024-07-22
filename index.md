@@ -55,7 +55,7 @@ A15 defects in FCC (Marinica Group / <a href="https://github.com/tomswinburne/TA
 <a href="https://indico3.mpi-magdeburg.mpg.de/event/40/" target="_new">UQ Meeting</a>, Max Planck Magdeburg, August<br>
 <a href="https://www.cimtec-congress.org/" target="_new">CIMTEC</a> Conference, Tuscany, June<br>
 <a href="https://www.imsi.institute/activities/data-driven-materials-informatics/" target="_new">
-IMSI</a> Workshops, U Chicago, March-June<br>
+IMSI</a> Long Program, U Chicago, March-June<br>
 -------<br>
 <a href="https://portail.polytechnique.edu/physique/fr/seminaires/seminaire-general-du-departement-de-physique" target="_new">General Physics Seminar</a>, École Polytechnique, November<br>
 Engineering Seminar, U Oxford, October<br>
