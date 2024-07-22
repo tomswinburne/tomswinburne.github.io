@@ -50,7 +50,7 @@ A15 defects in FCC (Marinica Group / <a href="https://github.com/tomswinburne/TA
 <a href="https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2022.0245" target="_new" >Proc. Roy. Soc. 2023</a><br>
 
 
-<strong>Some Invited Conferences / Seminars</strong><br>
+<strong>Some Invited Conferences / Seminars in 2024</strong><br>
 <a href="https://www.mrs.org/meetings-events/fall-meetings-exhibits/2024-mrs-fall-meeting/call-for-papers/detail/2024_mrs_fall_meeting/mt01/Symposium_MT01" target="_new">MRS Fall</a> Meeting, Boston, November<br>
 <a href="https://indico3.mpi-magdeburg.mpg.de/event/40/" target="_new">UQ Meeting</a>, Max Planck Magdeburg, August<br>
 <a href="https://www.cimtec-congress.org/" target="_new">CIMTEC</a> Conference, Tuscany, June<br>
