@@ -58,6 +58,7 @@ A15 defects in FCC (Marinica Group / <a href="https://github.com/tomswinburne/TA
 IMSI</a> Long Program, U Chicago, March-June<br>
 -------<br>
 <a href="https://portail.polytechnique.edu/physique/fr/seminaires/seminaire-general-du-departement-de-physique" target="_new">General Physics Seminar</a>, École Polytechnique, November<br>
+International Nuclear Engineering Colloquium, MIT/Oxford (remote), November<br>
 Engineering Seminar, U Oxford, October<br>
 Chemistry Seminar, U Cambridge, October<br>
 Hattrick-Simpers Group Seminar, U Toronto, July<br>
