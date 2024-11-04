@@ -61,7 +61,7 @@ A15 defects in FCC (Marinica Group / <a href="https://github.com/tomswinburne/TA
 Hattrick-Simpers Group Seminar, U Toronto, July<br>
 <a href="https://www.cimtec-congress.org/" target="_new">CIMTEC</a> Conference, Tuscany, June<br>
 <a href="https://www.imsi.institute/activities/data-driven-materials-informatics/" target="_new">
-IMSI</a> Long Program, U Chicago, March-June<br>
+IMSI</a> Long Program, U Chicago, March-June (<a href="https://www.imsi.institute/videos/descriptor-coarse-graining-and-forecasting-atomic-simulations/" target="_new">video</a>)<br>
 UQ Seminar, LLNL, June (remote)<br>
 Mech Eng Seminar, U Michigan, February<br>
 TYC Seminar, Imperial College London, January
