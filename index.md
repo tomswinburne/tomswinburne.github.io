@@ -52,17 +52,16 @@ A15 defects in FCC (Marinica Group / <a href="https://github.com/tomswinburne/TA
 <a href="https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2022.0245" target="_new" >Proc. Roy. Soc. 2023</a><br>
 
 <strong>Some Invited Conferences / Seminars in 2024</strong><br>
-<a href="https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-meeting/symposium-sessions/call-for-papers/2024-fall-meeting/Symposium_MT01" target="_new">MRS Fall</a> Meeting, Boston, November<br>
+<a href="https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-meeting/symposium-sessions/call-for-papers/2024-fall-meeting/Symposium_MT01" target="_new">MRS Fall</a> Meeting, Boston, December<br>
+<a href="https://www.polytechnique.edu/education/departements-denseignement-et-de-recherche/departement-de-physique/seminaires-et-conferences" target="_new">General Physics Seminar</a>, École Polytechnique, November<br>
+<a href="https://ukaea.zoom.us/webinar/register/WN_w6W5HMKfSwug8ZIFYRQf9g#/registration" ttarget="_new">International Nuclear Engineering Consortium</a>, MIT/Oxford, November<br>
+<a href="https://eng.ox.ac.uk/solidmech/seminars/" target="_new">Engineering Seminar</a>, U Oxford, October<br>
+<a href="https://www.ch.cam.ac.uk/talk/216568" target="_new">Chemistry Seminar</a>, U Cambridge, October<br>
 <a href="https://indico3.mpi-magdeburg.mpg.de/event/40/" target="_new">UQ Meeting</a>, Max Planck Magdeburg, August<br>
+Hattrick-Simpers Group Seminar, U Toronto, July<br>
 <a href="https://www.cimtec-congress.org/" target="_new">CIMTEC</a> Conference, Tuscany, June<br>
 <a href="https://www.imsi.institute/activities/data-driven-materials-informatics/" target="_new">
 IMSI</a> Long Program, U Chicago, March-June<br>
--------<br>
-<a href="https://www.polytechnique.edu/education/departements-denseignement-et-de-recherche/departement-de-physique/seminaires-et-conferences" target="_new">General Physics Seminar</a>, École Polytechnique, November<br>
-<a href="https://ukaea.zoom.us/webinar/register/WN_w6W5HMKfSwug8ZIFYRQf9g#/registration" ttarget="_new">MIT/Oxford International Nuclear Engineering Consortium</a>, November<br>
-<a href="https://eng.ox.ac.uk/solidmech/seminars/" target="_new">Engineering Seminar</a>, U Oxford, October<br>
-<a href="https://www.ch.cam.ac.uk/talk/216568" target="_new">Chemistry Seminar</a>, U Cambridge, October<br>
-Hattrick-Simpers Group Seminar, U Toronto, July<br>
 UQ Seminar, LLNL, June (remote)<br>
 Mech Eng Seminar, U Michigan, February<br>
 TYC Seminar, Imperial College London, January
