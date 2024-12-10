@@ -19,16 +19,16 @@
 
 
 <strong>New approaches in computational metallurgy</strong><br>
-<em>Keywords: data-driven coarse-graining, uncertainty quantification, atomic simulation, rare event sampling, dislocation plasticity, Markov chains</em><br>
+<!--<em>Keywords: data-driven coarse-graining, uncertainty quantification, atomic simulation, rare event sampling, dislocation plasticity, Markov chains</em><br>-->
 Metal alloys are uniquely strong, ductile and recyclable.
 Predicting how metal components fail remains a grand challenge, 
-limiting performance, reducing lifetime and raising emissions.
-We use ideas from condensed matter physics, dislocation theory and
-machine learning to discover the atomic mechanisms of plasticity 
-and diffusion.
-A central focus is quantfying uncertainty in data-driven 
-models spanning many time/length scales.<br>
+limiting performance, reducing lifetime and raising emissions.<br>
 
+We use ideas from condensed matter physics, dislocation theory, 
+statistics and machine learning to discover the atomic mechanisms 
+of plasticity and diffusion. A central method focus is quantfying 
+uncertainty in data-driven models spanning many time and 
+length scale, whilst many applications concern nuclear materials.<br>
 
 <strong>Recent Preprints / Papers (&Dagger; = sole/corres.)</strong><br>
 Entropy of dislocation glide (Rodney Group / <a href="https://github.com/tomswinburne/PAFI" target="_new">PAFI</a>)
@@ -59,6 +59,7 @@ Fritz Haber Institute of the Max Planck Society, Berlin, 04/25<br>
 Keynote, <a href="https://mecanano.com/working-groups/wg2/" target="_new">MecaNano</a> symposium, online, 02/25<br>
 <a href="https://2025.appliedmldays.org/" target="_new">AppliedML 2025</a>, EPFL, 02/25<br>
 <br>
+IPAM Reunion, Lake Arrowhead, 12/24<br>
 <a href="https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-meeting/symposium-sessions/call-for-papers/2024-fall-meeting/Symposium_MT01" target="_new">MRS Fall</a> Meeting, Boston, 12/24<br>
 <a href="https://www.polytechnique.edu/education/departements-denseignement-et-de-recherche/departement-de-physique/seminaires-et-conferences" target="_new">General Physics Seminar</a>, École Polytechnique, 11/24<br>
 <a href="https://ukaea.zoom.us/webinar/register/WN_w6W5HMKfSwug8ZIFYRQf9g#/registration" ttarget="_new">International Nuclear Engineering Consortium</a>, MIT/Oxford, 11/24<br>
