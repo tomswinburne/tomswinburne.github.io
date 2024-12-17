@@ -24,19 +24,22 @@ Metal alloys are uniquely strong, ductile and recyclable.
 Predicting how metal components fail remains a grand challenge, 
 limiting performance, reducing lifetime and raising emissions.<br>
 
-We use ideas from condensed matter physics, dislocation theory, 
-statistics and machine learning to discover the atomic mechanisms 
-of plasticity and diffusion. A central method focus is quantfying 
-uncertainty in data-driven models spanning many time and 
-length scale, whilst many applications concern nuclear materials.<br>
+Our work pushes the boundaries of multi-scale simulations
+to study of plasticity, diffusion and thermodynamic stability 
+in metallic materials, drawing from (and contributing to) 
+condensed matter physics, dislocation theory, statistics and machine learning.<br>
+
+A particular focus is robust uncertainty quantification in data-driven models 
+spanning many time and length scales, whilst applications often focus on 
+material challenges faced by nuclear fission and future fusion reactors.<br>
 
 <strong>Recent Preprints / Papers (&Dagger; = sole/corres.)</strong><br>
 Entropy of dislocation glide (Rodney Group / <a href="https://github.com/tomswinburne/PAFI" target="_new">PAFI</a>)
 <a href="https://arxiv.org/abs/2410.04813" target="_new" >ArXiv 2024</a><br>
-&Dagger;Implicit differentiation in MD (<b>Ivan Maliyov</b>)
-<a href="https://arxiv.org/abs/2407.02414" _target="_new">ArXiv 2024</a> <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a><br>
+&Dagger;Implicit differentiation in  (<b>Ivan Maliyov</b>)
+<a href="https://arxiv.org/abs/2407.02414" _target="_new">ArXiv 2024</a> (to appear in NPJ Comp. Mat.) <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a><br>
 &Dagger;Misspecification uncertainty for low-noise models
-<a href="https://arxiv.org/abs/2402.01810v5" _target="_new">ArXiv 2024</a><br>
+<a href="https://arxiv.org/abs/2402.01810v5" _target="_new">ArXiv 2024</a> (to appear in ML:Sci. & Tech.)<br>
 MACE foundation model (Csyani Group, Section A.13)
 <a href="https://arxiv.org/abs/2401.00096" >ArXiv 2023</a><br>
 -------<br>
@@ -59,7 +62,7 @@ Fritz Haber Institute of the Max Planck Society, Berlin, 04/25<br>
 Keynote, <a href="https://mecanano.com/working-groups/wg2/" target="_new">MecaNano</a> symposium, online, 02/25<br>
 <a href="https://2025.appliedmldays.org/" target="_new">AppliedML 2025</a>, EPFL, 02/25<br>
 <br>
-IPAM Reunion, Lake Arrowhead, 12/24<br>
+Evening Symposium, IPAM Reunion, Lake Arrowhead, 12/24<br>
 <a href="https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-meeting/symposium-sessions/call-for-papers/2024-fall-meeting/Symposium_MT01" target="_new">MRS Fall</a> Meeting, Boston, 12/24<br>
 <a href="https://www.polytechnique.edu/education/departements-denseignement-et-de-recherche/departement-de-physique/seminaires-et-conferences" target="_new">General Physics Seminar</a>, École Polytechnique, 11/24<br>
 <a href="https://ukaea.zoom.us/webinar/register/WN_w6W5HMKfSwug8ZIFYRQf9g#/registration" ttarget="_new">International Nuclear Engineering Consortium</a>, MIT/Oxford, 11/24<br>
