@@ -37,7 +37,7 @@ Entropy of dislocation glide (Rodney Group / <a href="https://github.com/tomswin
 <a href="https://arxiv.org/abs/2410.04813" target="_new" >ArXiv 2024</a><br>
 &Dagger;Implicit differentiation in MD (<b>Ivan Maliyov</b>)
 <a href="https://arxiv.org/abs/2407.02414" _target="_new">ArXiv 2024</a> (NPJ 2025) <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a><br>
-&Dagger;Misspecification uncertainty for low-noise models
+&Dagger;POPS misspecification uncertainty
 <a href="https://arxiv.org/abs/2402.01810v5" _target="_new">ArXiv 2024</a> (ML:S&T 2025) <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a><br>
 MACE foundation model (Csyani Group, Section A.13)
 <a href="https://arxiv.org/abs/2401.00096" >ArXiv 2023</a><br>
