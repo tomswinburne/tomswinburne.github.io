@@ -26,11 +26,10 @@ limiting performance, reducing lifetime and raising emissions.<br>
 
 Our work pushes the boundaries of multi-scale simulations
 to study of plasticity, diffusion and thermodynamic stability 
-in metallic materials, drawing from (and contributing to) 
-condensed matter physics, dislocation theory, statistics and machine learning.<br>
-
+in metallic materials, drawing on condensed matter physics, 
+thermodynamics, dislocation theory, statistics and machine learning. 
 A particular focus is robust uncertainty quantification in data-driven models 
-spanning many time and length scales, whilst applications often focus on 
+spanning many time and length scales. Applications often focus on 
 material challenges faced by nuclear fission and future fusion reactors.<br>
 
 <strong>Recent Preprints / Papers (&Dagger; = sole/corres.)</strong><br>
