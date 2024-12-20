@@ -36,9 +36,9 @@ material challenges faced by nuclear fission and future fusion reactors.<br>
 Entropy of dislocation glide (Rodney Group / <a href="https://github.com/tomswinburne/PAFI" target="_new">PAFI</a>)
 <a href="https://arxiv.org/abs/2410.04813" target="_new" >ArXiv 2024</a><br>
 &Dagger;Implicit differentiation in  (<b>Ivan Maliyov</b>)
-<a href="https://arxiv.org/abs/2407.02414" _target="_new">ArXiv 2024</a> (to appear in NPJ Comp. Mat.) <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a><br>
+<a href="https://arxiv.org/abs/2407.02414" _target="_new">ArXiv 2024</a> (NPJ Comp. Mat. 02025) <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a><br>
 &Dagger;Misspecification uncertainty for low-noise models
-<a href="https://arxiv.org/abs/2402.01810v5" _target="_new">ArXiv 2024</a> (to appear in ML:Sci. & Tech.)<br>
+<a href="https://arxiv.org/abs/2402.01810v5" _target="_new">ArXiv 2024</a> (ML:Sci. & Tech. 2025)<br>
 MACE foundation model (Csyani Group, Section A.13)
 <a href="https://arxiv.org/abs/2401.00096" >ArXiv 2023</a><br>
 -------<br>
