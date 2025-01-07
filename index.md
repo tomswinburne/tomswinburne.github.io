@@ -12,16 +12,17 @@ Metals are uniquely strong, ductile and recyclable. However,
 predicting component failure remains a grand engineering challenge,
 limiting performance, shortening component life and increasing costs/emissions. 
 
-We push the boundaries of multi-scale theory and simulation for metallic alloys, drawing from physics, mathematics, mechanics and machine learning. 
-<em>Keywords: atomic simulation, dislocations, UQ, forecasting, descriptor models</em><br>
+We push the boundaries of theory and simulation for metallic alloys, 
+from the atomic scale up. Our research draws from physics, mathematics, mechanics and machine learning. A particular focus is quantifing uncertainty in the predictions of data-driven models spanning many time and length scales.<br>
+<em>Keywords: atomic simulation, dislocations, UQ, Markov models, forecasting</em><br>
 
 <strong>Recent Preprints / Papers (&Dagger; = sole/corres.)</strong><br>
-Entropy of dislocation glide (Rodney Group / <a href="https://github.com/tomswinburne/PAFI" target="_new">PAFI</a>)
-<a href="https://arxiv.org/abs/2410.04813" target="_new" >ArXiv 2024</a><br>
 &Dagger;Implicit differentiation in MD (<b>Ivan Maliyov</b>)
 <a href="https://arxiv.org/abs/2407.02414" _target="_new">ArXiv 2024</a> (NPJ 2025) <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a><br>
 &Dagger;POPS misspecification uncertainty
 <a href="https://arxiv.org/abs/2402.01810v5" _target="_new">ArXiv 2024</a> (ML:S&T 2025) <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a><br>
+Entropy of dislocation glide (Rodney Group / <a href="https://github.com/tomswinburne/PAFI" target="_new">PAFI</a>)
+<a href="https://arxiv.org/abs/2410.04813" target="_new" >ArXiv 2024</a><br>
 MACE foundation model (Csyani Group, Section A.13)
 <a href="https://arxiv.org/abs/2401.00096" >ArXiv 2023</a><br>
 -------<br>
@@ -33,13 +34,14 @@ MACE foundation model (Csyani Group, Section A.13)
 <a href="https://doi.org/10.1016/j.actamat.2023.118734" target="_new" >Acta Mat. 2023 </a><br>
 A15 defects in FCC (Marinica Group / <a href="https://github.com/tomswinburne/TAMMBER" target="_new">TAMMBER</a>)
 <a href="https://www.nature.com/articles/s41467-023-38729-6" target="_new" >Nat. Comm. 2023</a><br>
-&Dagger;Ill-conditioned Markov chains (Wales Group / <a href="https://github.com/tomswinburne/PyGT" target="_new">PyGT</a>)
-<a href="https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2022.0245" target="_new" >Proc. Roy. Soc. 2023</a><br>
+<!--&Dagger;Ill-conditioned Markov chains (Wales Group / <a href="https://github.com/tomswinburne/PyGT" target="_new">PyGT</a>)
+<a href="https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2022.0245" target="_new" >Proc. Roy. Soc. 2023</a><br>-->
 
 <strong>Recent & Upcoming Invited Conferences/Seminars</strong><br>
 <a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25<br>
 Speaker & Senior Scholar, <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM</a>, UCLA, 9/25-12/25<br>
 Fritz Haber Institute of the Max Planck Society, Berlin, 04/25<br>
+APS March Meeting, USA (virtual), 03/25 <br>
 Condensed Matter Physics Seminar, École Polytechnique, 03/25<br>
 <a href="https://www.cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283" target="_new">CECAM</a> workshop, Lausanne, 03/25<br>
 Keynote, <a href="https://mecanano.com/working-groups/wg2/" target="_new">MecaNano</a> symposium, online, 02/25<br>

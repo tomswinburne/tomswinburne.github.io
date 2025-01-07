@@ -1,13 +1,14 @@
-### Open Positions in Marseille
-I will be changing institutions and am currently not hiring in Marseille- more news soon. Please see below for past group members. There are exciting open positions with collaborators in France. Email me <code>thomas.swinburne-at-cnrs.fr</code> for more information on any project, including your CV. 
+### Open Positions
+<em>I am not hiring as main supervisor as I will be moving in August 2025</em><br>
+There are exciting open positions with collaborators in France, email me <code>thomas.swinburne-at-cnrs.fr</code> for more information on any project, including your CV. See below for past members and their current employment. 
 
 <strong>PhD + Postdoc (Paris) in ANR PRC DAPREDIS</strong><br>
 <em>Data-Driven prediction of dislocation plasticity</em><br>
-With S Queyreau, LPSM, Sorbonne, Paris Nord (PIs: TDS & SQ)
+Supervisor: S Queyreau, LPSM, Sorbonne, Paris Nord (PIs: TDS & SQ)
 
 <strong>Postdoc (IRSN Caderache)</strong><br>
 <em>Machine learning models for irradiation damage</em><br>
-With A Allera, IRSN, Caderache (PIs: TDS & AA)
+Supervisor: A Allera, IRSN, Caderache (PIs: TDS & AA)
 
 ## Past Members
 <strong>Ivan Maliyov</strong><br>
