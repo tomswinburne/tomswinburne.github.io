@@ -1,5 +1,5 @@
 ### Open Positions
-<em>I am not hiring as main supervisor as I will be moving in August 2025</em><br>
+<em>I am not hiring as main supervisor until August 2025</em><br>
 There are exciting open positions with collaborators in France, email me <code>thomas.swinburne-at-cnrs.fr</code> for more information on any project, including your CV. See below for past members and their current employment. 
 
 <strong>PhD + Postdoc (Paris) in ANR PRC DAPREDIS</strong><br>
