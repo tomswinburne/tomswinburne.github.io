@@ -1,36 +1,19 @@
-## Thomas D Swinburne (Tom)
-<a href="http://www.cnrs.fr" target="_new">CNRS</a> Researcher, 
-<a href="http://www.cinam.univ-mrs.fr" target="_new">CiNAM</a>,
-<a href="https://www.calanques-parcnational.fr" target="_new">Luminy</a>, Marseille
-<br>
-<code>thomas "." swinburne "@" cnrs "." fr</code><br>
+## Thomas D Swinburne, <a href="http://www.cnrs.fr" target="_new">CNRS</a>
 <a href="pdf/CV-TomSwinburne-2024.pdf" target="_new">CV</a>
 &nbsp;/&nbsp;
 <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a>
 &nbsp;/&nbsp;
 <a href="https://github.com/tomswinburne/" target="_new">GitHub</a>
-<!--&nbsp;/&nbsp;
-<a href="https://github.com/tomswinburne/pafi.git" target="_new">PAFI</a>
 &nbsp;/&nbsp;
-<a href="https://github.com/tomswinburne/tammber.git" target="_new">TAMMBER</a>-->
-
-<strong>We're hiring:</strong> <a href="/projects">PhD & Postdoc (ANR DAPREDIS)</a>
-<strong><a href="https://emploi.cnrs.fr/Offres/Doctorant/UPR3407-SYLQUE-002/Default.aspx" target="_new">PhD Application</a></strong>
-
+<code>thomas.swinburne-at-cnrs.fr</code>
 
 <strong>New approaches in computational metallurgy</strong><br>
-<!--<em>Keywords: data-driven coarse-graining, uncertainty quantification, atomic simulation, rare event sampling, dislocation plasticity, Markov chains</em><br>-->
-Metal alloys are uniquely strong, ductile and recyclable.
-Predicting how metal components fail remains a grand challenge, 
-limiting performance, reducing lifetime and raising emissions.<br>
+Metals are uniquely strong, ductile and recyclable. However,
+predicting component failure remains a grand engineering challenge,
+limiting performance, shortening component life and increasing costs/emissions. 
 
-Our work pushes the boundaries of multi-scale simulations
-to study of plasticity, diffusion and thermodynamic stability 
-in metallic materials, drawing on condensed matter physics, 
-thermodynamics, dislocation theory, statistics and machine learning. 
-A particular focus is robust uncertainty quantification in data-driven models 
-spanning many time and length scales. Applications often focus on 
-material challenges faced by nuclear fission and future fusion reactors.<br>
+We push the boundaries of multi-scale theory and simulation for metallic alloys, drawing from physics, mathematics, mechanics and machine learning. 
+<em>Keywords: atomic simulation, dislocations, UQ, forecasting, descriptor models</em><br>
 
 <strong>Recent Preprints / Papers (&Dagger; = sole/corres.)</strong><br>
 Entropy of dislocation glide (Rodney Group / <a href="https://github.com/tomswinburne/PAFI" target="_new">PAFI</a>)
