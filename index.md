@@ -8,12 +8,11 @@
 <code>thomas.swinburne-at-cnrs.fr</code>
 
 <strong>New approaches in computational metallurgy</strong><br>
-Metals are uniquely strong, ductile and recyclable. However,
-predicting component failure remains a grand engineering challenge,
-limiting performance, shortening component life and increasing costs/emissions. 
+Metals are uniquely strong, ductile and recyclable, but 
+understanding how metallic alloys form, age and fail remains a grand engineering challenge. This limits performance, shortens component life and increases both costs and emissions.
 
-We push the boundaries of theory and simulation for metallic alloys, 
-from the atomic scale up. Our research draws from physics, mathematics, mechanics and machine learning. A particular focus is quantifing uncertainty in the predictions of data-driven models spanning many time and length scales.<br>
+We push the boundaries of theory and simulation for materials,
+connecting atomic dynamics to engineering properties using ideas from physics, mathematics, mechanics and machine learning. A particular focus is robustly quantifing uncertainty in the predictions of multi-scale, data-driven models.<br>
 <em>Keywords: atomic simulation, dislocations, UQ, Markov models, forecasting</em><br>
 
 <strong>Recent Preprints / Papers (&Dagger; = sole/corres.)</strong><br>
