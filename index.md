@@ -7,6 +7,8 @@
 &nbsp;/&nbsp;
 <code>thomas.swinburne-at-cnrs.fr</code>
 
+<strong><code>POPS-Regression</code>  is now public! <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">GitHub</a></strong>
+
 <strong>New approaches in computational metallurgy</strong><br>
 Metallic alloys are uniquely strong, ductile and recyclable, but predicting how component failure remains a grand engineering challenge.
 This limits performance, shortens life and raises costs/emissions.
@@ -14,26 +16,29 @@ This limits performance, shortens life and raises costs/emissions.
 We push the boundaries of theory and simulation for materials, connecting atomic dynamics to engineering properties. Our research draws from physics, mathematics, mechanics and machine learning. A particular focus is quantifing uncertainty in multi-scale, data-driven models.<br>
 <em>Keywords: atomic simulation, dislocations, UQ, Markov models, forecasting</em><br>
 
-<strong>Recent Preprints / Papers (&Dagger; = sole/corres.)</strong><br>
-&Dagger;Implicit differentiation in MD (<b>Ivan Maliyov</b>)
-<a href="https://arxiv.org/abs/2407.02414" _target="_new">ArXiv 2024</a> (NPJ 2025) <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a><br>
-&Dagger;POPS misspecification uncertainty
-<a href="https://arxiv.org/abs/2402.01810v5" _target="_new">ArXiv 2024</a> (ML:S&T 2025) <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a><br>
+<strong>Recent papers/preprints from the group</strong><br>
+Implicit differentiation in MD (<b>Ivan Maliyov</b>)
+<a href="https://arxiv.org/abs/2407.02414" _target="_new">NPJ Comp. Mat. 2025</a> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a><br>
+POPS misspecification uncertainty
+<a href="https://arxiv.org/abs/2402.01810v5" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a><br>
+Coarse-graining & forecasting MD with descriptors 
+<a href="http://dx.doi.org/10.1103/PhysRevLett.131.236101" target="_new" > Phys. Rev. Lett. 2023</a><br>
+Embedded <em>ab initio</em> with QM/ML (<b>Petr Grigorev</b>)
+<a href="https://doi.org/10.1016/j.actamat.2023.118734" target="_new" >Acta Mat. 2023 </a> / 
+<a href="https://github.com/marseille-matmol/LML-retrain" target="_new">code</a><br>
+
+
+<strong>Recent papers/preprints with collaborators</strong><br>
 Entropy of dislocation glide (Rodney Group / <a href="https://github.com/tomswinburne/PAFI" target="_new">PAFI</a>)
 <a href="https://arxiv.org/abs/2410.04813" target="_new" >ArXiv 2024</a><br>
+Free energies from mean-field bonds (<b>Raynol Dsouza</b>)
+<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064108" _target="_new" >Phys. Rev. B 2024</a><br>
 MACE foundation model (Csyani Group, Section A.13)
 <a href="https://arxiv.org/abs/2401.00096" >ArXiv 2023</a><br>
--------<br>
-&Dagger;Free energies from mean-field bonds (<b>Raynol Dsouza</b>)
-<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064108" _target="_new" >Phys. Rev. B 2024</a><br>
-&Dagger;Coarse-graining & forecasting MD with descriptors 
-<a href="http://dx.doi.org/10.1103/PhysRevLett.131.236101" target="_new" > Phys. Rev. Lett. 2023</a><br>
-&Dagger;Embedded <em>ab initio</em> with <a href="https://github.com/marseille-matmol/LML-retrain" target="_new">QM/ML</a> (<b>Petr Grigorev</b>)
-<a href="https://doi.org/10.1016/j.actamat.2023.118734" target="_new" >Acta Mat. 2023 </a><br>
 A15 defects in FCC (Marinica Group / <a href="https://github.com/tomswinburne/TAMMBER" target="_new">TAMMBER</a>)
 <a href="https://www.nature.com/articles/s41467-023-38729-6" target="_new" >Nat. Comm. 2023</a><br>
-<!--&Dagger;Ill-conditioned Markov chains (Wales Group / <a href="https://github.com/tomswinburne/PyGT" target="_new">PyGT</a>)
-<a href="https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2022.0245" target="_new" >Proc. Roy. Soc. 2023</a><br>-->
+Ill-conditioned Markov chains (Wales Group / <a href="https://github.com/tomswinburne/PyGT" target="_new">PyGT</a>)
+<a href="https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2022.0245" target="_new" >Proc. Roy. Soc. 2023</a><br>
 
 <strong>Recent & Upcoming Invited Conferences/Seminars</strong><br>
 <a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25<br>
