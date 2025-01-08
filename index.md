@@ -41,7 +41,7 @@ A15 defects in FCC (Marinica Group / <a href="https://github.com/tomswinburne/TA
 <a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25<br>
 Speaker & Senior Scholar, <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM</a>, UCLA, 9/25-12/25<br>
 Fritz Haber Institute of the Max Planck Society, Berlin, 04/25<br>
-APS March Meeting, USA (virtual), 03/25 <br>
+<s>APS March Meeting, Anaheim, 03/25</s> <br>
 Condensed Matter Physics Seminar, École Polytechnique, 03/25<br>
 <a href="https://www.cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283" target="_new">CECAM</a> workshop, Lausanne, 03/25<br>
 Keynote, <a href="https://mecanano.com/working-groups/wg2/" target="_new">MecaNano</a> symposium, online, 02/25<br>
