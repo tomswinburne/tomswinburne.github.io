@@ -10,10 +10,9 @@
 <strong><code>POPS-Regression</code>  is now public! <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">GitHub</a></strong>
 
 <strong>New approaches in computational metallurgy</strong><br>
-Metallic alloys are uniquely strong, ductile and recyclable, but predicting how component failure remains a grand engineering challenge.
-This limits performance, shortens life and raises costs/emissions.
+Metallic alloys are uniquely strong, ductile and recyclable, but predicting how components fail remains a grand engineering challenge, limiting performance and increasing costs/emissions.
 
-We push the boundaries of theory and simulation for materials, connecting atomic dynamics to engineering properties. Our research draws from physics, mathematics, mechanics and machine learning. A particular focus is quantifing uncertainty in multi-scale, data-driven models.<br>
+Our research pushes the boundaries of theory and simulation for materials, connecting atomic dynamics to engineering properties. Drawing broadly from mechanics, physics, statistics and machine learning, a particular focus is quantifing uncertainty in multi-scale, data-driven models.<br>
 <em>Keywords: atomic simulation, dislocations, UQ, Markov models, forecasting</em><br>
 
 <strong>Recent papers/preprints from the group</strong><br>
@@ -43,7 +42,7 @@ Ill-conditioned Markov chains (Wales Group / <a href="https://github.com/tomswin
 <strong>Recent & Upcoming Invited Conferences/Seminars</strong><br>
 <a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25<br>
 Speaker & Senior Scholar, <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM</a>, UCLA, 9/25-12/25<br>
-Fritz Haber Institute of the Max Planck Society, Berlin, 04/25<br><s>APS March Meeting, Anaheim, 03/25</s><br>Condensed Matter Physics Seminar, École Polytechnique, 03/25<br>
+Fritz Haber Institute of the Max Planck Society, Berlin, 04/25<br><s>APS March Meeting, Anaheim, 03/25</s> (unavailable)<br>Condensed Matter Physics Seminar, École Polytechnique, 03/25<br>
 <a href="https://www.cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283" target="_new">CECAM</a> workshop, Lausanne, 03/25<br>
 Keynote, <a href="https://mecanano.com/working-groups/wg2/" target="_new">MecaNano</a> symposium, online, 02/25<br>
 <a href="https://2025.appliedmldays.org/" target="_new">AppliedML 2025</a>, EPFL, 02/25<br>
