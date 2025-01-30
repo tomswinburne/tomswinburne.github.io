@@ -17,9 +17,9 @@ Our research pushes the boundaries of theory and simulation for materials, conne
 
 <strong>Recent papers/preprints from the group</strong><br>
 Implicit differentiation in MD (<b>Ivan Maliyov</b>)
-<a href="https://arxiv.org/abs/2407.02414" _target="_new">NPJ Comp. Mat. 2025</a> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a><br>
+<a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ Comp. Mat. 2025</a> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a><br>
 POPS misspecification uncertainty
-<a href="https://arxiv.org/abs/2402.01810v5" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a><br>
+<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a><br>
 Coarse-graining & forecasting MD with descriptors 
 <a href="http://dx.doi.org/10.1103/PhysRevLett.131.236101" target="_new" > Phys. Rev. Lett. 2023</a><br>
 Embedded <em>ab initio</em> with QM/ML (<b>Petr Grigorev</b>)
