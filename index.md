@@ -20,7 +20,7 @@ Our research pushes the boundaries of theory and simulation for materials, conne
 <em>Keywords: atomic simulation, dislocations, UQ, Markov models, forecasting</em><br>
 
 <strong>Recent papers/preprints from the group</strong><br>
-Score matching the descriptor density of states (with Marinica Group)
+Sampling the descriptor density of states (with Marinica Group)
 <a href="https://arxiv.org/abs/2502.18191" target="_new">ArXiv 2025</a><br>
 Propagating POPS-UQ to SNAP/MACE (with Perez Group) <a href="https://arxiv.org/abs/2502.07104" target="_new">ArXiv 2025</a><br>
 Implicit differentiation in MD (<b>Ivan Maliyov</b>) <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ Comp. Mat. 2025</a> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a><br>
@@ -34,8 +34,7 @@ Embedded <em>ab initio</em> with QM/ML (<b>Petr Grigorev</b>)
 
 
 <strong>Recent papers/preprints with collaborators</strong><br>
-Efficient ML/ML mixing in MD (<b>Fraser Birks</b> / Kermode Group)
-2502.19081
+Efficient ML/ML in LAMMPS (<b>Fraser Birks</b> / Kermode Group)
 <a href="https://arxiv.org/abs/2502.19081" target="_new" >ArXiv 2025</a><br>
 Entropy of dislocation glide (Rodney Group / <a href="https://github.com/tomswinburne/PAFI" target="_new">PAFI</a>)
 <a href="https://arxiv.org/abs/2410.04813" target="_new" >ArXiv 2024</a><br>
