@@ -7,19 +7,18 @@
 &nbsp;/&nbsp;
 <code>thomas.swinburne-at-cnrs.fr</code>
 
-<strong><code>POPS-Regression</code>  is now public! <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">GitHub</a></strong>
+<strong><code>POPS-Regression</code> (<a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>): bounds errors of MACE-MPA-0 <a href="https://arxiv.org/abs/2502.07104" target="_new">pre-print</a></strong>
+<br>
+<strong>Descriptor-DOS for model-agnostic sampling <a href="https://arxiv.org/abs/2502.18191" target="_new">pre-print</a></strong> (code soon)
 
-<strong><code>POPS</code> error bounding on MACE-MPA-0 <a href="https://arxiv.org/abs/2502.07104" target="_new">pre-print</a></strong>
 
-<strong>Score matching the descriptor-DOS <a href="https://arxiv.org/abs/2502.18191" target="_new">pre-print</a></strong>
-
-<strong>New approaches in computational metallurgy</strong><br>
+<u><strong>New approaches in computational metallurgy</strong></u><br>
 Metallic alloys are uniquely strong, ductile and recyclable, but predicting how components fail remains a grand engineering challenge, limiting performance and increasing costs/emissions.
 
 Our research pushes the boundaries of theory and simulation for materials, connecting atomic dynamics to engineering properties. Drawing broadly from mechanics, physics, statistics and machine learning, a particular focus is quantifing uncertainty in multi-scale, data-driven models.<br>
 <em>Keywords: atomic simulation, dislocations, UQ, Markov models, forecasting</em><br>
 
-<strong>Recent papers/preprints from the group</strong><br>
+<u><strong>Recent papers/preprints from the group</strong></u><br>
 Sampling the descriptor density of states (with Marinica Group)
 <a href="https://arxiv.org/abs/2502.18191" target="_new">ArXiv 2025</a><br>
 Propagating POPS-UQ to SNAP/MACE (with Perez Group) <a href="https://arxiv.org/abs/2502.07104" target="_new">ArXiv 2025</a><br>
@@ -33,7 +32,7 @@ Embedded <em>ab initio</em> with QM/ML (<b>Petr Grigorev</b>)
 <a href="https://github.com/marseille-matmol/LML-retrain" target="_new">code</a><br>
 
 
-<strong>Recent papers/preprints with collaborators</strong><br>
+<u><strong>Recent papers/preprints with collaborators</strong></u><br>
 Efficient ML/ML in LAMMPS (<b>Fraser Birks</b> / Kermode Group)
 <a href="https://arxiv.org/abs/2502.19081" target="_new" >ArXiv 2025</a><br>
 Entropy of dislocation glide (Rodney Group / <a href="https://github.com/tomswinburne/PAFI" target="_new">PAFI</a>)
@@ -47,7 +46,7 @@ A15 defects in FCC (Marinica Group / <a href="https://github.com/tomswinburne/TA
 Ill-conditioned Markov chains (Wales Group / <a href="https://github.com/tomswinburne/PyGT" target="_new">PyGT</a>)
 <a href="https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2022.0245" target="_new" >Proc. Roy. Soc. 2023</a><br>
 
-<strong>Recent & Upcoming Invited Conferences/Seminars</strong><br>
+<u><strong>Recent & Upcoming Invited Conferences/Seminars</strong></u><br>
 <a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25<br>
 Speaker & Senior Scholar, <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM</a>, UCLA, 9/25-12/25<br>
 <s>E-MRS Meeting, Prague, 09/25</s> (unavailable)<br>
