@@ -9,6 +9,10 @@
 
 <strong><code>POPS-Regression</code>  is now public! <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">GitHub</a></strong>
 
+<strong><code>POPS</code> error bounding on MACE-MPA-0 <a href="https://arxiv.org/abs/2502.07104" target="_new">pre-print</a></strong>
+
+<strong>Score matching the descriptor-DOS <a href="https://arxiv.org/abs/2502.18191" target="_new">pre-print</a></strong>
+
 <strong>New approaches in computational metallurgy</strong><br>
 Metallic alloys are uniquely strong, ductile and recyclable, but predicting how components fail remains a grand engineering challenge, limiting performance and increasing costs/emissions.
 
@@ -16,8 +20,10 @@ Our research pushes the boundaries of theory and simulation for materials, conne
 <em>Keywords: atomic simulation, dislocations, UQ, Markov models, forecasting</em><br>
 
 <strong>Recent papers/preprints from the group</strong><br>
-Implicit differentiation in MD (<b>Ivan Maliyov</b>)
-<a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ Comp. Mat. 2025</a> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a><br>
+Score matching the descriptor density of states (with Marinica Group)
+<a href="https://arxiv.org/abs/2502.18191" target="_new">ArXiv 2025</a><br>
+Propagating POPS-UQ to SNAP/MACE (with Perez Group) <a href="https://arxiv.org/abs/2502.07104" target="_new">ArXiv 2025</a><br>
+Implicit differentiation in MD (<b>Ivan Maliyov</b>) <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ Comp. Mat. 2025</a> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a><br>
 POPS misspecification uncertainty
 <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a><br>
 Coarse-graining & forecasting MD with descriptors 
@@ -28,6 +34,9 @@ Embedded <em>ab initio</em> with QM/ML (<b>Petr Grigorev</b>)
 
 
 <strong>Recent papers/preprints with collaborators</strong><br>
+Efficient ML/ML mixing in MD (<b>Fraser Birks</b> / Kermode Group)
+2502.19081
+<a href="https://arxiv.org/abs/2502.19081" target="_new" >ArXiv 2025</a><br>
 Entropy of dislocation glide (Rodney Group / <a href="https://github.com/tomswinburne/PAFI" target="_new">PAFI</a>)
 <a href="https://arxiv.org/abs/2410.04813" target="_new" >ArXiv 2024</a><br>
 Free energies from mean-field bonds (<b>Raynol Dsouza</b>)
@@ -42,7 +51,9 @@ Ill-conditioned Markov chains (Wales Group / <a href="https://github.com/tomswin
 <strong>Recent & Upcoming Invited Conferences/Seminars</strong><br>
 <a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25<br>
 Speaker & Senior Scholar, <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM</a>, UCLA, 9/25-12/25<br>
-Fritz Haber Institute of the Max Planck Society, Berlin, 04/25<br><s>APS March Meeting, Anaheim, 03/25</s> (unavailable)<br>Condensed Matter Physics Seminar, École Polytechnique, 03/25<br>
+<s>E-MRS Meeting, Prague, 09/25</s> (unavailable)<br>
+Fritz Haber Institute of the Max Planck Society, Berlin, 04/25<br>
+<s>APS March Meeting, Anaheim, 03/25</s> (unavailable)<br>Condensed Matter Physics Seminar, École Polytechnique, 03/25<br>
 <a href="https://www.cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283" target="_new">CECAM</a> workshop, Lausanne, 03/25<br>
 Keynote, <a href="https://mecanano.com/working-groups/wg2/" target="_new">MecaNano</a> symposium, online, 02/25<br>
 <a href="https://2025.appliedmldays.org/" target="_new">AppliedML 2025</a>, EPFL, 02/25<br>
