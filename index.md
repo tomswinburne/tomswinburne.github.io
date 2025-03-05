@@ -7,9 +7,9 @@
 &nbsp;/&nbsp;
 <code>thomas.swinburne-at-cnrs.fr</code>
 
-<strong><code>POPS-Regression</code> (<a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>): bounds errors of MACE-MPA-0 <a href="https://arxiv.org/abs/2502.07104" target="_new">pre-print</a></strong>
+<strong><code>POPS-Regression</code> (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>): UQ on MACE-MPA-0 <a href="https://arxiv.org/abs/2502.07104" target="_new">arXiv</a></strong>
 <br>
-<strong>Descriptor-DOS for model-agnostic sampling <a href="https://arxiv.org/abs/2502.18191" target="_new">pre-print</a></strong> (code soon)
+<strong><code>Descriptor-DOS</code> (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv 2025</a> / code soon) :  model-agnostic sampling</strong>
 
 
 <u><strong>New approaches in computational metallurgy</strong></u><br>
@@ -48,9 +48,9 @@ Ill-conditioned Markov chains (Wales Group / <a href="https://github.com/tomswin
 
 <u><strong>Recent & Upcoming Invited Conferences/Seminars</strong></u><br>
 <a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25<br>
-Speaker & Senior Scholar, <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM</a>, UCLA, 9/25-12/25<br>
+Speaker & Senior Scholar, <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM</a>, UCLA, 9/25-12/25
 <s>E-MRS Meeting, Prague, 09/25</s> (unavailable)<br>
-Fritz Haber Institute of the Max Planck Society, Berlin, 04/25<br>
+Fritz Haber Institute of the Max Planck Society, Berlin, 04/25
 <s>APS March Meeting, Anaheim, 03/25</s> (unavailable)<br>Condensed Matter Physics Seminar, École Polytechnique, 03/25<br>
 <a href="https://www.cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283" target="_new">CECAM</a> workshop, Lausanne, 03/25<br>
 Keynote, <a href="https://mecanano.com/working-groups/wg2/" target="_new">MecaNano</a> symposium, online, 02/25<br>
