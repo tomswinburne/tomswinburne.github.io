@@ -48,10 +48,8 @@ Ill-conditioned Markov chains (Wales Group / <a href="https://github.com/tomswin
 
 <u><strong>Recent & Upcoming Invited Conferences/Seminars</strong></u><br>
 <a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25<br>
-Speaker & Senior Scholar, <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM</a>, UCLA, 9/25-12/25
-<s>E-MRS Meeting, Prague, 09/25</s> (unavailable)<br>
-Fritz Haber Institute of the Max Planck Society, Berlin, 04/25
-<s>APS March Meeting, Anaheim, 03/25</s> (unavailable)<br>Condensed Matter Physics Seminar, École Polytechnique, 03/25<br>
+Speaker & Senior Scholar, <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM</a>, UCLA, 9/25-12/25<s>E-MRS Meeting, Prague, 09/25</s> (unavailable)<br>
+Fritz Haber Institute of the Max Planck Society, Berlin, 04/25<s>APS March Meeting, Anaheim, 03/25</s> (unavailable)<br>Condensed Matter Physics Seminar, École Polytechnique, 03/25<br>
 <a href="https://www.cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283" target="_new">CECAM</a> workshop, Lausanne, 03/25<br>
 Keynote, <a href="https://mecanano.com/working-groups/wg2/" target="_new">MecaNano</a> symposium, online, 02/25<br>
 <a href="https://2025.appliedmldays.org/" target="_new">AppliedML 2025</a>, EPFL, 02/25<br>
