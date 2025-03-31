@@ -7,16 +7,26 @@
 &nbsp;/&nbsp;
 <code>thomas.swinburne-at-cnrs.fr</code>
 
-<strong><code>POPS-Regression</code> (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>): UQ on MACE-MPA-0 <a href="https://arxiv.org/abs/2502.07104" target="_new">arXiv</a></strong>
+<strong><code>POPSRegression</code> (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>): UQ on MACE-MPA-0 <a href="https://arxiv.org/abs/2502.07104" target="_new">arXiv</a></strong>
 <br>
-<strong><code>Descriptor-DOS</code> (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv 2025</a> / code soon) :  model-agnostic sampling</strong>
+<strong><code>DescriptorDOS</code> (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv 2025</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>) :  model-agnostic free energies</strong>
+<br>
+<strong><code>LAMMPSImplicitDiff</code> (<a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a>): model-agnostic minima</strong>
+
 
 
 <u><strong>New approaches in computational metallurgy</strong></u><br>
 Metallic alloys are uniquely strong, ductile and recyclable, but predicting how components fail remains a grand engineering challenge, limiting performance and increasing costs/emissions.
 
 Our research pushes the boundaries of theory and simulation for materials, connecting atomic dynamics to engineering properties. Drawing broadly from mechanics, physics, statistics and machine learning, a particular focus is quantifing uncertainty in multi-scale, data-driven models.<br>
-<em>Keywords: atomic simulation, dislocations, UQ, Markov models, forecasting</em><br>
+
+One recent theme is <strong>model-agnostic simulations</strong>: to quantify 
+multi-scale uncertainty and incorporate multi-scale data, simulation outputs 
+need to be smooth functions of model parameters, not static numbers. Whilst
+well known in many fields (e.g. adjoint/tangent schemes in FEM) we are
+developing new model-agnostic approaches for atomic material simulations,
+for inverse fine-tuning in back-propagation and model-form UQ in forward propagation.<br>
+<em>Keywords: dislocations, multi-scale UQ, atomic simulation, forecasting</em><br>
 
 <u><strong>Recent papers/preprints from the group</strong></u><br>
 Sampling the descriptor density of states (with Marinica Group)
