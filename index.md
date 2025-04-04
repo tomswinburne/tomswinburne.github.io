@@ -58,12 +58,15 @@ Ill-conditioned Markov chains (Wales Group / <a href="https://github.com/tomswin
 
 <u><strong>Recent & Upcoming Invited Conferences/Seminars</strong></u><br>
 <a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25<br>
-Speaker & Senior Scholar, <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM</a>, UCLA, 9/25-12/25<s>E-MRS Meeting, Prague, 09/25</s> (unavailable)<br>
-Fritz Haber Institute of the Max Planck Society, Berlin, 04/25<s>APS March Meeting, Anaheim, 03/25</s> (unavailable)<br>Condensed Matter Physics Seminar, École Polytechnique, 03/25<br>
+Speaker & Senior Scholar, <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM</a>, UCLA, 9/25-12/25
+<br><s>E-MRS Meeting, Prague, 09/25</s> (unavailable)<br>
+Fritz Haber Institute of the Max Planck Society, Berlin, 04/25
+<br><s>APS March Meeting, Anaheim, 03/25</s> (unavailable)
+<br>Condensed Matter Physics Seminar, École Polytechnique, 03/25<br>
 <a href="https://www.cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283" target="_new">CECAM</a> workshop, Lausanne, 03/25<br>
 Keynote, <a href="https://mecanano.com/working-groups/wg2/" target="_new">MecaNano</a> symposium, online, 02/25<br>
 <a href="https://2025.appliedmldays.org/" target="_new">AppliedML 2025</a>, EPFL, 02/25<br>
-<br>
+<!--<br>
 Evening Symposium, IPAM Reunion, Lake Arrowhead, 12/24<br>
 <a href="https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-meeting/symposium-sessions/call-for-papers/2024-fall-meeting/Symposium_MT01" target="_new">MRS Fall</a> Meeting, Boston, 12/24<br>
 <a href="https://www.polytechnique.edu/education/departements-denseignement-et-de-recherche/departement-de-physique/seminaires-et-conferences" target="_new">General Physics Seminar</a>, École Polytechnique, 11/24<br>
@@ -74,4 +77,4 @@ Evening Symposium, IPAM Reunion, Lake Arrowhead, 12/24<br>
 Hattrick-Simpers Group Seminar, U Toronto, 7/24<br>
 <a href="https://www.cimtec-congress.org/" target="_new">CIMTEC</a> Conference, Tuscany, 6/24<br>
 Senior Scholar, <a href="https://www.imsi.institute/activities/data-driven-materials-informatics/" target="_new">
-IMSI</a>, U Chicago, 3/24-6/24 (<a href="https://www.imsi.institute/videos/descriptor-coarse-graining-and-forecasting-atomic-simulations/" target="_new">video</a>)<br>
+IMSI</a>, U Chicago, 3/24-6/24 (<a href="https://www.imsi.institute/videos/descriptor-coarse-graining-and-forecasting-atomic-simulations/" target="_new">video</a>)<br>-->
