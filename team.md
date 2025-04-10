@@ -2,12 +2,9 @@
 <em>I am not hiring as main supervisor until August 2025</em><br>
 Please email me <code>thomas.swinburne-at-cnrs.fr</code> for US opportunities.
 <br>
-<br>
-My research topics typically find a balance between theory and application<br>
-depending on the interests of the student. In all cases, the goal is to produce 
-novel, high-quality work that pushes the boundaries of materials modelling.<br>
-See below for past members and their current employment. <br>
-<br>
+- Topics balance theory and application depending on your interests
+- I do not micromanage. The goal is high-quality, boundary-pushing work
+- See below for past members and their current employment
 <br>
 <strong>PhD + Postdoc (Paris) in ANR PRC DAPREDIS</strong><br>
 <em>Data-Driven prediction of dislocation plasticity</em><br>
@@ -15,10 +12,10 @@ I am PI for this exciting project, which will be conducted under
 Co-PI Sylvain Queyreau, LPSM, Sorbonne, Paris Nord.<br>
 As of 4/25, we are hiring. Please email me for more information, including your CV. <br>
 
-## Current Members
+## Current Members (co-supervision)
 <strong>Raynol Dsouza</strong><br>
 Postdoc, ML models for irradiation damage (under Dr A Allera, IRSN, Caderache)<br>
-(Previously PhD + SALTO CNRS/MPG scholar (with TD, Prof J Neugebauer)<br>
+(Previously PhD + SALTO CNRS/MPG scholar (with myself and Prof J Neugebauer)<br>
 <br>
 <strong>Emna Frikha Dsouza</strong><br>
 PhD, He retention in W-bubbles (under Prof J Mougenot, Sorbonne Paris Nord)<br>
