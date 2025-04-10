@@ -1,15 +1,28 @@
 ### Open Positions
 <em>I am not hiring as main supervisor until August 2025</em><br>
-There are exciting open positions with collaborators in France, email me <code>thomas.swinburne-at-cnrs.fr</code> for more information on any project, including your CV. See below for past members and their current employment. 
-
+Please email me <code>thomas.swinburne-at-cnrs.fr</code> for US opportunities.
+<br>
+<br>
+My research topics typically find a balance between theory and application<br>
+depending on the interests of the student. In all cases, the goal is to produce 
+novel, high-quality work that pushes the boundaries of materials modelling.<br>
+See below for past members and their current employment. <br>
+<br>
+<br>
 <strong>PhD + Postdoc (Paris) in ANR PRC DAPREDIS</strong><br>
 <em>Data-Driven prediction of dislocation plasticity</em><br>
-Supervisor: S Queyreau, LPSM, Sorbonne, Paris Nord (PIs: TDS & SQ)
+I am PI for this exciting project, which will be conducted under 
+Co-PI Sylvain Queyreau, LPSM, Sorbonne, Paris Nord.<br>
+As of 4/25, we are hiring. Please email me for more information, including your CV. <br>
 
-<strong>Postdoc (IRSN Caderache)</strong><br>
-<em>Machine learning models for irradiation damage</em><br>
-Supervisor: A Allera, IRSN, Caderache (PIs: TDS & AA)
-
+## Current Members
+<strong>Raynol Dsouza</strong><br>
+Postdoc, ML models for irradiation damage (under Dr A Allera, IRSN, Caderache)<br>
+(Previously PhD + SALTO CNRS/MPG scholar (with TD, Prof J Neugebauer)<br>
+<br>
+<strong>Emna Frikha Dsouza</strong><br>
+PhD, He retention in W-bubbles (under Prof J Mougenot, Sorbonne Paris Nord)<br>
+<br>
 ## Past Members
 <strong>Ivan Maliyov</strong><br>
 Postdoc, automatic differentiation in materials science<br>
@@ -18,10 +31,6 @@ Now: <strong>Research Scientist, Microsoft Quantum</strong>
 <strong>Petr Grigorev</strong><br>
 Postdoc, Machine learning assisted DFT methods<br>
 Now: <strong>CNRS Researcher, MATEIS Lyon</strong>
-
-<strong>Raynol Dsouza</strong><br>
-PhD, SALTO CNRS/MPG scholar (with Prof J Neugebauer)<br>
-Now: <strong>Postdoc, ICAMS Bochum</strong>
 
 <strong>Clovis Lapointe</strong> <br>
 PhD, ML for defect entropics (with MC Marinica)<br>
