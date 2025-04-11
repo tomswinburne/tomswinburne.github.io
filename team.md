@@ -18,7 +18,7 @@ Postdoc, ML for irradiation damage (under Dr A Allera, IRSN, Caderache)<br>
 (Previously PhD + SALTO scholar (with myself and Prof J Neugebauer)
 <br>
 <br>
-<strong>Emna Frikha Dsouza</strong><br>
+<strong>Emna Frikha</strong><br>
 PhD, He retention in W (under Prof J Mougenot, Sorbonne Paris Nord)
 <br>
 ## Past Members
