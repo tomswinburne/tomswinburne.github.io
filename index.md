@@ -57,6 +57,7 @@ Ill-conditioned Markov chains (Wales Group / <a href="https://github.com/tomswin
 <a href="https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2022.0245" target="_new" >Proc. Roy. Soc. 2023</a><br>
 
 <u><strong>Recent & Upcoming Invited Conferences/Seminars</strong></u><br>
+<a href="https://www.coe.miami.edu/events/dislocations-conference/index.html" target="_new">Dislocations 2025</a>, Miami, USA, 11/25<br>
 <a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25<br>
 Speaker & Senior Scholar, <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM</a>, UCLA, 9/25-12/25
 <br><s>E-MRS Meeting, Prague, 09/25</s> (unavailable)<br>
