@@ -6,16 +6,22 @@
 <a href="https://github.com/tomswinburne/" target="_new">GitHub</a>
 &nbsp;/&nbsp;
 <code>thomas.swinburne-at-cnrs.fr</code>
-
-<strong><code>POPSRegression</code> (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>): UQ on MACE-MPA-0 <a href="https://arxiv.org/abs/2502.07104" target="_new">arXiv</a></strong>
 <br>
-<strong><code>DescriptorDOS</code> (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv 2025</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>) :  model-agnostic free energies</strong>
 <br>
-<strong><code>LAMMPSImplicitDiff</code> (<a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a>): model-agnostic minima</strong>
+<u><strong>Recent technical advances</strong></u><br>
+<strong><code>POPSRegression</code> (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>):<br>
+Fast mispecification/model-form UQ (applied to <a href="https://arxiv.org/abs/2502.07104" target="_new">SNAP/MACE</a>)</strong>
+<br>
+<strong><code>DescriptorDOS</code> (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv 2025</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>) :<br>
+Differentiable / model-agnostic free energies</strong>
+<br>
+<strong><code>ImplicitDiff</code> (<a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a>): 
+<br>
+Differentiable / model-agnostic minimisation in JaX/LAMMPS</strong>
 
 
 
-<u><strong>New approaches in computational metallurgy</strong></u><br>
+<u><strong>New approaches for computational materials science</strong></u><br>
 Metallic alloys are uniquely strong, ductile and recyclable, but predicting how components fail remains a grand engineering challenge, limiting performance and increasing costs/emissions.
 
 Our research pushes the boundaries of theory and simulation for materials, connecting atomic dynamics to engineering properties. Drawing broadly from mechanics, physics, statistics and machine learning, a particular focus is quantifing uncertainty in multi-scale, data-driven models.<br>
@@ -29,7 +35,7 @@ for inverse fine-tuning in back-propagation and model-form UQ in forward propaga
 <em>Keywords: dislocations, multi-scale UQ, atomic simulation, forecasting</em><br>
 
 <u><strong>Recent papers/preprints from the group</strong></u><br>
-Sampling the descriptor density of states (with Marinica Group)
+Differentiating through free energies (with Marinica Group)
 <a href="https://arxiv.org/abs/2502.18191" target="_new">ArXiv 2025</a><br>
 Propagating POPS-UQ to SNAP/MACE (with Perez Group) <a href="https://arxiv.org/abs/2502.07104" target="_new">ArXiv 2025</a><br>
 Implicit differentiation in MD (<b>Ivan Maliyov</b>) <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ Comp. Mat. 2025</a> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a><br>
@@ -41,12 +47,11 @@ Embedded <em>ab initio</em> with QM/ML (<b>Petr Grigorev</b>)
 <a href="https://doi.org/10.1016/j.actamat.2023.118734" target="_new" >Acta Mat. 2023 </a> / 
 <a href="https://github.com/marseille-matmol/LML-retrain" target="_new">code</a><br>
 
-
 <u><strong>Recent papers/preprints with collaborators</strong></u><br>
+Entropy of dislocation glide (Rodney Group / <a href="https://github.com/tomswinburne/PAFI" target="_new">PAFI</a>)
+<a href="https://arxiv.org/abs/2410.04813" target="_new" >to appear Nat. Comm.</a><br>
 Efficient ML/ML in LAMMPS (<b>Fraser Birks</b> / Kermode Group)
 <a href="https://arxiv.org/abs/2502.19081" target="_new" >ArXiv 2025</a><br>
-Entropy of dislocation glide (Rodney Group / <a href="https://github.com/tomswinburne/PAFI" target="_new">PAFI</a>)
-<a href="https://arxiv.org/abs/2410.04813" target="_new" >ArXiv 2024</a><br>
 Free energies from mean-field bonds (<b>Raynol Dsouza</b>)
 <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064108" _target="_new" >Phys. Rev. B 2024</a><br>
 MACE foundation model (Csyani Group, Section A.13)
@@ -58,15 +63,16 @@ Ill-conditioned Markov chains (Wales Group / <a href="https://github.com/tomswin
 
 <u><strong>Recent & Upcoming Invited Conferences/Seminars</strong></u><br>
 <a href="https://www.coe.miami.edu/events/dislocations-conference/index.html" target="_new">Dislocations 2025</a>, Miami, USA, 11/25<br>
-<a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25<br>
+<a href="https://www.cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380" target="_new">CECAM</a>: UQ from DFT to ML, EPFL, Lausanne, 11/25<br>
+<a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a>: Math and Comp. Mat. Sci., ICMS, Edinburgh, 11/25<br>
 Speaker & Senior Scholar, <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM</a>, UCLA, 9/25-12/25
 <br><s>E-MRS Meeting, Prague, 09/25</s> (unavailable)<br>
 Fritz Haber Institute of the Max Planck Society, Berlin, 04/25
 <br><s>APS March Meeting, Anaheim, 03/25</s> (unavailable)
 <br>Condensed Matter Physics Seminar, École Polytechnique, 03/25<br>
-<a href="https://www.cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283" target="_new">CECAM</a> workshop, Lausanne, 03/25<br>
+<a href="https://www.cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283" target="_new">CECAM</a> Promises of the multiscale, EPFL, Lausanne, 03/25<br>
 Keynote, <a href="https://mecanano.com/working-groups/wg2/" target="_new">MecaNano</a> symposium, online, 02/25<br>
-<a href="https://2025.appliedmldays.org/" target="_new">AppliedML 2025</a>, EPFL, 02/25<br>
+<a href="https://2025.appliedmldays.org/" target="_new">AppliedML 2025</a>, EPFL, Lausanne, 02/25<br>
 <!--<br>
 Evening Symposium, IPAM Reunion, Lake Arrowhead, 12/24<br>
 <a href="https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-meeting/symposium-sessions/call-for-papers/2024-fall-meeting/Symposium_MT01" target="_new">MRS Fall</a> Meeting, Boston, 12/24<br>
