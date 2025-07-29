@@ -1,11 +1,25 @@
-## Thomas D Swinburne, <a href="http://www.cnrs.fr" target="_new">CNRS</a>
+## Thomas D Swinburne
+<strong>Assistant Professor, <a href="http://www.umich.edu" target="_new">University of Michigan</a><br>
+Visiting researcher, <a href="http://www.cnrs.fr" target="_new">CNRS</a></strong>
+
 <a href="pdf/CV-TomSwinburne-2024.pdf" target="_new">CV</a>
 &nbsp;/&nbsp;
 <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a>
 &nbsp;/&nbsp;
 <a href="https://github.com/tomswinburne/" target="_new">GitHub</a>
 &nbsp;/&nbsp;
-<code>thomas.swinburne-at-cnrs.fr</code>
+<code>tswin-at-umich.edu</code>
+<br>
+<br>
+<u><strong>Modern multi-scale modelling</strong></u><br>
+Metallic alloys are uniquely strong, ductile and reusable, essential for transportation and energy production.
+We struggle to predict how metallic components fail, reducing performance and raising costs: 2-3% of US GDP for fatigue failure alone. 
+
+Diagnosing and mitigating failure is hard as experiments are typically indirect, destructive and expensive. 
+There is a clear need for predictive models, but with no huge database to learn from, they must be multi-scale, connecting atomic dynamics to real engineering properties. 
+
+Our research pushes the frontier of multi-scale material models, drawing broadly from mechanics, physics, applied mathematics and machine learning. A particular focus is developing robust uncertainty quantification methods, essential to build trustworthy data-driven models. <br>
+<emph>Keywords: dislocations, multi-scale UQ, atomic simulation, forecasting</emph>
 <br>
 <br>
 <u><strong>Recent technical advances</strong></u><br>
@@ -18,26 +32,12 @@ Differentiable / model-agnostic free energies</strong>
 <strong><code>ImplicitDiff</code> (<a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a>): 
 <br>
 Differentiable / model-agnostic minimisation in JaX/LAMMPS</strong>
-
-
-
-<u><strong>New approaches for computational materials science</strong></u><br>
-Metallic alloys are uniquely strong, ductile and recyclable, but predicting how components fail remains a grand engineering challenge, limiting performance and increasing costs/emissions.
-
-Our research pushes the boundaries of theory and simulation for materials, connecting atomic dynamics to engineering properties. Drawing broadly from mechanics, physics, statistics and machine learning, a particular focus is quantifing uncertainty in multi-scale, data-driven models.<br>
-
-One recent theme is <strong>model-agnostic simulations</strong>: to quantify 
-multi-scale uncertainty and incorporate multi-scale data, simulation outputs 
-need to be smooth functions of model parameters, not static numbers. Whilst
-well known in many fields (e.g. adjoint/tangent schemes in FEM) we are
-developing new model-agnostic approaches for atomic material simulations,
-for inverse fine-tuning in back-propagation and model-form UQ in forward propagation.<br>
-<em>Keywords: dislocations, multi-scale UQ, atomic simulation, forecasting</em><br>
-
+<br>
+<br>
 <u><strong>Recent papers/preprints from the group</strong></u><br>
 Differentiating through free energies (with Marinica Group)
 <a href="https://arxiv.org/abs/2502.18191" target="_new">ArXiv 2025</a><br>
-Propagating POPS-UQ to SNAP/MACE (with Perez Group) <a href="https://arxiv.org/abs/2502.07104" target="_new">ArXiv 2025</a><br>
+Propagating POPS-UQ to SNAP/MACE (with Perez Group) <a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ Comp. Mat. 2025</a><br>
 Implicit differentiation in MD (<b>Ivan Maliyov</b>) <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ Comp. Mat. 2025</a> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a><br>
 POPS misspecification uncertainty
 <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a><br>
@@ -62,6 +62,7 @@ Ill-conditioned Markov chains (Wales Group / <a href="https://github.com/tomswin
 <a href="https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2022.0245" target="_new" >Proc. Roy. Soc. 2023</a><br>
 
 <u><strong>Recent & Upcoming Invited Conferences/Seminars</strong></u><br>
+<a href="https://www.siam.org/conferences-events/siam-conferences/uq26/" target="_new">SIAM UQ</a>, Minneapolis, USA, 03/26<br>
 <a href="https://www.coe.miami.edu/events/dislocations-conference/index.html" target="_new">Dislocations 2025</a>, Miami, USA, 11/25<br>
 <a href="https://www.cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380" target="_new">CECAM</a>: UQ from DFT to ML, EPFL, Lausanne, 11/25<br>
 <a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a>: Math and Comp. Mat. Sci., ICMS, Edinburgh, 11/25<br>
