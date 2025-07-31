@@ -20,21 +20,21 @@ Our research pushes the frontier of multi-scale modelling, drawing broadly from 
 <br>
 <u><strong>Selected recent work</strong></u><br>
 Differentiable / model-agnostic methods (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a> / <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a>)<br>
-<emph>First method to differentiate free energies in atomic simulation.</emph><br><br>
+<em>First method to differentiate free energies in atomic simulation.</em></br>
 Entropy of dislocation glide (<a href="https://arxiv.org/abs/2410.04813" target="_new" >Nat. Comm. 2025</a> / <a href="https://github.com/tomswinburne/pafi" target="_new">PAFI</a>)
 <br>
-<emph>Classical potentials cannot capture bcc plastic flow</emph><br><br>
+<em>Classical potentials cannot capture bcc plastic flow</em></br>
 POPS: misspecification UQ (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">Mach. Learn. S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
 </br>
 Application to SNAP/MACE ML potentials (<a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a>)
-<br><emph>POPS solves the Bayesian ignorance of model-form UQ</emph><br><br>
+<br><em>POPS solves the Bayesian ignorance of model-form UQ</em><br>
 Coarse-graining & forecasting atomic simulations
 (<a href="http://dx.doi.org/10.1103/PhysRevLett.131.236101" target="_new" > PRL 2023)</a><br>
-<emph>ML feature vectors can also forecast complex futures</emph><br><br>
+<em>ML feature vectors can also forecast complex futures</em></br>
 Embedded <em>ab initio</em> for solute studies
 (<a href="https://doi.org/10.1016/j.actamat.2023.118734" target="_new" >Acta Mat. 2023 </a>)
 <br>
-<emph>QM/ML for dislocation-solute interactions. Applied to W alloys</emph><br><br>
+<em>QM/ML for dislocation-solute interactions. Applied to W alloys</em></br>
 A15 defects in fcc metals (<a href="https://www.nature.com/articles/s41467-023-38729-6" target="_new" >Nat. Comm. 2023</a> / <a href="https://github.com/tomswinburne/tammber" target="_new">TAMMBER</a>)<br>
 
 <!--MACE foundation model (Csyani Group, Section A.13)
