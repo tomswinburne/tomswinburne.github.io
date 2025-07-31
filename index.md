@@ -21,12 +21,11 @@ Our research pushes the frontier of multi-scale modelling for metals, connecting
 - Forward/back propagation through simulations for UQ and design
 - Data-efficient fine-tuning of foundational ML models (e.g. MACE)
 
-<br>
 
 <u><strong>Selected recent work </strong></u>
 - Score matching model-agnostic free energies (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>
 <em>First end-to-end differentiable atomic free energies, for UQ and design.</em>
-- POPS: UQ for misspecified, deterministic models (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
+- POPS model-form UQ for deterministic models (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
 <br>
 <em>Bayes is blind to model-form UQ. POPS for MLIPs: <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> & <a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a></em>
 - Entropy of dislocation glide (<a href="https://arxiv.org/abs/2410.04813" target="_new" >Nat. Comm. 2025</a> / <a href="https://github.com/tomswinburne/pafi" target="_new">PAFI</a> / Rodney Group)
@@ -45,18 +44,6 @@ Our research pushes the frontier of multi-scale modelling for metals, connecting
 <br>
 <em>Irradiation defects can grow as three-dimensional Laves phase clusters</em>
 
-
-<!--
-<br>
-<u><strong>Uncertainty-aware sampling methods</strong></u><br>
-Uncertainty-aware sampling of complex landscapes (NPJ 2020 / <a href="https://github.com/tomswinburne/TAMMBER" target="_new">TAMMBER</a>)<br>
-Calculating free energy barriers (PRL 2018 / <a href="https://github.com/tomswinburne/PAFI" target="_new">PAFI code</a>)
-<br>
-
-<u><strong>Dislocation plasticity and nuclear materials</strong></u><br>
--->
-
-<br>
 <br>
 
 <u><strong>Recent & Upcoming Invited Conferences/Seminars</strong></u><br>
