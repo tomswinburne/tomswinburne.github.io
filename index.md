@@ -11,11 +11,17 @@ Visiting researcher, <a href="http://www.cnrs.fr" target="_new">CNRS</a></strong
 <code>tswin-at-umich.edu</code>
 <br>
 <br>
-<u><strong>Modern Multiscale Modeling</strong></u><br>
+<u><strong>Learning Multiscale Material Models</strong></u><br>
 Metallic alloys are uniquely strong, ductile and reusable, essential for transportation and energy production.
-Diagnosis and mitigation of component failure remains a grand challenge, reducing performance and raising costs: 2-3% of US GDP for fatigue failure alone. As experiments are typically indirect, destructive and expensive, computational models have huge potential to accelerate design and testing, but must predict without learning from large databases. 
+Diagnosis and mitigation of component failure remains a grand challenge, reducing performance and raising costs: 2-3% of US GDP for fatigue failure alone. 
 
-Our research pushes the frontier of multi-scale modelling, drawing broadly from mechanics, physics, applied mathematics and machine learning. Our goal is to learn how atomic-level dynamics influence microstructure and thus engineering properties, applied to a range of problems in nuclear and mechanical engineering. We design robust methods to capture and propagate uncertainty up and down scales, building trustworthy ML models that can learn from all data sources.
+Experiments are typically indirect, destructive and expensive. Computational models have huge potential to accelerate design and testing, but without large databases to learn from, data-driven prediction is challenging.
+
+Our research pushes the frontier of multi-scale modelling, drawing broadly from mechanics, physics, applied mathematics and machine learning, using classical theories where possible and leveraging data where not. 
+
+Our goal is to learn how atomic-level dynamics influence microstructure and thus engineering properties, applied to problems in nuclear and mechanical engineering. 
+
+One focus is quantifying and propagating uncertainty up and down scales, building trustworthy ML models that learn from all data sources.
 <br>
 <br>
 <u><strong>Selected recent work</strong></u><br>
@@ -23,11 +29,9 @@ Differentiable / model-agnostic methods (<a href="https://arxiv.org/abs/2502.181
 <em>First method to differentiate free energies in atomic simulation.</em></br>
 Entropy of dislocation glide (<a href="https://arxiv.org/abs/2410.04813" target="_new" >Nat. Comm. 2025</a> / <a href="https://github.com/tomswinburne/pafi" target="_new">PAFI</a>)
 <br>
-<em>Classical potentials cannot capture bcc plastic flow</em></br>
-POPS: misspecification UQ (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">Mach. Learn. S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
-</br>
-Application to SNAP/MACE ML potentials (<a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a>)
-<br><em>POPS solves the Bayesian ignorance of model-form UQ</em><br>
+<em>Why ML potentials are qualitatively superior for bcc plastic flow</em></br>
+POPS misspecification UQ (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a> / <a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a>)
+<br><em>POPS solves Bayesian ignorance of model-form UQ</em><br>
 Coarse-graining & forecasting atomic simulations
 (<a href="http://dx.doi.org/10.1103/PhysRevLett.131.236101" target="_new" > PRL 2023)</a><br>
 <em>ML feature vectors can also forecast complex futures</em></br>
