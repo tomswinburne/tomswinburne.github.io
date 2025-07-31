@@ -11,56 +11,42 @@ Visiting researcher, <a href="http://www.cnrs.fr" target="_new">CNRS</a></strong
 <code>tswin-at-umich.edu</code>
 <br>
 <br>
-<u><strong>Modern multi-scale modelling</strong></u><br>
+<u><strong>Modern computational metallurgy</strong></u><br>
 Metallic alloys are uniquely strong, ductile and reusable, essential for transportation and energy production.
-We struggle to predict how metallic components fail, reducing performance and raising costs: 2-3% of US GDP for fatigue failure alone. 
+Diagnosis and mitigation of component failure remains a grand challenge, reducing performance and raising costs: 2-3% of US GDP for fatigue failure alone. 
 
-Diagnosing and mitigating failure is hard as experiments are typically indirect, destructive and expensive. 
-There is a clear need for predictive models, but with no huge database to learn from, they must be multi-scale, connecting atomic dynamics to real engineering properties. 
+Experiments are typically indirect, destructive and expensive, meaning computational models have huge potential to accelerate design and testing in metallurgy. Our research pushes the frontier of how we connect atomic-level complexities to engineering properties, drawing broadly from mechanics, physics, applied mathematics and machine learning. Research topics balance fundamental and applied problems in computational science, irradiation damage and dislocation plasticity.
+<br>
+<br>
+<u><strong>Selected recent work</strong></u><br>
+Differentiable / model-agnostic methods (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a> / <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a>)<br>
+<emph>First method to differentiate free energies in atomic simulation.</emph><br><br>
+Entropy of dislocation glide (<a href="https://arxiv.org/abs/2410.04813" target="_new" >Nat. Comm. 2025</a> / <a href="https://github.com/tomswinburne/pafi" target="_new">PAFI</a>)
+<br>
+<emph>Classical potentials give wrong bcc flow stress</emph><br><br>
+POPS: misspecification UQ (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">Mach. Learn. S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
+</br>
+Application to SNAP/MACE ML potentials (<a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a>)
+<br><emph>POPS solves the Bayesian ignorance of model-form UQ</emph><br><br>
+Coarse-graining & forecasting atomic simulations
+(<a href="http://dx.doi.org/10.1103/PhysRevLett.131.236101" target="_new" > PRL 2023)</a><br>
+<emph>ML feature vectors can also forecast complex futures</emph><br><br>
+Embedded <em>ab initio</em> for solute studies
+(<a href="https://doi.org/10.1016/j.actamat.2023.118734" target="_new" >Acta Mat. 2023 </a>)
+<br>
+<emph>QM/ML for dislocation-solute interactions. Applied to W alloys</emph><br><br>
+A15 defects in fcc metals (<a href="https://www.nature.com/articles/s41467-023-38729-6" target="_new" >Nat. Comm. 2023</a> / <a href="https://github.com/tomswinburne/tammber" target="_new">TAMMBER</a>)<br>
 
-Our research pushes the frontier of multi-scale material models, drawing broadly from mechanics, physics, applied mathematics and machine learning. A particular focus is developing robust uncertainty quantification methods, essential to build trustworthy data-driven models. <br>
-<emph>Keywords: dislocations, multi-scale UQ, atomic simulation, forecasting</emph>
-<br>
-<br>
-<u><strong>Recent technical advances</strong></u><br>
-<strong><code>POPSRegression</code> (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>):<br>
-Fast mispecification/model-form UQ (applied to <a href="https://arxiv.org/abs/2502.07104" target="_new">SNAP/MACE</a>)</strong>
-<br>
-<strong><code>DescriptorDOS</code> (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv 2025</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>) :<br>
-Differentiable / model-agnostic free energies</strong>
-<br>
-<strong><code>ImplicitDiff</code> (<a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a>): 
-<br>
-Differentiable / model-agnostic minimisation in JaX/LAMMPS</strong>
-<br>
-<br>
-<u><strong>Recent papers/preprints from the group</strong></u><br>
-Differentiating through free energies (with Marinica Group)
-<a href="https://arxiv.org/abs/2502.18191" target="_new">ArXiv 2025</a><br>
-Propagating POPS-UQ to SNAP/MACE (with Perez Group) <a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ Comp. Mat. 2025</a><br>
-Implicit differentiation in MD (<b>Ivan Maliyov</b>) <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ Comp. Mat. 2025</a> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a><br>
-POPS misspecification uncertainty
-<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a><br>
-Coarse-graining & forecasting MD with descriptors 
-<a href="http://dx.doi.org/10.1103/PhysRevLett.131.236101" target="_new" > Phys. Rev. Lett. 2023</a><br>
-Embedded <em>ab initio</em> with QM/ML (<b>Petr Grigorev</b>)
-<a href="https://doi.org/10.1016/j.actamat.2023.118734" target="_new" >Acta Mat. 2023 </a> / 
-<a href="https://github.com/marseille-matmol/LML-retrain" target="_new">code</a><br>
-
-<u><strong>Recent papers/preprints with collaborators</strong></u><br>
-Entropy of dislocation glide (Rodney Group / <a href="https://github.com/tomswinburne/PAFI" target="_new">PAFI</a>)
-<a href="https://arxiv.org/abs/2410.04813" target="_new" >to appear Nat. Comm.</a><br>
-Efficient ML/ML in LAMMPS (<b>Fraser Birks</b> / Kermode Group)
-<a href="https://arxiv.org/abs/2502.19081" target="_new" >ArXiv 2025</a><br>
-Free energies from mean-field bonds (<b>Raynol Dsouza</b>)
-<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064108" _target="_new" >Phys. Rev. B 2024</a><br>
-MACE foundation model (Csyani Group, Section A.13)
+<!--MACE foundation model (Csyani Group, Section A.13)
 <a href="https://arxiv.org/abs/2401.00096" >ArXiv 2023</a><br>
-A15 defects in FCC (Marinica Group / <a href="https://github.com/tomswinburne/TAMMBER" target="_new">TAMMBER</a>)
-<a href="https://www.nature.com/articles/s41467-023-38729-6" target="_new" >Nat. Comm. 2023</a><br>
-Ill-conditioned Markov chains (Wales Group / <a href="https://github.com/tomswinburne/PyGT" target="_new">PyGT</a>)
-<a href="https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2022.0245" target="_new" >Proc. Roy. Soc. 2023</a><br>
+<br>
+<u><strong>Uncertainty-aware sampling methods</strong></u><br>
+Uncertainty-aware sampling of complex landscapes (NPJ 2020 / <a href="https://github.com/tomswinburne/TAMMBER" target="_new">TAMMBER</a>)<br>
+Calculating free energy barriers (PRL 2018 / <a href="https://github.com/tomswinburne/PAFI" target="_new">PAFI code</a>)
+<br>
 
+<u><strong>Dislocation plasticity and nuclear materials</strong></u><br>
+-->
 <u><strong>Recent & Upcoming Invited Conferences/Seminars</strong></u><br>
 <a href="https://www.siam.org/conferences-events/siam-conferences/uq26/" target="_new">SIAM UQ</a>, Minneapolis, USA, 03/26<br>
 <a href="https://www.coe.miami.edu/events/dislocations-conference/index.html" target="_new">Dislocations 2025</a>, Miami, USA, 11/25<br>
