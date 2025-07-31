@@ -13,35 +13,39 @@ Visiting researcher, <a href="http://www.cnrs.fr" target="_new">CNRS</a></strong
 <br>
 <u><strong>Learning Multiscale Material Models</strong></u><br>
 Metallic alloys are uniquely strong, ductile and reusable, essential for transportation and energy production.
-Diagnosis and mitigation of component failure remains a grand challenge, reducing performance and raising costs: 2-3% of US GDP for fatigue failure alone. 
+Diagnosis and mitigation of component failure remains a grand challenge, reducing performance and raising costs: 2-3% of US GDP for fatigue failure. Predictive models are needed as experiments are typically indirect, destructive and expensive.
 
-Experiments are typically indirect, destructive and expensive. Computational models have huge potential to accelerate design and testing, but without large databases to learn from, data-driven prediction is challenging.
+Our research pushes the frontier of multi-scale modelling for metals, connecting atomic-level dynamics to alloy microstructure and engineering properties. To do this we draw broadly from mechanics, physics, applied mathematics and machine learning. Research projects typically blend method development and application. Current topics include 
+- Uncertainty quantification (UQ): model-form uncertainty for ML surrogate models
+- Forward/back parameter propagation through simulations for UQ and design
+- Data-driven forecasting of long-timescale simulation behaviour with UQ
 
-Our research pushes the frontier of multi-scale modelling, drawing broadly from mechanics, physics, applied mathematics and machine learning, using classical theories where possible and leveraging data where not. 
+<br>
 
-Our goal is to learn how atomic-level dynamics influence microstructure and thus engineering properties, applied to problems in nuclear and mechanical engineering. 
-
-One focus is quantifying and propagating uncertainty up and down scales, building trustworthy ML models that learn from all data sources.
+<u><strong>Selected recent work (methods)</strong></u>
+- Model-agnostic free energies and minimization (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a> / <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a>)<br>
+<em>First end-to-end differentiable atomic free energies, for UQ and design.</em>
+- UQ for misspecified, deterministic models (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a> / <a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a>)
 <br>
-<br>
-<u><strong>Selected recent work</strong></u><br>
-Differentiable / model-agnostic methods (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a> / <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a>)<br>
-<em>First method to differentiate free energies in atomic simulation.</em><br>
-Entropy of dislocation glide (<a href="https://arxiv.org/abs/2410.04813" target="_new" >Nat. Comm. 2025</a> / <a href="https://github.com/tomswinburne/pafi" target="_new">PAFI</a>)
-<br>
-<em>Why ML potentials are qualitatively superior for bcc plastic flow</em><br>
-POPS misspecification UQ (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a> / <a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a>)
-<br>
-<em>POPS solves Bayesian ignorance of model-form UQ</em>
-<br>
-Coarse-graining & forecasting atomic simulations
+<em>Bayesian methods are blind to model-form UQ. POPS is the solution.</em>
+- Coarse-graining & forecasting atomic simulations
 (<a href="http://dx.doi.org/10.1103/PhysRevLett.131.236101" target="_new" > PRL 2023)</a><br>
-<em>ML feature vectors can also forecast complex futures</em><br>
-Embedded <em>ab initio</em> for solute studies
+<em>ML feature vectors used for forces can also forecast complex futures</em>
+
+<br>
+<br>
+
+<u><strong>Selected recent work (applications)</strong></u>
+- Entropy of dislocation glide (<a href="https://arxiv.org/abs/2410.04813" target="_new" >Nat. Comm. 2025</a> / <a href="https://github.com/tomswinburne/pafi" target="_new">PAFI</a> / Rodney Group)
+<br>
+<em>Why ML potentials are required to accurately model bcc plastic flow</em><br>
+- Embedding <em>ab initio</em> in MLIPs for solute studies
 (<a href="https://doi.org/10.1016/j.actamat.2023.118734" target="_new" >Acta Mat. 2023 </a>)
 <br>
 <em>QM/ML for dislocation-solute interactions. Applied to W alloys</em><br>
-A15 defects in fcc metals (<a href="https://www.nature.com/articles/s41467-023-38729-6" target="_new" >Nat. Comm. 2023</a> / <a href="https://github.com/tomswinburne/tammber" target="_new">TAMMBER</a>)<br>
+- A15 defects in fcc metals (<a href="https://www.nature.com/articles/s41467-023-38729-6" target="_new" >Nat. Comm. 2023</a> / <a href="https://github.com/tomswinburne/tammber" target="_new">TAMMBER</a> / Marinica Group)
+<br>
+<em>Irradiation defects can grow as Laves phases, with significant implications</em>
 
 <!--MACE foundation model (Csyani Group, Section A.13)
 <a href="https://arxiv.org/abs/2401.00096" >ArXiv 2023</a><br>
@@ -53,6 +57,10 @@ Calculating free energy barriers (PRL 2018 / <a href="https://github.com/tomswin
 
 <u><strong>Dislocation plasticity and nuclear materials</strong></u><br>
 -->
+
+<br>
+<br>
+
 <u><strong>Recent & Upcoming Invited Conferences/Seminars</strong></u><br>
 <a href="https://www.siam.org/conferences-events/siam-conferences/uq26/" target="_new">SIAM UQ</a>, Minneapolis, USA, 03/26<br>
 <a href="https://www.coe.miami.edu/events/dislocations-conference/index.html" target="_new">Dislocations 2025</a>, Miami, USA, 11/25<br>
