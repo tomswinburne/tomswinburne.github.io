@@ -16,19 +16,19 @@ Metallic alloys are uniquely strong, ductile and reusable, essential for transpo
 Diagnosis and mitigation of component failure remains a grand challenge, reducing performance and raising costs: 2-3% of US GDP for fatigue failure. Predictive models are needed as experiments are typically indirect, destructive and expensive.
 
 Our research pushes the frontier of multi-scale modelling for metals, connecting atomic-level dynamics to alloy microstructure and engineering properties. We draw broadly from mechanics, physics, applied mathematics and machine learning. Research projects blend method development and application depending on the interests of the student. Current topics include 
-- Uncertainty quantification (UQ): model-form uncertainty for ML surrogate models
-- Data-driven forecasting of long-timescale simulation behaviour with UQ
-- Forward/back parameter propagation through simulations for UQ and design
+- Model-form uncertainty quantification (UQ) for ML surrogates
+- Data-driven forecasting of long-timescale simulation behaviour
+- Forward/back propagation through simulations for UQ and design
 - Data-efficient fine-tuning of foundational ML models (e.g. MACE)
 
 <br>
 
 <u><strong>Selected recent work </strong></u>
-- Model-agnostic free energies and minimization (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a> / <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a>)<br>
+- Score matching model-agnostic free energies (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>
 <em>First end-to-end differentiable atomic free energies, for UQ and design.</em>
-- UQ for misspecified, deterministic models (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
+- POPS: UQ for misspecified, deterministic models (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
 <br>
-<em>POPS solves Bayesian blindness to model-form UQ. For MLIPs: <a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a></em>
+<em>Bayes is blind to model-form UQ. POPS for MLIPs: <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> & <a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a></em>
 - Entropy of dislocation glide (<a href="https://arxiv.org/abs/2410.04813" target="_new" >Nat. Comm. 2025</a> / <a href="https://github.com/tomswinburne/pafi" target="_new">PAFI</a> / Rodney Group)
 <br>
 <em>Why ML potentials are required to accurately model bcc plastic flow</em>
@@ -41,7 +41,7 @@ Our research pushes the frontier of multi-scale modelling for metals, connecting
 (<a href="https://doi.org/10.1016/j.actamat.2023.118734" target="_new" >Acta Mat. 2023 </a>)
 <br>
 <em>QM/ML for dislocation-solute interactions. Applied to W alloys</em><br>
-- A15 defects in fcc metals (<a href="https://www.nature.com/articles/s41467-023-38729-6" target="_new" >Nat. Comm. 2023</a> / <a href="https://github.com/tomswinburne/tammber" target="_new">TAMMBER</a> / Marinica Group)
+- A15 defects in fcc (<a href="https://www.nature.com/articles/s41467-023-38729-6" target="_new" >Nat. Comm. 2023</a> / <a href="https://github.com/tomswinburne/tammber" target="_new">TAMMBER</a> / Marinica Group)
 <br>
 <em>Irradiation defects can grow as three-dimensional Laves phase clusters</em>
 
