@@ -14,7 +14,7 @@ Visiting researcher, <a href="http://www.cnrs.fr" target="_new">CNRS Physique</a
 <u><strong>Learning Multiscale Material Models</strong></u><br>
 Metallic alloys are essential for the modern world as they uniquely  combine strength, ductility and reusability. These properties result from a complex hierarchy of plasticity mechanisms which are only partially understood.
 
-Experiments are typically indirect, destructive and expensive, meaning data is sparse. Fatigue alone costs 2-3% of US GDP; predictive models which help diagnose and mitigate component failure are urgently needed.
+Experiments are typically indirect, destructive and expensive, meaning data is sparse. With fatigue alone costing 2-3% of US GDP, predictive models which help diagnose and mitigate component failure are urgently needed.
 
 Our research pushes the frontier of multi-scale modelling for metals, connecting atomic dynamics, microstructure and mechanical properties. We draw broadly from applied math, physics, mechanics and machine learning.
 
