@@ -1,5 +1,5 @@
 ## Thomas D Swinburne
-<strong>Assistant Professor, Mechanical Engineering, <a href="http://www.umich.edu" target="_new">University of Michigan</a><br>
+<strong>Assistant Professor, Mechanical Engineering, <a href="https://me.engin.umich.edu/" target="_new">University of Michigan</a><br>
 Visiting researcher, <a href="http://www.cnrs.fr" target="_new">CNRS Physique</a>, Aix-Marseille Université</strong>
 
 <a href="pdf/CV-TomSwinburne-2024.pdf" target="_new">CV</a>
@@ -12,9 +12,13 @@ Visiting researcher, <a href="http://www.cnrs.fr" target="_new">CNRS Physique</a
 <br>
 <br>
 <u><strong>Learning Multiscale Material Models</strong></u><br>
-Metallic alloys are uniquely strong, ductile and reusable, essential for transportation and energy production. Diagnosis and mitigation of component failure remains a grand challenge, reducing performance and raising costs (2-3% of US GDP for fatigue). Physically faithful predictive models are needed as experiments are typically indirect, destructive and expensive- available data is too sparse for learning alone.
+Metallic alloys are uniquely strong, ductile and reusable, essential for transportation and energy production. However, diagnosis and mitigation of component failure is a grand engineering challenge, reducing performance and raising costs: 2-3% of US GDP for fatigue alone. 
 
-Our research pushes the frontier of multi-scale modelling for metals, connecting atomic dynamics to microstructure and mechanical properties. We draw from mechanics, physics, applied mathematics and machine learning to build models that can learn top-down and bottom-up, producing predictions with robust uncertainty quantification.
+As experiments are typically indirect, destructive and expensive, 
+databases are too sparse for purely data-driven approaches. Physically faithful models thus have huge potential to accelerate design and testing. 
+
+
+Our research pushes the frontier of multi-scale modelling for metals, connecting atomic dynamics, microstructure and mechanical properties. We draw broadly from mechanics, physics, applied math and machine learning.
 
 <u><strong>Current research topics</strong></u><br>
 Projects balance applications with theory/methods depending on your interests, see 

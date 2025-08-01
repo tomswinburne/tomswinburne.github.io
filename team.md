@@ -2,7 +2,7 @@
 <strong>Guillaume Commelin</strong><br>
 2025-: PhD, ML for dislocation plasticity (with Prof S Queyreau, Paris Nord)<br>
 <strong>Léonard Morachini</strong><br>
-2025-: PhD, UQ for ML potentials (with T Pidgeon IFPEN and M Marinica CEA)<br>
+2025-: PhD, UQ for MLIPs (with Drs T Pidgeon IFPEN & MC Marinica CEA)<br>
 <strong>Emna Frikha</strong><br>
 2024-: PhD, He retention in W (with Prof J Mougenot, Paris Nord)
 
