@@ -1,13 +1,26 @@
+<strong>POPSRegression: Fast misspecification UQ for deterministic models</strong><br>
+<em>Uncertainty arises from three sources : epistemic (low data), aleatoric (signal noise) and misspecification (model is wrong).<br>
+Amazingly, Bayesian regression is provably blind to misspecification/model-form UQ.<br>
+POPS provides an efficient solution for deterministic models, i.e. no aleatoric uncertainty.</em><br>
+<a href="https://github.com/tomswinburne/POPSRegression" target ="_new">GitHub</a>
+&nbsp;/&nbsp;
+<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a>
+
+Applications<br>
+<a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">Maliyov et al. NPJ 2025</a><br>
+<a href="https://arxiv.org/abs/2502.07104" target="_new">Perez et al. NPJ 2025</a>
+
+---------------------
+
 <strong>PAFI: Anharmonic free energy barriers in LAMMPS</strong><br>
 <em>A linear scaling algorithm to evaluate transition rates or free energy differences beyond harmonic transition state theory</em><br>
 <a href="https://github.com/tomswinburne/pafi" target ="_new">GitHub</a>
 &nbsp;/&nbsp;
 <a href="pdf/Swinburne_Marinica_PRL_2018.pdf">Physical Review Letters 2018</a>
-
 Applications<br>
 <a href="https://www.tandfonline.com/doi/full/10.1080/21663831.2021.1875079">Y Sato et al., D Rodney MRL (2021)</a><br>
 R Namakian et al. Computational Material Science (2022, 2023, and 2024, in prep), <br>Matthew et al. Computational Material Science 2024<br>
-Allera et al. under review
+Allera et al. Nature Communications, 2025
 
 ---------------------
 

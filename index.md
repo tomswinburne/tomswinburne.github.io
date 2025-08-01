@@ -1,6 +1,6 @@
 ## Thomas D Swinburne
 <strong>Assistant Professor, <a href="http://www.umich.edu" target="_new">University of Michigan</a><br>
-Visiting researcher, <a href="http://www.cnrs.fr" target="_new">CNRS</a></strong>
+Visiting researcher, <a href="http://www.cnrs.fr" target="_new">CNRS</a>, Marseille</strong>
 
 <a href="pdf/CV-TomSwinburne-2024.pdf" target="_new">CV</a>
 &nbsp;/&nbsp;
@@ -12,25 +12,38 @@ Visiting researcher, <a href="http://www.cnrs.fr" target="_new">CNRS</a></strong
 <br>
 <br>
 <u><strong>Learning Multiscale Material Models</strong></u><br>
-Metallic alloys are uniquely strong, ductile and reusable, essential for transportation and energy production.
-Diagnosis and mitigation of component failure remains a grand challenge, reducing performance and raising costs: 2-3% of US GDP for fatigue failure. Predictive models are needed as experiments are typically indirect, destructive and expensive.
+Metallic alloys are uniquely strong, ductile and reusable, essential for transportation and energy production. Diagnosis and mitigation of component failure remains a grand challenge, reducing performance and raising costs (2-3% of US GDP for fatigue failure). Physically faithful predictive models are needed as experiments are typically indirect, destructive and expensive. 
 
-Our research pushes the frontier of multi-scale modelling for metals, connecting atomic-level dynamics to alloy microstructure and engineering properties. We draw broadly from mechanics, physics, applied mathematics and machine learning. Research projects blend method development and application depending on the interests of the student. Current topics include 
-- Model-form uncertainty quantification (UQ) for ML surrogates
-- Data-driven forecasting of long-timescale simulation behaviour
-- Forward/back propagation through simulations for UQ and design
-- Data-efficient fine-tuning of foundational ML models (e.g. MACE)
+Our research pushes the frontier of multi-scale modelling for metals, connecting atomic dynamics to microstructure and mechanical properties. We blend mechanics, physics, applied mathematics and machine learning to build models that can learn from sparse data sources and produce predictions with robust error bars.
+
+<u><strong>Current research topics</strong></u><br>
+Projects balance applications with theory/development depending on your interests.<br>
+See <a href="https://tomswinburne.github.io/team">here</a> for open positions in Michigan and with collaborators in Paris.
+- <em>Application focus:</em>
+    - Slip transfer in complex dislocation networks
+    - High-dpa irradiation damage for nuclear fusion
+    - Exploring phase diagrams and kinetics
+    - Mechanistic inverse design of dilute alloys
+- <em>Theory/development focus:</em>
+    - Model-form uncertainty quantification (UQ) for ML surrogates
+    - Data-driven forecasting of long-timescale simulation behaviour
+    - Forward/back propagation through simulations for UQ and design
+    - Data-efficient fine-tuning of foundational ML models (e.g. MACE)
 
 
 <u><strong>Selected recent work </strong></u>
 - Score matching model-agnostic free energies (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>
-<em>First end-to-end differentiable atomic free energies, for UQ and design.</em>
+<em>First differentiable free energy method. For minimization: <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a></em>
 - POPS model-form UQ for deterministic models (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
 <br>
-<em>Bayes is blind to model-form UQ. POPS for MLIPs: <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> & <a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a></em>
+<em>POPS solves Bayes' ignorance of model-form UQ. For MLIPs: <a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a></em>
 - Entropy of dislocation glide (<a href="https://arxiv.org/abs/2410.04813" target="_new" >Nat. Comm. 2025</a> / <a href="https://github.com/tomswinburne/pafi" target="_new">PAFI</a> / Rodney Group)
 <br>
 <em>Why ML potentials are required to accurately model bcc plastic flow</em>
+<br>
+<br>
+- MACE foundation model for ML potentials (Csyani Group / <a href="https://arxiv.org/abs/2401.00096" target="_new" >arXiv 2024)</a><br>
+<em>Section A.13. Dislocations are tough extrapolation test for UMLIPs.</em>
 <br>
 <br>
 - Coarse-graining & forecasting atomic simulations
