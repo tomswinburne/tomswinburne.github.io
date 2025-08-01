@@ -1,6 +1,6 @@
 ## Thomas D Swinburne
-<strong>Assistant Professor, <a href="http://www.umich.edu" target="_new">University of Michigan</a><br>
-Visiting researcher, <a href="http://www.cnrs.fr" target="_new">CNRS</a>, Marseille</strong>
+<strong>Assistant Professor, Mechanical Engineering, <a href="http://www.umich.edu" target="_new">University of Michigan</a><br>
+Visiting researcher, <a href="http://www.cnrs.fr" target="_new">CNRS Physique</a>, Aix-Marseille Université</strong>
 
 <a href="pdf/CV-TomSwinburne-2024.pdf" target="_new">CV</a>
 &nbsp;/&nbsp;
@@ -12,13 +12,13 @@ Visiting researcher, <a href="http://www.cnrs.fr" target="_new">CNRS</a>, Marsei
 <br>
 <br>
 <u><strong>Learning Multiscale Material Models</strong></u><br>
-Metallic alloys are uniquely strong, ductile and reusable, essential for transportation and energy production. Diagnosis and mitigation of component failure remains a grand challenge, reducing performance and raising costs (2-3% of US GDP for fatigue failure). Physically faithful predictive models are needed as experiments are typically indirect, destructive and expensive. 
+Metallic alloys are uniquely strong, ductile and reusable, essential for transportation and energy production. Diagnosis and mitigation of component failure remains a grand challenge, reducing performance and raising costs (2-3% of US GDP for fatigue). Physically faithful predictive models are needed as experiments are typically indirect, destructive and expensive- available data is too sparse for learning alone.
 
-Our research pushes the frontier of multi-scale modelling for metals, connecting atomic dynamics to microstructure and mechanical properties. We blend mechanics, physics, applied mathematics and machine learning to build models that can learn from sparse data sources and produce predictions with robust error bars.
+Our research pushes the frontier of multi-scale modelling for metals, connecting atomic dynamics to microstructure and mechanical properties. We draw from mechanics, physics, applied mathematics and machine learning to build models that can learn top-down and bottom-up, producing predictions with robust error bars.
 
 <u><strong>Current research topics</strong></u><br>
-Projects balance applications with theory/development depending on your interests.<br>
-See <a href="https://tomswinburne.github.io/team">here</a> for open positions in Michigan and with collaborators in Paris.
+Projects balance applications with theory/development depending on student interests.
+<a href="https://tomswinburne.github.io/team">Open positions</a> in Michigan and with collaborators in Paris.
 - <em>Application focus:</em>
     - Slip transfer in complex dislocation networks
     - High-dpa irradiation damage for nuclear fusion
@@ -27,8 +27,8 @@ See <a href="https://tomswinburne.github.io/team">here</a> for open positions in
 - <em>Theory/development focus:</em>
     - Model-form uncertainty quantification (UQ) for ML surrogates
     - Data-driven forecasting of long-timescale simulation behaviour
-    - Forward/back propagation through simulations for UQ and design
-    - Data-efficient fine-tuning of foundational ML models (e.g. MACE)
+    - End-to-end differentiable simulations for UQ and design
+    - Efficient fine-tuning of universal potentials (e.g. MACE)
 
 
 <u><strong>Selected recent work </strong></u>
@@ -41,10 +41,8 @@ See <a href="https://tomswinburne.github.io/team">here</a> for open positions in
 <br>
 <em>Why ML potentials are required to accurately model bcc plastic flow</em>
 <br>
-<br>
 - MACE foundation model for ML potentials (Csyani Group / <a href="https://arxiv.org/abs/2401.00096" target="_new" >arXiv 2024)</a><br>
-<em>Section A.13. Dislocations are tough extrapolation test for UMLIPs.</em>
-<br>
+<em>Section A.13. Dislocations are a tough extrapolation test for UMLIPs.</em>
 <br>
 - Coarse-graining & forecasting atomic simulations
 (<a href="http://dx.doi.org/10.1103/PhysRevLett.131.236101" target="_new" > PRL 2023)</a><br>
