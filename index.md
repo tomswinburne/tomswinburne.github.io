@@ -14,24 +14,24 @@ Visiting researcher, <a href="http://www.cnrs.fr" target="_new">CNRS Physique</a
 <u><strong>Learning Multiscale Material Models</strong></u><br>
 Metallic alloys are uniquely strong, ductile and reusable, essential for transportation and energy production. Diagnosis and mitigation of component failure remains a grand challenge, reducing performance and raising costs (2-3% of US GDP for fatigue). Physically faithful predictive models are needed as experiments are typically indirect, destructive and expensive- available data is too sparse for learning alone.
 
-Our research pushes the frontier of multi-scale modelling for metals, connecting atomic dynamics to microstructure and mechanical properties. We draw from mechanics, physics, applied mathematics and machine learning to build models that can learn top-down and bottom-up, producing predictions with robust error bars.
+Our research pushes the frontier of multi-scale modelling for metals, connecting atomic dynamics to microstructure and mechanical properties. We draw from mechanics, physics, applied mathematics and machine learning to build models that can learn top-down and bottom-up, producing predictions with robust uncertainty quantification.
 
 <u><strong>Current research topics</strong></u><br>
-Projects balance applications with theory/development depending on student interests.
-<a href="https://tomswinburne.github.io/team">Open positions</a> in Michigan and with collaborators in Paris.
+Projects balance applications with theory/methods depending on your interests, see 
+<a href="/team">current/past members</a> and <a href="/openings">openings</a> in US & France.
 - <em>Application focus:</em>
     - Slip transfer in complex dislocation networks
     - High-dpa irradiation damage for nuclear fusion
     - Exploring phase diagrams and kinetics
     - Mechanistic inverse design of dilute alloys
-- <em>Theory/development focus:</em>
+- <em>Theory/method development focus:</em>
     - Model-form uncertainty quantification (UQ) for ML surrogates
     - Data-driven forecasting of long-timescale simulation behaviour
     - End-to-end differentiable simulations for UQ and design
     - Efficient fine-tuning of universal potentials (e.g. MACE)
 
 
-<u><strong>Selected recent work </strong></u>
+<u><strong>Selected recent work</strong></u>
 - Score matching model-agnostic free energies (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>
 <em>First differentiable free energy method. For minimization: <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a></em>
 - POPS model-form UQ for deterministic models (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
