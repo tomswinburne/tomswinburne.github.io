@@ -12,17 +12,15 @@ Visiting researcher, <a href="http://www.cnrs.fr" target="_new">CNRS Physique</a
 <br>
 <br>
 <u><strong>Learning Multiscale Material Models</strong></u><br>
-Metallic alloys are uniquely strong, ductile and reusable, essential for transportation and energy production. However, diagnosis and mitigation of component failure is a grand engineering challenge, reducing performance and raising costs: 2-3% of US GDP for fatigue alone. 
+Metallic alloys are essential for the modern world due to their unique combination of strength, ductility and reusability. These properties result from a complex hierarchy of plasticity mechanisms that remain partially understood.
 
-As experiments are typically indirect, destructive and expensive, 
-databases are too sparse for purely data-driven approaches. Physically faithful models thus have huge potential to accelerate design and testing. 
+As experiments are typically indirect, destructive and expensive, available data is sparse. With costs of 2-3% of US GDP for fatigue alone, predictive models which can help diagnose and mitigate component failure are urgently needed.
 
-
-Our research pushes the frontier of multi-scale modelling for metals, connecting atomic dynamics, microstructure and mechanical properties. We draw broadly from mechanics, physics, applied math and machine learning.
+Our research pushes the frontier of multi-scale modelling for metals, connecting atomic dynamics, microstructure and mechanical properties. We draw broadly from applied math, physics, mechanics and machine learning.
 
 <u><strong>Current research topics</strong></u><br>
 Projects balance applications with theory/methods depending on your interests, see 
-<a href="/team">current/past members</a> and <a href="/openings">openings</a> in US & France.
+<a href="/team">current/past members</a> and <a href="/openings">openings</a> in Michigan & Paris.
 - <em>Application focus:</em>
     - Slip transfer in complex dislocation networks
     - High-dpa irradiation damage for nuclear fusion
@@ -33,7 +31,6 @@ Projects balance applications with theory/methods depending on your interests, s
     - Data-driven forecasting of long-timescale simulation behaviour
     - End-to-end differentiable simulations for UQ and design
     - Efficient fine-tuning of universal potentials (e.g. MACE)
-
 
 <u><strong>Selected recent work</strong></u>
 - Score matching model-agnostic free energies (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>

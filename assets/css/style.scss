@@ -13,9 +13,14 @@ a:hover, a:focus {
   }
   
 ul > li {
-    margin-bottom: 8px; 
+    margin-bottom: 8px;
   }
 
 ul ul > li {
-    margin-bottom: 0; /* override for sub-bullets */
+    margin-bottom: 0px; /* override for sub-bullets */
   }
+
+.no-space {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
