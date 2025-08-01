@@ -62,6 +62,7 @@ Projects balance applications with theory/methods depending on your interests, s
 <a href="https://www.coe.miami.edu/events/dislocations-conference/index.html" target="_new">Dislocations 2025</a>, Miami, USA, 11/25<br>
 <a href="https://www.cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380" target="_new">CECAM</a>: UQ from DFT to ML, EPFL, Lausanne, 11/25<br>
 <a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a>: Math and Comp. Mat. Sci., ICMS, Edinburgh, 11/25<br>
+<a href="https://nanomaterials2025.usacm.org" target="_new">USACM Nanomechanics 2025</a>, Urbana-Champaign, USA, 09/25<br>
 Speaker & Senior Scholar, <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM</a>, UCLA, 9/25-12/25
 <br><s>E-MRS Meeting, Prague, 09/25</s> (unavailable)<br>
 Fritz Haber Institute of the Max Planck Society, Berlin, 04/25
