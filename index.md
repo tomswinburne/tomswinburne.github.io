@@ -33,8 +33,8 @@ Projects balance applications with theory/methods depending on your interests, s
     - Efficient fine-tuning of universal potentials (e.g. MACE)
 
 <u><strong>Selected recent work</strong></u>
-- Score matching model-agnostic free energies (<a href="https://arxiv.org/abs/2502.18191" target="_new">arXiv</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>
-<em>First differentiable free energy method. For minimization: <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a></em>
+- Score matching model-agnostic free energies (<a href="https://arxiv.org/abs/2502.18191" target="_new">Nat Comm 2025</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>
+<em>First differentiable free energy method. Extends <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> for minima</em>
 - POPS model-form UQ for deterministic models (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
 <br>
 <em>POPS solves Bayes' ignorance of model-form UQ. For MLIPs: <a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a></em>
