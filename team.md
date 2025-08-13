@@ -1,16 +1,3 @@
-## Thomas D Swinburne
-<img src='images/portrait.png' width=100/><br>
-<a href="/team"><strong>Thomas D Swinburne, PhD</strong></a><br>
-Assistant Professor, <a href="https://me.engin.umich.edu/" target="_new">Mechanical Engineering</a><br>
-Visiting researcher, <a href="https://www.inp.cnrs.fr/fr" target="_new">CNRS Physique</a>
-<br><a href="pdf/CV-TomSwinburne-2025.pdf" target="_new">CV</a>
-&nbsp;/&nbsp;
-<a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a>
-&nbsp;/&nbsp;
-<a href="https://github.com/tomswinburne/" target="_new">GitHub</a>
-<br>
-<code>tswin-at-umich-dot-edu</code>
-
 ## Current Members 
 <em>From August 2025, all positions in Europe are co-supervision only.</em><br>
 <strong>George Simmonds</strong><br>

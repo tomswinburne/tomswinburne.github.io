@@ -5,7 +5,7 @@
 
 ## Open Positions
 <strong>University of Michigan, Ann Arbor</strong><br>
-I will be hiring at least one PhD and a Postdoc for Winter (Jan) 2026. See home page for current topics. Motivated students from 
+I will be hiring at least one PhD and a Postdoc for Winter (Jan) 2026. See home page for an idea of current research topics. Motivated students from 
 ME/MSE/Physics/CSE/Math or related fields should email <code>tswin-at-umich.edu</code>. 
 
 <strong>PhD (filled) + Postdoc (open), Paris Nord</strong><br>
