@@ -1,4 +1,4 @@
-## LM<sup>3</sup> Lab, University of Michigan
+## Swinburne Group, University of Michigan
 <strong>Thomas D Swinburne, PhD</strong><br>
 <strong>Assistant Professor, <a href="https://me.engin.umich.edu/" target="_new">Mechanical Engineering</a><br>
 Visiting researcher, <a href="https://www.inp.cnrs.fr/fr" target="_new">CNRS Physique</a></strong>
