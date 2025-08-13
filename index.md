@@ -1,20 +1,20 @@
-## Swinburne Lab, University of Michigan
+## LM3 Lab, University of Michigan
 <u><strong>Thomas D Swinburne, PhD</strong></u><br>
 <strong>Assistant Professor, <a href="https://me.engin.umich.edu/" target="_new">Mechanical Engineering</a></strong><br>
 <strong>Visiting researcher, <a href="https://www.inp.cnrs.fr/fr" target="_new">CNRS Physique</a></strong>
-
-<a href="pdf/CV-TomSwinburne-2025.pdf" target="_new">CV</a>
+<br><a href="pdf/CV-TomSwinburne-2025.pdf" target="_new">CV</a>
 &nbsp;/&nbsp;
 <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a>
 &nbsp;/&nbsp;
 <a href="https://github.com/tomswinburne/" target="_new">GitHub</a>
-&nbsp;/&nbsp;
-<code>tswin-at-umich.edu</code>
-<br><br>
-<strong>We are hiring: <a href="/openings">open positions</a> in Ann Arbor and Paris.</strong>
+<br>
+<code>tswin-at-umich-dot-edu</code>
 <br>
 <br>
-<u><strong>Learning Multiscale Material Models (LM3)</strong></u><br>
+<strong><a href="/team">We are hiring</a> in Ann Arbor and Paris.</strong>
+<br>
+<br>
+<u><strong>LM3: Learning Multiscale Material Models</strong></u><br>
 Metallic alloys are essential for the modern world as they uniquely  combine strength, ductility and reusability. These properties result from a complex hierarchy of plasticity mechanisms which are only partially understood.
 
 Experiments are typically indirect, destructive and expensive, meaning data is sparse. With fatigue alone costing 2-3% of US GDP, predictive models which help diagnose and mitigate component failure are urgently needed.
@@ -34,7 +34,8 @@ Projects balance theory, method development and applications, depending on your 
     - End-to-end differentiable simulations for UQ and design
     - Efficient fine-tuning of universal potentials (e.g. MACE)
 
-<u><strong>Selected recent work</strong></u>
+<u><strong>Selected recent work</strong></u><br>
+See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a> for an up-to-date list.
 - Score matching free energies (<a href="https://arxiv.org/abs/2502.18191" target="_new">Nat. Comm. 2025</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>
 <em>First differentiable free energy method. Extends <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> for minima</em>
 - POPS model-form UQ for deterministic models (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
