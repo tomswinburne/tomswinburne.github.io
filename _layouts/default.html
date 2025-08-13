@@ -14,9 +14,9 @@
   <body>
     <div class="wrapper">
       <header>
-        <!--<p style="font-size:16px">
-          <a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>
-        </p>-->
+        <p style="font-size:16px">
+          <strong><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></strong>
+        </p>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" width=100/>
         {% endif %}
