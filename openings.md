@@ -5,9 +5,8 @@
 
 ### Open Positions (Michigan)
 <strong>I will be hiring PhD + Postdoc for Winter (Jan) 2026</strong><br>
-Interested and motivated undergraduate/master's students from 
-ME/MSE/Physics/CSE/Math and related fields should email <code>tswin-at-umich.edu</code>.
-
+Motivated undergraduate/master's students from 
+ME/MSE/Physics/CSE/Math or related fields should email <code>tswin-at-umich.edu</code>.
 
 ### Open Positions (Paris)
 <strong>PhD (filled) + Postdoc (open) for ANR PRC DAPREDIS</strong><br>

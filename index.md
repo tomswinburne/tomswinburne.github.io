@@ -1,17 +1,21 @@
-## Thomas D Swinburne
-<strong>Assistant Professor, Mechanical Engineering, <a href="https://me.engin.umich.edu/" target="_new">University of Michigan</a><br>
-Visiting researcher, <a href="http://www.cnrs.fr" target="_new">CNRS Physique</a>, Aix-Marseille Université</strong>
+## LM<sup>3</sup> Lab, University of Michigan
+<strong>Thomas D Swinburne, PhD</strong><br>
+<strong>Assistant Professor, <a href="https://me.engin.umich.edu/" target="_new">Mechanical Engineering</a><br>
+Visiting researcher, <a href="https://www.inp.cnrs.fr/fr" target="_new">CNRS Physique</a></strong>
 
-<a href="pdf/CV-TomSwinburne-2024.pdf" target="_new">CV</a>
+<a href="pdf/CV-TomSwinburne-2025.pdf" target="_new">CV</a>
 &nbsp;/&nbsp;
 <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a>
 &nbsp;/&nbsp;
 <a href="https://github.com/tomswinburne/" target="_new">GitHub</a>
 &nbsp;/&nbsp;
 <code>tswin-at-umich.edu</code>
+<br><br>
+
+<strong>We are hiring: <a href="/openings">open positions</a> in Ann Arbor and Paris.</strong>
 <br>
 <br>
-<u><strong>Learning Multiscale Material Models</strong></u><br>
+<u><strong>LM<sup>3</sup>: Learning Multiscale Material Models</strong></u><br>
 Metallic alloys are essential for the modern world as they uniquely  combine strength, ductility and reusability. These properties result from a complex hierarchy of plasticity mechanisms which are only partially understood.
 
 Experiments are typically indirect, destructive and expensive, meaning data is sparse. With fatigue alone costing 2-3% of US GDP, predictive models which help diagnose and mitigate component failure are urgently needed.
@@ -19,8 +23,7 @@ Experiments are typically indirect, destructive and expensive, meaning data is s
 Our research pushes the frontier of multi-scale modelling for metals, connecting atomic dynamics, microstructure and mechanical properties. We draw broadly from applied math, physics, mechanics and machine learning.
 
 <u><strong>Current research topics</strong></u><br>
-Projects balance applications with theory/methods depending on your interests, see 
-<a href="/team">current/past members</a> and <a href="/openings">openings</a> in Michigan & Paris.
+Projects balance theory, method development and applications, depending on your interest. See <a href="/team">team members/alumni</a> and <a href="/openings">open positions</a>.
 - <em>Application focus:</em>
     - Slip transfer in complex dislocation networks
     - High-dpa irradiation damage for nuclear fusion
