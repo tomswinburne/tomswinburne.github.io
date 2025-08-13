@@ -1,7 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: TD Swinburne
+title: Swinburne Group
 tagline: U Michigan & CNRS
 author: TD Swinburne
 logo: images/portrait.png
