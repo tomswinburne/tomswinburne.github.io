@@ -1,18 +1,6 @@
 <u><strong>LM3 Lab, University of Michigan</strong></u><br>
-<img src='images/portrait.png' width=100/><br>
-<strong>Thomas D Swinburne, PhD</strong><br>
+<a href="/team"><strong>Thomas D Swinburne, PhD</strong></a><br>
 Assistant Professor, <a href="https://me.engin.umich.edu/" target="_new">Mechanical Engineering</a><br>
-Visiting researcher, <a href="https://www.inp.cnrs.fr/fr" target="_new">CNRS Physique</a>
-<br><a href="pdf/CV-TomSwinburne-2025.pdf" target="_new">CV</a>
-&nbsp;/&nbsp;
-<a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a>
-&nbsp;/&nbsp;
-<a href="https://github.com/tomswinburne/" target="_new">GitHub</a>
-<br>
-<code>tswin-at-umich-dot-edu</code>
-<br>
-<br>
-<strong><a href="/team">We are hiring</a> in Ann Arbor and Paris.</strong>
 <br>
 <br>
 <u><strong>LM3: Learning Multiscale Material Models</strong></u><br>
@@ -21,9 +9,13 @@ Metallic alloys are essential for the modern world as they uniquely  combine str
 Experiments are typically indirect, destructive and expensive, meaning data is sparse. With fatigue alone costing 2-3% of US GDP, predictive models which help diagnose and mitigate component failure are urgently needed.
 
 Our research pushes the frontier of multi-scale modelling for metals, connecting atomic dynamics, microstructure and mechanical properties. We draw broadly from applied math, physics, mechanics and machine learning.
-
+<br>
+<br>
+<strong><a href="/openings">We are hiring</a> in Ann Arbor and Paris!</strong>
+<br>
+<br>
 <u><strong>Current research topics</strong></u><br>
-Projects balance theory, method development and applications, depending on your interest. See <a href="/team">team members/alumni</a> and <a href="/team">open positions</a>.
+Projects balance theory, method development and applications, depending on your interest. See <a href="/team">team members/alumni</a> and <a href="/openings">open positions</a>.
 - <em>Application focus:</em>
     - Slip transfer in complex dislocation networks
     - High-dpa irradiation damage for nuclear fusion
