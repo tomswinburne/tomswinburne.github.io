@@ -38,15 +38,20 @@ Projects balance theory, method development and applications, depending on your 
 
 <u><strong>Selected recent work</strong></u><br>
 See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a> for an up-to-date list.
-- Score matching free energies (<a href="https://arxiv.org/abs/2502.18191" target="_new">Nat. Comm. 2025</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>
-<em>First differentiable free energy method. Extends <a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> for minima</em>
+- Score matching free energies in MD (<a href="https://arxiv.org/abs/2502.18191" target="_new">Nat. Comm. 2025</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>
+<em>First method to differentiate through free energy calculation.</em> 
 - POPS model-form UQ for deterministic models (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
 <br>
-<em>POPS solves Bayes' ignorance of model-form UQ. For MLIPs: <a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a></em>
+<em>Solving Bayes' ignorance of model-form UQ (misspecification).</em>
+- Misspecification uncertainty in MD (<a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
+<br><em>Using POPS to explore model-form UQ of SNAP and MACE.</em>
 - Entropy of dislocation glide (<a href="https://arxiv.org/abs/2410.04813" target="_new" >Nat. Comm. 2025</a> / <a href="https://github.com/tomswinburne/pafi" target="_new">PAFI</a> / Rodney Group)
 <br>
 <em>Why ML potentials are required to accurately model bcc plastic flow</em>
 <br>
+- Implicit differentiation in atomic simulation (<a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> / code)<br>
+<em>Efficient, scalable method for differentiating through minimization.</em>
+----
 - MACE foundation model for ML potentials (Csyani Group / <a href="https://arxiv.org/abs/2401.00096" target="_new" >arXiv 2024)</a><br>
 <em>Section A.13. Dislocations are a tough extrapolation test for UMLIPs.</em>
 <br>
