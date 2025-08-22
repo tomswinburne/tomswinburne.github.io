@@ -6,7 +6,7 @@
 ## Open Positions
 <strong>University of Michigan, Ann Arbor</strong><br>
 I will be hiring at least one PhD and a Postdoc for Winter (Jan) 2026. See home page for an idea of current research topics. Motivated students from 
-ME/MSE/Physics/CSE/Math or related fields should email <code>tswin-at-umich.edu</code>. 
+ME/MSE/Physics/CSE/Math or related fields should email <code>tswin-at-umich.edu</code>. Doctoral applications will be made through the <a href="https://me.engin.umich.edu/admissions/graduate/">Rackham Graduate School</a>.
 
 <strong>PhD (filled) + Postdoc (open), Paris Nord</strong><br>
 <em>Data-Driven prediction of dislocation plasticity</em><br>
