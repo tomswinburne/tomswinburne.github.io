@@ -1,8 +1,9 @@
 <u><strong>LM3 Lab, University of Michigan</strong></u><br>
 <img src='images/portrait.png' width=100/><br>
 <a href="/team"><strong>Thomas D Swinburne, PhD</strong></a><br>
-Assistant Professor, <a href="https://me.engin.umich.edu/" target="_new">Mechanical Engineering</a><br>
-Visiting researcher, <a href="https://www.inp.cnrs.fr/fr" target="_new">CNRS Physique</a>
+Assistant Professor, <a href="https://me.engin.umich.edu/" target="_new">University of Michigan</a><br>
+Visiting researcher, <a href="https://www.inp.cnrs.fr/fr" target="_new">CNRS Physique</a><br>
+Associate Editor, <a href="https://www.sciencedirect.com/journal/computational-materials-science/about/editorial-board" target="_new">Computational Materials Science</a>
 <br><a href="pdf/CV-TomSwinburne-2025.pdf" target="_new">CV</a>
 &nbsp;/&nbsp;
 <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a>
@@ -51,10 +52,10 @@ See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_o
 <br>
 - Implicit differentiation in atomic simulation (<a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> / code)<br>
 <em>Efficient, scalable method for differentiating through minimization.</em>
-----
+<br>----
 - MACE foundation model for ML potentials (Csyani Group / <a href="https://arxiv.org/abs/2401.00096" target="_new" >arXiv 2024)</a><br>
 <em>Section A.13. Dislocations are a tough extrapolation test for UMLIPs.</em>
-<br>
+<br>----
 - Coarse-graining & forecasting atomic simulations
 (<a href="http://dx.doi.org/10.1103/PhysRevLett.131.236101" target="_new" > PRL 2023)</a><br>
 <em>ML feature vectors used for MLIPs can also forecast complex futures</em>
