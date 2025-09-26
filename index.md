@@ -46,7 +46,7 @@ See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_o
 <em>Solving Bayes' ignorance of model-form UQ (misspecification).</em>
 - Misspecification uncertainty in MD (<a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
 <br><em>Using POPS to explore model-form UQ of SNAP and MACE.</em>
-- Entropy of dislocation glide (<a href="https://arxiv.org/abs/2410.04813" target="_new" >Nat. Comm. 2025</a> / <a href="https://github.com/tomswinburne/pafi" target="_new">PAFI</a> / Rodney Group)
+- Entropy of dislocation glide (<a href="https://www.nature.com/articles/s41467-025-62390-w" target="_new" >Nat. Comm. 2025</a> / <a href="https://github.com/tomswinburne/pafi" target="_new">PAFI</a> / Rodney Group)
 <br>
 <em>Why ML potentials are required to accurately model bcc plastic flow</em>
 <br>
