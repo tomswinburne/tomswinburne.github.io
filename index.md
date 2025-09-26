@@ -1,7 +1,7 @@
 <u><strong>LM3 Lab, University of Michigan</strong></u><br>
 <img src='images/portrait.png' width=100/><br>
 <a href="/team"><strong>Thomas D Swinburne, PhD</strong></a><br>
-Assistant Professor, <a href="https://me.engin.umich.edu/" target="_new">University of Michigan</a><br>
+Assistant Professor, <a href="https://me.engin.umich.edu/people/faculty/thomas-swinburne/" target="_new">University of Michigan</a><br>
 Visiting researcher, <a href="https://www.inp.cnrs.fr/fr" target="_new">CNRS Physique</a><br>
 Associate Editor, <a href="https://www.sciencedirect.com/journal/computational-materials-science/about/editorial-board" target="_new">Computational Materials Science</a>
 <br><a href="pdf/CV-TomSwinburne-2025.pdf" target="_new">CV</a>
