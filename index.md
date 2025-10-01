@@ -39,7 +39,7 @@ Projects balance theory, method development and applications, depending on your 
 
 <u><strong>Selected recent work</strong></u><br>
 See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a> for an up-to-date list.
-- Score matching free energies in MD (<a href="https://arxiv.org/abs/2502.18191" target="_new">Nat. Comm. 2025</a> / NeurIPS AI4Mat / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>
+- Score matched free energies (<a href="https://arxiv.org/abs/2502.18191" target="_new">Nat. Comm. 2025</a> / <a href="https://sites.google.com/view/ai4mat/home" target="_new">AI4Mat</a>/ <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>
 <em>First method to differentiate through free energy calculation.</em> 
 - POPS model-form UQ for deterministic models (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
 <br>
