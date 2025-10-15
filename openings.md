@@ -5,10 +5,10 @@
 
 ## Open Positions
 <strong>University of Michigan, Ann Arbor</strong><br>
-I will be hiring at least one PhD and a Postdoc for Winter (Jan) 2026. 
+I will be hiring at least one PhD and <s>a Postdoc</s> for Winter (Jan) 2026. 
 Ph.D. students must first be admitted into the <a href="https://me.engin.umich.edu/admissions/graduate/">Rackham Graduate School</a> at the University of Michigan. Motivated students from Engineering, Physics, Math or related fields should email <code>tswin-at-umich.edu</code> outlining why they want to persue a PhD in the group. <em>Please note generic emails will be ignored!</em>
 
-<strong>PhD (filled) + Postdoc (open), Paris Nord</strong><br>
+<strong><s>PhD</s> + Postdoc (open), Paris Nord</strong><br>
 <em>Data-Driven prediction of dislocation plasticity</em><br>
 ANR PRC DAPREDIS project with Sylvain Queyreau, LPSM, Sorbonne, Paris Nord.
 As of September 2025, we are looking for a Postdoc for this exciting project. Email <code>tswin-at-umich.edu</code> or <code>sylvain.queyreau-at-lspm.cnrs.fr</code>, including your CV and paragraph of motivation. 

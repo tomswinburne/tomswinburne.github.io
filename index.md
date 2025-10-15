@@ -39,19 +39,19 @@ Projects balance theory, method development and applications, depending on your 
 
 <u><strong>Selected recent work</strong></u><br>
 See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a> for an up-to-date list.
-- Score matched free energies (<a href="https://arxiv.org/abs/2502.18191" target="_new">Nat. Comm. 2025</a> / <a href="https://sites.google.com/view/ai4mat/home" target="_new">AI4Mat</a>/ <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>
-<em>First method to differentiate through free energy calculation.</em> 
-- POPS model-form UQ for deterministic models (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
-<br>
-<em>Solving Bayes' ignorance of model-form UQ (misspecification).</em>
-- Misspecification uncertainty in MD (<a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
-<br><em>Using POPS to explore model-form UQ of SNAP and MACE.</em>
 - Entropy of dislocation glide (<a href="https://www.nature.com/articles/s41467-025-62390-w" target="_new" >Nat. Comm. 2025</a> / <a href="https://github.com/tomswinburne/pafi" target="_new">PAFI</a> / Rodney Group)
 <br>
 <em>Why ML potentials are required to accurately model bcc plastic flow</em>
+- Score matched free energies (<a href="https://arxiv.org/abs/2502.18191" target="_new">Nat. Comm. 2025</a> & <a href="https://sites.google.com/view/ai4mat/home" target="_new">AI4Mat</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>
+<em>Free energies as parametric functions, for UQ and inverse problems.</em> 
+- Misspecification uncertainty in MD (<a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
+<br><em>Using POPS to explore model-form UQ of SNAP and MACE.</em>
 <br>
-- Implicit differentiation in atomic simulation (<a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> / code)<br>
-<em>Efficient, scalable method for differentiating through minimization.</em>
+- Implicit differentiation in atomic simulation (<a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> <strong>featured</strong> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a>)<br>
+<em>Minima as parametric functions, for UQ and inverse problems.</em>
+- POPS model-form UQ for deterministic models (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
+<br>
+<em>Solving Bayes' ignorance of model-form UQ (misspecification).</em>
 <br>----
 - MACE foundation model for ML potentials (Csyani Group / <a href="https://arxiv.org/abs/2401.00096" target="_new" >arXiv 2024)</a><br>
 <em>Section A.13. Dislocations are a tough extrapolation test for UMLIPs.</em>
@@ -68,17 +68,15 @@ See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_o
 <em>Irradiation defects can grow as three-dimensional Laves phase clusters</em>
 
 <br>
-<u><strong>Recent & Upcoming Conferences/Seminars</strong></u><br>
+<u><strong>Recent/Upcoming Invited Talks</strong></u><br>
 <a href="https://wales.group.ch.cam.ac.uk/energy-landscapes-2026-telluride" target="_new">EL2026</a>, Telluride, USA, 07/26<br>
 <a href="https://www.siam.org/conferences-events/siam-conferences/uq26/" target="_new">SIAM UQ</a>, Minneapolis, USA, 03/26<br>
-<a href="https://sites.google.com/view/ai4mat/home" target="_new">NeurIPS 2025 (AI4Mat)</a>, San Diego, USA, 12/25<br>
-<a href="https://www.mrs.org/meetings-events/annual-meetings/2025-mrs-fall-meeting" target="_new">MRS Fall 2025</a>, Boston, USA, 12/25<br>
 <a href="https://www.coe.miami.edu/events/dislocations-conference/index.html" target="_new">Dislocations 2025</a>, Miami, USA, 11/25<br>
 <a href="https://www.cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380" target="_new">CECAM</a>: UQ from DFT to ML, EPFL, Lausanne, 11/25<br>
-<a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25<br>
+<s><a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25</s> (unavailable)<br>
+<a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM Electrochemistry</a>, UCLA, 10/25<br>
 <a href="https://nanomaterials2025.usacm.org" target="_new">USACM Nanomechanics 2025</a>, Urbana-Champaign, USA, 09/25<br>
-Speaker & Senior Scholar, <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM</a>, UCLA, 9/25-12/25
-<br><s>E-MRS Meeting, Prague, 09/25</s> (unavailable)<br>
+<s>E-MRS Meeting, Prague, 09/25</s> (unavailable)<br>
 Fritz Haber Institute of the Max Planck Society, Berlin, 04/25
 <br><s>APS March Meeting, Anaheim, 03/25</s> (unavailable)
 <br>Condensed Matter Physics Seminar, École Polytechnique, 03/25<br>
