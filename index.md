@@ -22,10 +22,13 @@ Our research pushes the frontier of multi-scale modelling for metals, connecting
 <br>
 <br>
 <strong><a href="/openings">We are hiring</a> in Ann Arbor and Paris!</strong>
+Projects balance theory, method development and applications, depending on your interest. 
+Past members have secured competitive positions in both academia and industry;
+see <a href="/team">team members/alumni</a>.
 <br>
 <br>
 <u><strong>Current research topics</strong></u><br>
-Projects balance theory, method development and applications, depending on your interest. See <a href="/team">team members/alumni</a> and <a href="/openings">open positions</a>.
+See <a href="/openings">open positions</a> for more information or email <code>tswin-at-umich-dot-edu</code></em>.
 - <em>Application focus:</em>
     - Slip transfer in complex dislocation networks
     - High-dpa irradiation damage for nuclear fusion

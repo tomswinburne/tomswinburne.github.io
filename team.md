@@ -1,19 +1,20 @@
 ## Current Members 
-<em>From August 2025, all positions in Europe are co-supervision only.</em><br>
+<em>From 08/25 positions in Europe are as co-supervisor.</em><br>
 <strong>George Simmonds</strong><br>
 2025-: PhD, Bayesian inverse problems in atomic simulation<br>
-co-supervision with Prof J Kermode and Prof T Hudson, University of Warwick<br>
+Co-supervision with Prof J Kermode and Prof T Hudson, University of Warwick<br>
 
 <strong>Guillaume Commelin</strong><br>
-2025-: PhD, analysis and forecasting of dislocation plasticity (ANR DAPREDIS)<br> co-supervision with Prof S Queyreau, Paris Nord<br>
+2025-: PhD, analysis and forecasting of dislocation plasticity (ANR DAPREDIS)<br> 
+Co-supervision with Prof S Queyreau, Paris Nord<br>
 
 <strong>Léonard Morachini</strong><br>
 2025-: PhD, UQ for atomic simulations of rare events<br>
-co-supervision with Drs T Pidgeon IFPEN & MC Marinica CEA<br>
+Co-supervision with Drs T Pidgeon, M Menz IFPEN & MC Marinica CEA<br>
 
 <strong>Emna Frikha</strong><br>
 2024-: PhD, predicting He retention in plasma-facing W (ANR HEBERTUNE)<br>
-co-supervision with Prof J Mougenot, Paris Nord.
+Co-supervision with Prof J Mougenot, Paris Nord.
 
 ## Past Members
 <strong>Ivan Maliyov</strong><br>
