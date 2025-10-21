@@ -28,7 +28,7 @@ see <a href="/team">team members/alumni</a>.
 <br>
 <br>
 <u><strong>Current research topics</strong></u><br>
-See <a href="/openings">open positions</a> for more information or email <code>tswin-at-umich-dot-edu</code></em>.
+See <a href="/openings">open positions</a> for more information or email <code>tswin-at-umich-dot-edu</code>.
 - <em>Application focus:</em>
     - Slip transfer in complex dislocation networks
     - High-dpa irradiation damage for nuclear fusion
@@ -74,6 +74,7 @@ See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_o
 <u><strong>Recent/Upcoming Invited Talks</strong></u><br>
 <a href="https://wales.group.ch.cam.ac.uk/energy-landscapes-2026-telluride" target="_new">EL2026</a>, Telluride, USA, 07/26<br>
 <a href="https://www.siam.org/conferences-events/siam-conferences/uq26/" target="_new">SIAM UQ</a>, Minneapolis, USA, 03/26<br>
+<!--Frontiers of Theory and AI in Sustainable Mat. Sci., Dusseldorf, 01/26<br>-->
 <a href="https://www.coe.miami.edu/events/dislocations-conference/index.html" target="_new">Dislocations 2025</a>, Miami, USA, 11/25<br>
 <a href="https://www.cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380" target="_new">CECAM</a>: UQ from DFT to ML, EPFL, Lausanne, 11/25<br>
 <s><a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25</s> (unavailable)<br>
