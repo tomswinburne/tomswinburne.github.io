@@ -15,20 +15,20 @@ Associate Editor, <a href="https://www.sciencedirect.com/journal/computational-m
 <br>
 <br>
 <!--<u><strong>LM3: Learning Multiscale Material Models</strong></u><br>-->
-<strong>We push the frontier of multi-scale modelling methods for metals, connecting atomic dynamics, microstructure and mechanical properties.</strong>
+<strong>We push the frontier of multi-scale modelling for metals, connecting atomic dynamics, microstructure and mechanical properties.</strong>
 <br>
 <em>Keywords: Dislocations, Irradiation Damage, Phase Diagrams, MD/ML/UQ.</em><br>
 
 Metallic alloys uniquely combine strength, ductility and reusability due to a complex hierarchy of plasticity mechanisms which are only partially understood. In many settings, prediction of component failure is a largely open problem, with important implications across industry and society. 
 
-Fatigue alone is estimated to cost 2-3% of US GDP, while irradiation-induced embrittlement is a key issue for all fission and fusion reactors. Crucially, there are no large datasets to learn from as experiments probing microstructural origins of failure are typically indirect, destructive and expensive. There is thus a need for predictive models that help diagnosis and mitigation.
+Fatigue alone is estimated to cost 2-3% of US GDP, while irradiation-induced embrittlement is a key issue for all fission and fusion reactors. There are no large datasets to learn from as experiments probing the microstructural origins of failure are typically indirect and destructive. 
 
-Our research blends theory and data to build multiscale models of metal plasticity, often with application to the nuclear sector. We draw broadly from applied math, physics, mechanics and machine learning to investigate phenomena involving dislocations, diffusion and phase transformation. 
+Our research blends theory and data to build multiscale models of metal plasticity, often with applications in the nuclear sector. We draw broadly from concepts in applied math, machine learning, physics and mechanics.
 <br>
 <br>
 <strong>We are hiring in Ann Arbor & Paris!</strong><br> 
 See <a href="/openings">open positions</a> or email <code>tswin-at-umich-dot-edu</code>.
-<a href="/team">Past members</a> have gone on to obtain competitive positions in both academia and industry.
+<a href="/team">Past members</a> have gone on to obtain competitive positions in academia and industry.
 <br>
 <br>
 <u><strong>Current research topics</strong></u><br>
@@ -51,12 +51,12 @@ See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_o
 <br>
 <em>Why ML potentials are required to accurately model bcc plastic flow</em>
 - Score matched free energies (<a href="https://arxiv.org/abs/2502.18191" target="_new">Nat. Comm. 2025</a> & <a href="https://sites.google.com/view/ai4mat/home" target="_new">AI4Mat</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>
-<em>Free energies as parametric functions, for UQ and inverse problems.</em> 
+<em>MLIP phase diagrams as functions, for UQ and inverse problems.</em> 
+- Implicit differentiation in MD (<a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> <strong>featured</strong> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a>)<br>
+<em>MLIP energy landscapes as functions, for UQ and inverse problems.</em>
 - Misspecification uncertainty in MD (<a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
 <br><em>Using POPS to explore model-form UQ of SNAP and MACE.</em>
 <br>
-- Implicit differentiation in MD (<a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> <strong>featured</strong> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a>)<br>
-<em>Minima as parametric functions, for UQ and inverse problems.</em>
 - POPS model-form UQ for deterministic models (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad9fce/meta" _target="_new">ML:S&T 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
 <br>
 <em>Solving Bayes' ignorance of model-form UQ (misspecification).</em>
