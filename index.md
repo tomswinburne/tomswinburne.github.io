@@ -15,20 +15,19 @@ Associate Editor, <a href="https://www.sciencedirect.com/journal/computational-m
 <br>
 <br>
 <!--<u><strong>LM3: Learning Multiscale Material Models</strong></u><br>-->
-<strong>We push the frontier of multi-scale modelling for metallic alloys, using theory and data to connect atomic dynamics, microstructure and mechanical properties.</strong><br>
-<em>Keywords: Atomic Simulation, Dislocation Plasticity, Irradiation Damage, Uncertainty Quantification, Surrogate Models</em><br>
+<strong>We push the frontier of multi-scale modelling methods for metals, connecting atomic dynamics, microstructure and mechanical properties.</strong>
+<br>
+<em>Keywords: Dislocations, Irradiation Damage, Phase Diagrams, MD/ML/UQ.</em><br>
 
-Metallic alloys uniquely combine strength, ductility and reusability due to a complex hierarchy of plasticity mechanisms which are only partially understood. 
+Metallic alloys uniquely combine strength, ductility and reusability due to a complex hierarchy of plasticity mechanisms which are only partially understood. In many settings, prediction of component failure is a largely open problem, with important implications across industry and society. 
 
+Fatigue alone is estimated to cost 2-3% of US GDP, while irradiation-induced embrittlement is a key issue for all fission and fusion reactors. Crucially, there are no large datasets to learn from as experiments probing microstructural origins of failure are typically indirect, destructive and expensive. There is thus a need for predictive models that help diagnosis and mitigation.
 
-Prediction of metallic component failure is a largely open problem in many settings, with important societal implications. Fatigue failure alone is estimated to cost around 2-3% of US GDP, while irradiation-induced embrittlement is a long-term issue for all means of nuclear energy production. 
-
-As experiments are typically indirect, destructive and expensive, data is sparse. There is thus a need for models that blend data and theory to help diagnose and mitigate component failure. 
-
-Our research aims to do this, drawing broadly from applied math, physics, mechanics and machine learning to build multi-scale models that address open problems in metal plasticity.
+Our research blends theory and data to build multiscale models of metal plasticity, often with application to the nuclear sector. We draw broadly from applied math, physics, mechanics and machine learning to investigate phenomena involving dislocations, diffusion and phase transformation. 
 <br>
 <br>
-<strong>We are hiring in Ann Arbor & Paris!</strong> see <a href="/openings">open positions</a> or email <code>tswin-at-umich-dot-edu</code>.
+<strong>We are hiring in Ann Arbor & Paris!</strong><br> 
+See <a href="/openings">open positions</a> or email <code>tswin-at-umich-dot-edu</code>.
 <a href="/team">Past members</a> have gone on to obtain competitive positions in both academia and industry.
 <br>
 <br>
