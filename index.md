@@ -20,6 +20,7 @@ Associate Editor, <a href="https://www.sciencedirect.com/journal/computational-m
 <em>Keywords: Dislocations, Irradiation Damage, Phase Diagrams, MD/ML/UQ.</em><br>
 
 Metallic alloys uniquely combine strength, ductility and reusability due to a complex hierarchy of plasticity mechanisms which are only partially understood. In many settings, prediction of component failure is a largely open problem, with important implications across industry and society. 
+
 Fatigue alone is estimated to cost 2-3% of US GDP, while irradiation-induced embrittlement is a key issue for all fission and fusion reactors. 
 
 Experiments probing the microstructural origins of failure are typically indirect, destructive and expensive, meaning data is sparse. Predictive models which help diagnose and mitigate failure are thus urgently sought.
