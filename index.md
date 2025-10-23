@@ -1,4 +1,4 @@
-<u><strong>LM3: Learning Multiscale Material Models</u></strong><br>
+<strong><u>LM3: Learning Multiscale Material Models</u></strong><br>
 <em>Department of Mechanical Engineering<br> University of Michigan, Ann Arbor</em><br>
 <img src='images/portrait.png' width=100/><br>
 <a href="/team"><strong>Thomas D Swinburne, PhD</strong></a><br>
