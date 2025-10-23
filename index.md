@@ -80,13 +80,11 @@ See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_o
 <br>
 <u><strong>Recent or upcoming travel and talks</strong></u><br>
 <a href="https://wales.group.ch.cam.ac.uk/energy-landscapes-2026-telluride" target="_new">EL2026</a>, Telluride, USA, 07/26<br>
-
 <a href="https://www.siam.org/conferences-events/siam-conferences/uq26/" target="_new">SIAM UQ</a>, Minneapolis, USA, 03/26<br>
 Frontiers of Theory and AI in Sustainable Mat. Sci., Dusseldorf, 01/26<br>
 <a href="https://www.usacm.org/site_page.cfm?pk_association_webpage_menu=11354&pk_association_webpage=25785" target="_new">USACM UQ</a>, Webinar, USA, 01/26<br>
 <a href="https://sites.google.com/view/ai4mat/home">NeurIPS AI4Mat</a>, San Diego, USA, 12/25<br>
 <a href="https://www.coe.miami.edu/events/dislocations-conference/index.html" target="_new">Dislocations 2025</a>, Miami, USA, 11/25<br>
-<a href="https://www.cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380" target="_new">CECAM</a>: UQ from DFT to ML, EPFL, Lausanne, 11/25<br>
-<s><a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25</s> (unavailable)<br>
+<a href="https://www.cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380" target="_new">CECAM</a>: UQ from DFT to ML, EPFL, Lausanne, 11/25<br><s><a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25</s> (unavailable)<br>
 <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM Electrochemistry</a>, UCLA, 10/25<br>
 <a href="https://nanomaterials2025.usacm.org" target="_new">USACM Nanomechanics 2025</a>, Urbana-Champaign, USA, 09/25<br>
