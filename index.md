@@ -1,7 +1,8 @@
-<strong><u>LM3: Learning Multiscale Material Models</u></strong><br>
+<h2>LM3: Learning Multiscale Material Models</h2>
 <em>Department of Mechanical Engineering<br> University of Michigan, Ann Arbor</em><br>
 <img src='images/portrait.png' width=100/><br>
-<a href="/team"><strong>Thomas D Swinburne, PhD</strong></a><br>
+<strong>Thomas D Swinburne, PhD</strong><br>
+<code>tswin-at-umich-dot-edu</code><br>
 Assistant Professor, <a href="https://me.engin.umich.edu/people/faculty/thomas-swinburne/" target="_new">University of Michigan</a><br>
 Visiting researcher, <a href="https://www.inp.cnrs.fr/fr" target="_new">CNRS Physique</a><br>
 Associate Editor, <a href="https://www.sciencedirect.com/journal/computational-materials-science/about/editorial-board" target="_new">Computational Materials Science</a>
@@ -10,8 +11,6 @@ Associate Editor, <a href="https://www.sciencedirect.com/journal/computational-m
 <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a>
 &nbsp;/&nbsp;
 <a href="https://github.com/tomswinburne/" target="_new">GitHub</a>
-<br>
-<code>tswin-at-umich-dot-edu</code>
 <br>
 <br>
 <!--<u><strong>LM3: Learning Multiscale Material Models</strong></u><br>-->
@@ -49,13 +48,13 @@ Projects balance theory/applications depending on your interest.
 
 <u><strong>Selected recent work</strong></u><br>
 See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a> for an up-to-date list.
+- Score matched free energies (<a href="https://arxiv.org/abs/2502.18191" target="_new">Nat. Comm. 2025</a> & <a href="https://sites.google.com/view/ai4mat/home" target="_new">AI4Mat</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>
+<em>MLIP phase diagrams as functions, for UQ and inverse problems !</em> 
 - Entropy of dislocation glide (<a href="https://www.nature.com/articles/s41467-025-62390-w" target="_new" >Nat. Comm. 2025</a> / <a href="https://github.com/tomswinburne/pafi" target="_new">PAFI</a> / Rodney Group)
 <br>
-<em>Why ML potentials are required to accurately model bcc plastic flow</em>
-- Score matched free energies (<a href="https://arxiv.org/abs/2502.18191" target="_new">Nat. Comm. 2025</a> & <a href="https://sites.google.com/view/ai4mat/home" target="_new">AI4Mat</a> / <a href="https://github.com/tomswinburne/DescriptorDOS" target="_new">code</a>)<br>
-<em>MLIP phase diagrams as functions, for UQ and inverse problems.</em> 
+<em>Why ML potentials are required to accurately model bcc plastic flow.</em>
 - Implicit differentiation in MD (<a href="https://www.nature.com/articles/s41524-024-01506-0" _target="_new">NPJ 2025</a> <strong>featured</strong> / <a href="https://github.com/marseille-matmol/LammpsImplicitDerivative" target="_new">code</a>)<br>
-<em>MLIP energy landscapes as functions, for UQ and inverse problems.</em>
+<em>MLIP energy landscapes as functions, for UQ and inverse problems !</em>
 - Misspecification uncertainty in MD (<a href="https://arxiv.org/abs/2502.07104" target="_new">NPJ 2025</a> / <a href="https://github.com/tomswinburne/POPS-Regression" target="_new">code</a>)
 <br><em>Using POPS to explore model-form UQ of SNAP and MACE.</em>
 <br>
