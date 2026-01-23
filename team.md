@@ -1,5 +1,19 @@
+## Thomas Swinburne
+<img src='images/portrait.png' width=100/><br>
+Assistant Professor, <a href="https://me.engin.umich.edu/people/faculty/thomas-swinburne/" target="_new">University of Michigan</a><br>
+Visiting researcher, <a href="https://www.inp.cnrs.fr/fr" target="_new">CNRS Physique</a><br>
+Associate Editor, <a href="https://www.sciencedirect.com/journal/computational-materials-science/about/editorial-board" target="_new">Computational Materials Science</a>
+<br><a href="pdf/CV-TomSwinburne-2025.pdf" target="_new">CV</a>
+&nbsp;/&nbsp;
+<a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a>
+&nbsp;/&nbsp;
+<a href="https://github.com/tomswinburne/" target="_new">GitHub</a>
+<br>
+<br>
 ## Current Members 
-<em>From 08/25 positions in Europe are as co-supervisor.</em><br>
+<strong>Marvin Poul</strong><br>
+2026-: Postdoc, Differentiable phase diagrams<br>
+
 <strong>George Simmonds</strong><br>
 2025-: PhD, Bayesian inverse problems in atomic simulation<br>
 Co-supervision with Prof J Kermode and Prof T Hudson, University of Warwick<br>

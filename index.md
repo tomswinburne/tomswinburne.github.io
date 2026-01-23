@@ -1,35 +1,17 @@
 <h2>LM3: Learning Multiscale Material Models</h2>
-<em>Department of Mechanical Engineering<br> University of Michigan, Ann Arbor</em><br>
-<img src='images/portrait.png' width=100/><br>
-<strong>Thomas D Swinburne, PhD</strong><br>
+<em>Department of Mechanical Engineering, University of Michigan, Ann Arbor</em><br>
+<a href="/team"><strong>Thomas D Swinburne, PhD</strong></a><br>
 <code>tswin-at-umich-dot-edu</code><br>
-Assistant Professor, <a href="https://me.engin.umich.edu/people/faculty/thomas-swinburne/" target="_new">University of Michigan</a><br>
-Visiting researcher, <a href="https://www.inp.cnrs.fr/fr" target="_new">CNRS Physique</a><br>
-Associate Editor, <a href="https://www.sciencedirect.com/journal/computational-materials-science/about/editorial-board" target="_new">Computational Materials Science</a>
-<br><a href="pdf/CV-TomSwinburne-2025.pdf" target="_new">CV</a>
-&nbsp;/&nbsp;
-<a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a>
-&nbsp;/&nbsp;
-<a href="https://github.com/tomswinburne/" target="_new">GitHub</a>
+<br>
+Metallic alloys uniquely combine strength, ductility and reusability. If material design is hard, alloy design is harder, as mechanical properties emerge from a complex hierarchy of plasticity mechanisms that resist direct structure-property relationships.
 <br>
 <br>
-<!--<u><strong>LM3: Learning Multiscale Material Models</strong></u><br>-->
-<strong>We push the frontier of multi-scale modelling for metals, connecting atomic dynamics, microstructure and mechanical properties.</strong>
-<br>
-<em>Keywords: Dislocations, Irradiation Damage, Phase Diagrams, MD/ML/UQ.</em><br>
-
-Metallic alloys uniquely combine strength, ductility and reusability due to a complex hierarchy of plasticity mechanisms which are only partially understood. In many settings, prediction of component failure is a largely open problem, with important implications across industry and society. 
-
-Fatigue alone is estimated to cost 2-3% of US GDP, while irradiation-induced embrittlement is a key issue for all fission and fusion reactors. 
-
-Experiments probing the microstructural origins of failure are typically indirect, destructive and expensive, meaning data is sparse. Predictive models which help diagnose and mitigate failure are thus urgently sought.
-
-Our research blends theory and data to build multiscale models of metal plasticity, often with applications in the nuclear sector. We draw broadly from concepts in applied math, machine learning, physics and mechanics.
+The LM3 lab pushes the frontier of multiscale simulation methods from the atomic level up, drawing broadly from applied math, machine learning, physics and mechanics. A particular focus is harnessing high-dimensional latent spaces for multiscale inverse design and uncertainty quantification.
 <br>
 <br>
 <strong>We are hiring in Ann Arbor & Paris!</strong><br> 
 See <a href="/openings">open positions</a> or email <code>tswin-at-umich-dot-edu</code>.
-<a href="/team">Past members</a> have gone on to obtain competitive positions in academia and industry.
+<a href="/team">Lab members</a> have gone on to obtain competitive positions in academia and industry.
 <br>
 <br>
 <u><strong>Current research topics</strong></u><br>
@@ -37,13 +19,13 @@ Projects balance theory/applications depending on your interest.
 - <em>Application focus:</em>
     - Slip transfer in complex dislocation networks
     - High-dpa irradiation damage for nuclear fusion
-    - Exploring phase diagrams and kinetics
+    - Prediction of phase diagrams across the periodic table
     - Mechanistic inverse design of non-dilute alloys
 - <em>Theory/method development focus:</em>
     - Model-form uncertainty quantification (UQ) for ML surrogates
     - Data-driven forecasting of long-timescale simulation behaviour
     - End-to-end differentiable simulations for UQ and design
-    - Efficient fine-tuning of universal potentials (e.g. MACE)
+    - Inverse fine-tuning of atomic machine learning models
 
 
 <u><strong>Selected recent work</strong></u><br>
