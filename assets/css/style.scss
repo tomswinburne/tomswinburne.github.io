@@ -33,11 +33,11 @@ section {
 /* Reduce gap between sidebar and main content (desktop only) */
 @media screen and (min-width: 768px) {
     section {
-        width: 600px;
+        width: 550px;
     }
 }
 
-/* Increase letter spacing for menu links */
+/* Increase line spacing for menu links */
 header a {
-    letter-spacing: 1.5px;
+    line-height: 2.0;
 }
