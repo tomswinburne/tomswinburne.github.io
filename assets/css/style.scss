@@ -11,6 +11,10 @@ a {
     text-decoration:none;
   }
 
+a strong {
+    color: inherit;
+  }
+
 a:hover, a:focus {
     color:#5d1e98;
     font-weight: bold;
