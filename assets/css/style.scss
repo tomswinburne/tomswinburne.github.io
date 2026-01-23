@@ -25,13 +25,16 @@ ul ul > li {
     margin-bottom: 0px;
 }
 
-/* Reduce gap between sidebar and main content */
-header {
-    margin-right: -20px;
-}
+/* Justify body text */
 section {
-    margin-left: -20px;
     text-align: justify;
+}
+
+/* Reduce gap between sidebar and main content (desktop only) */
+@media screen and (min-width: 768px) {
+    section {
+        width: 600px;
+    }
 }
 
 /* Increase letter spacing for menu links */
