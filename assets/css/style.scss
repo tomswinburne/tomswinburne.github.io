@@ -24,3 +24,17 @@ ul ul > li {
     margin-top: 0px;
     margin-bottom: 0px;
 }
+
+/* Reduce gap between sidebar and main content */
+header {
+    margin-right: -20px;
+}
+section {
+    margin-left: -20px;
+    text-align: justify;
+}
+
+/* Increase letter spacing for menu links */
+header a {
+    letter-spacing: 1.5px;
+}
