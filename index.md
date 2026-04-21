@@ -1,7 +1,7 @@
 <h2>LM3: Learning Multiscale Material Models</h2>
 <em>Department of Mechanical Engineering, University of Michigan, Ann Arbor</em><br>
-<a href="/team"><strong>Thomas D Swinburne, PhD</strong></a><br>
-<code>tswin-at-umich-dot-edu</code><br>
+<a href="/team"><strong>Thomas D Swinburne, PhD</strong></a>
+&emsp;&emsp;<code>tswin-at-umich-dot-edu</code><br>
 <br>
 Metallic alloys uniquely combine strength, ductility and reusability, properties which emerge from an often mysterious hierarchy of plasticity mechanisms. Alloy design requires inverting complex structure-processing-property relationships from sparse and indirect data, a significant challenge for human or AI scientists. 
 <br>
