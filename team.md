@@ -22,7 +22,7 @@ University of Michigan<br>
 University of Michigan, with Prof V Gavani<br>
 
 <img src='images/team/george.png' width=100/><br>
-<strong>Jack Jiang</strong></a>
+<strong>Jack Jiang</strong>
 2026: MSc, Uncertainty quantification for ODEs<br>
 University of Michigan<br>
 
@@ -33,17 +33,17 @@ University of Michigan<br>
 2025-: PhD, Bayesian inverse problems in atomic simulation<br>
 University of Warwick, with Prof J Kermode and Prof T Hudson<br>
 
-<img src='images/team/guillaume.jpeg' width=100/></br>
+<img src='images/team/guillaume.jpeg' width=100/><br>
 <strong>Guillaume Commelin</strong><br>
 2025-: PhD, analysis and forecasting of dislocation plasticity (ANR DAPREDIS)<br> 
-Sorbonne Paris Nord, with Prof S Queyreau</br>
+Sorbonne Paris Nord, with Prof S Queyreau<br>
 
-<img src='images/team/leonard.jpeg' width=100/></br>
+<img src='images/team/leonard.jpeg' width=100/><br>
 <a href="https://fr.linkedin.com/in/l%C3%A9onard-moracchini-04b833175/en" target="_new"><strong>Léonard Morachini</strong></a><br>
 2025-: PhD, UQ for atomic simulations of rare events<br>
 IFPEN, Paris, with Drs T Pidgeon, M Menz & MC Marinica<br>
 
-<img src='images/team/emna.jpeg' width=100/></br>
+<img src='images/team/emna.jpeg' width=100/><br>
 <strong>Emna Frikha</strong><br>
 2024-: PhD, predicting He retention in plasma-facing W (ANR HEBERTUNE)<br>
 Sorbonne Paris Nord, with Prof J Mougenot.
