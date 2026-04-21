@@ -35,7 +35,7 @@ University of Warwick, with Prof J Kermode and Prof T Hudson<br>
 
 <img src='images/team/guillaume.jpeg' width=100/><br>
 <strong>Guillaume Commelin</strong><br>
-2025-: PhD, analysis and forecasting of dislocation plasticity (ANR DAPREDIS)<br> 
+2025-: PhD, analysis of dislocation plasticity (ANR DAPREDIS)<br> 
 Sorbonne Paris Nord, with Prof S Queyreau<br>
 
 <img src='images/team/leonard.jpeg' width=100/><br>
@@ -45,7 +45,7 @@ IFPEN, Paris, with Drs T Pidgeon, M Menz & MC Marinica<br>
 
 <img src='images/team/emna.jpeg' width=100/><br>
 <strong>Emna Frikha</strong><br>
-2024-: PhD, predicting He retention in plasma-facing W (ANR HEBERTUNE)<br>
+2024-: PhD, He retention in plasma-facing W (ANR HEBERTUNE)<br>
 Sorbonne Paris Nord, with Prof J Mougenot.
 
 ## Past Members
