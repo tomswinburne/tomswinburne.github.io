@@ -55,9 +55,9 @@ See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_o
 - A15 defects in fcc (<a href="https://www.nature.com/articles/s41467-023-38729-6" target="_new" >Nat. Comm. 2023</a> / <a href="https://github.com/tomswinburne/tammber" target="_new">TAMMBER</a> / Marinica Group)
 <br>
 <em>Irradiation defects can grow as three-dimensional Laves phase clusters</em>
-
 <br>
-<u><strong>Recent or upcoming travel and talks</strong></u><br>
+<u><strong>Some recent/upcoming presentations</strong></u><br>
+<a href="https://www.mmm12.org/" target="_new">MMM12</a>, Jeju, Korea, 11/26</a>
 <a href="https://wales.group.ch.cam.ac.uk/energy-landscapes-2026-telluride" target="_new">EL2026</a>, Telluride, USA, 07/26<br>
 <a href="https://www.siam.org/conferences-events/siam-conferences/uq26/" target="_new">SIAM UQ</a>, Minneapolis, USA, 03/26<br>
 Frontiers of Theory and AI in Sustainable Mat. Sci., Dusseldorf, 01/26<br>
