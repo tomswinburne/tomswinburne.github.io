@@ -57,9 +57,11 @@ See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_o
 <em>Irradiation defects can grow as three-dimensional Laves phase clusters</em>
 <br>
 <u><strong>Some recent/upcoming presentations</strong></u><br>
-<a href="https://www.mmm12.org/" target="_new">MMM12</a>, Jeju, Korea, 11/26</a>
+<a href="https://www.mmm12.org/" target="_new">MMM12</a>, Jeju, Korea, 11/26<br>
 <a href="https://wales.group.ch.cam.ac.uk/energy-landscapes-2026-telluride" target="_new">EL2026</a>, Telluride, USA, 07/26<br>
+<a href="https://www.imsi.institute/no_index/descriptor-entropy-methods-for-configurational-landscapes-and-thermodynamic-fine-tuning-in-alloys-declare/" target="_new">DECLARE</a>, IMSI, U Chicago, USA, 06/26<br>
 <a href="https://www.siam.org/conferences-events/siam-conferences/uq26/" target="_new">SIAM UQ</a>, Minneapolis, USA, 03/26<br>
+Machine Learning for Chemical Modeling, Santa Fe, USA, 05/26<br>
 Frontiers of Theory and AI in Sustainable Mat. Sci., Dusseldorf, 01/26<br>
 <a href="https://www.usacm.org/site_page.cfm?pk_association_webpage_menu=11354&pk_association_webpage=25785" target="_new">USACM UQ</a>, Webinar, USA, 01/26<br>
 <a href="https://sites.google.com/view/ai4mat/home">NeurIPS AI4Mat</a>, San Diego, USA, 12/25<br>
