@@ -5,8 +5,9 @@
 
 ## Open Positions
 <strong>University of Michigan, Ann Arbor</strong><br>
-I will be hiring at least one PhD and <s>a Postdoc</s> for Fall (September) 2026. 
-Ph.D. students must first be admitted into the <a href="https://me.engin.umich.edu/admissions/graduate/">Rackham Graduate School</a> at the University of Michigan. Motivated students from Engineering, Physics, Math or related fields should email <code>tswin-at-umich.edu</code> outlining why they want to persue a PhD in the group. <em>Please note generic emails will be ignored!</em>
+Ph.D. students must first be admitted into the <a href="https://me.engin.umich.edu/admissions/graduate/">Rackham Graduate School</a> at the University of Michigan. 
+Motivated students from Engineering, Physics, Math or related fields should email <code>tswin-at-umich.edu</code> outlining why they want to persue a PhD or Postdoc in the group. 
+<em>Please note generic emails will be ignored!</em>
 
 <strong><s>PhD</s> + Postdoc (open), Paris Nord</strong><br>
 <em>Data-Driven prediction of dislocation plasticity</em><br>
