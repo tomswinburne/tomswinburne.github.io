@@ -10,23 +10,28 @@ Associate Editor, <a href="https://www.sciencedirect.com/journal/computational-m
 <a href="https://github.com/tomswinburne/" target="_new">GitHub</a>
 <br>
 <br>
-## Current Members 
+## Current Members at University of Michigan 
+<img src='images/team/george.png' width=100/><br>
+<a href="https://scholar.google.com/citations?hl=en&user=iATnyp0AAAAJ&view_op=list_works&sortby=pubdate" target="_new"><strong>Jiyoung Lee</strong></a><br>
+07/26-: Research fellow, separation science, with Drs D Perez and P Yang (Los Alamos)<br>
+
 <img src='images/team/marvin.jpeg' width=100/><br>
 <a href="https://scholar.google.com/citations?user=w3LWShwAAAAJ&hl=en" target="_new"><strong>Marvin Poul</strong></a><br>
-2026-: Research Fellow, Differentiable phase diagrams<br>
-University of Michigan<br>
+02/26-: Research Fellow, Differentiable phase diagrams<br>
 
 <img src='images/team/richard.jpeg' width=100/><br>
 <a href="https://www.richardzjm.com" target="_new"><strong>Richard Meng</strong></a><br>
-2026-: Incoming PhD & MICDE Fellow, Machine learning potentials<br>
-University of Michigan, with Prof V Gavani<br>
+09/26-: Incoming PhD & MICDE Fellow, Machine learning potentials, with Prof V Gavani<br>
+
+<img src='images/team/jon.jpeg' width=100/><br>
+<strong>Jon Black</strong><br>
+05/26: PhD, Dislocation Dynamics<br>
 
 <img src='images/team/george.png' width=100/><br>
-<strong>Jack Jiang</strong>
-2026: MSc, Uncertainty quantification for ODEs<br>
-University of Michigan<br>
+<strong>Jack Jiang</strong><br>
+01/26: MSc, Uncertainty quantification for ODEs<br>
 
-<hr>
+## External members under co-supervision
 
 <img src='images/team/george.png' width=100/><br>
 <strong>George Simmonds</strong><br>
