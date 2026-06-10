@@ -10,7 +10,7 @@ Associate Editor, <a href="https://www.sciencedirect.com/journal/computational-m
 <a href="https://github.com/tomswinburne/" target="_new">GitHub</a>
 <br>
 <br>
-## Current Members at University of Michigan 
+## University of Michigan 
 <img src='images/team/george.png' width=100/><br>
 <a href="https://scholar.google.com/citations?hl=en&user=iATnyp0AAAAJ&view_op=list_works&sortby=pubdate" target="_new"><strong>Jiyoung Lee</strong></a><br>
 07/26-: Research fellow, separation science, with Drs D Perez and P Yang (Los Alamos)<br>
@@ -31,7 +31,11 @@ Associate Editor, <a href="https://www.sciencedirect.com/journal/computational-m
 <strong>Jack Jiang</strong><br>
 01/26: MSc, Uncertainty quantification for ODEs<br>
 
-## External members under co-supervision
+## Europe
+<img src='images/team/george.png' width=100/><br>
+<strong>Vaidehi Menon</strong><br>
+08/26-: Postdoc, Dislocations in atomic simulation (ANR DAPREDIS)<br> 
+Sorbonne Paris Nord, with Prof S Queyreau<br>
 
 <img src='images/team/george.png' width=100/><br>
 <strong>George Simmonds</strong><br>
