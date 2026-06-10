@@ -9,7 +9,6 @@ Metallic alloys uniquely combine strength, ductility and reusability, properties
 The LM3 lab develops new simulation methods connecting atomic dynamics, microstructure and mechanical properties. We collaborate widely and use ideas from applied math, machine learning, physics and mechanics. A recent focus is harnessing high-dimensional latent spaces for multiscale inverse design and uncertainty quantification.
 <br>
 <br>
-<strong>We are hiring in Ann Arbor & Paris!</strong><br> 
 See <a href="/openings">open positions</a> or email <code>tswin-at-umich-dot-edu</code>.
 <a href="/team">Lab members</a> have gone on to obtain competitive positions in academia and industry.
 <br>
@@ -57,7 +56,7 @@ See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_o
 <em>Irradiation defects can grow as three-dimensional Laves phase clusters</em>
 <br>
 <u><strong>Some recent/upcoming presentations </strong></u><br>
-<em>&star;=invited, &dagger;=chair / symposium chair</em>
+<em>&star;=invited, &dagger;=chair / symposium chair</em><br>
 &dagger; MRS Spring 5/27, Seattle, USA<br>
 &star; TMS Spring 4/27, Orlando, USA<br>
 &star; $<a href="https://www.mmm12.org/" target="_new">MMM12</a>, Jeju, Korea, 11/26<br>
