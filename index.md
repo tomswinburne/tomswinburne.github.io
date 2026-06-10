@@ -3,17 +3,17 @@
 <a href="/team"><strong>Thomas D Swinburne, PhD</strong></a>
 &emsp;&emsp;<code>tswin-at-umich-dot-edu</code><br>
 <br>
-Metallic alloys uniquely combine strength, ductility and reusability, properties which emerge from an often mysterious hierarchy of plasticity mechanisms. The LM3 lab develops new simulation methods connecting atomic dynamics, microstructure and mechanical properties. We collaborate widely and use ideas from applied math, machine learning, physics and mechanics. 
+Metallic alloys uniquely combine strength, ductility and reusability due to an often mysterious hierarchy of plasticity mechanisms. The LM3 lab develops new simulation methods connecting atomic dynamics, microstructure and mechanical properties. We collaborate widely, drawing from applied math, machine learning, physics and mechanics.
 <!--Alloy design requires inverting complex structure-processing-property relationships from sparse and indirect data, a significant challenge for human or AI scientists. 
 A recent focus is harnessing high-dimensional latent spaces for multiscale inverse design and uncertainty quantification.-->
 <br>
 <br>
 <u><strong>Current research topics</strong></u><br>
 - <em>Application focus:</em>
-    - Slip transfer in complex dislocation networks
-    - High-dpa irradiation damage for nuclear fusion
     - Prediction of phase diagrams across the periodic table
-    - Mechanistic inverse design of non-dilute alloys
+    - Strain hardening and dislocation networks
+    - Segregation and annealing in structural alloys for fusion
+    - Error-aware experimental design
 - <em>Theory/method development focus:</em>
     - Model-form uncertainty quantification (UQ) for ML surrogates
     - Data-driven forecasting of long-timescale behavior
