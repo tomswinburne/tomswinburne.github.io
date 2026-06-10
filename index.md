@@ -56,19 +56,19 @@ See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_o
 <em>Irradiation defects can grow as three-dimensional Laves phase clusters</em>
 <br>
 <u><strong>Some recent/upcoming presentations </strong></u><br>
-<em>&star;=invited, &dagger;=chair / symposium chair</em><br>
+<em>&#9734; =invited, &dagger;=chair / symposium chair</em><br>
 &dagger; MRS Spring 5/27, Seattle, USA<br>
-&star; TMS Spring 4/27, Orlando, USA<br>
-&star; $<a href="https://www.mmm12.org/" target="_new">MMM12</a>, Jeju, Korea, 11/26<br>
-&star; <a href="https://www.cecam.org/workshop-details/ai-methods-to-accelerate-the-simulation-and-discovery-of-materials-1555" target="_new">AI Methods to Accelerate the Simulation and Discovery of Materials</a>, Purdue, USA, 07/26<br>
-&star; <a href="https://wales.group.ch.cam.ac.uk/energy-landscapes-2026-telluride" target="_new">EL2026</a>, Telluride, USA, 07/26<br>
+&#9734;  TMS Spring 4/27, Orlando, USA<br>
+&#9734;  $<a href="https://www.mmm12.org/" target="_new">MMM12</a>, Jeju, Korea, 11/26<br>
+&#9734;  <a href="https://www.cecam.org/workshop-details/ai-methods-to-accelerate-the-simulation-and-discovery-of-materials-1555" target="_new">AI Methods to Accelerate the Simulation and Discovery of Materials</a>, Purdue, USA, 07/26<br>
+&#9734;  <a href="https://wales.group.ch.cam.ac.uk/energy-landscapes-2026-telluride" target="_new">EL2026</a>, Telluride, USA, 07/26<br>
 &dagger; <a href="https://www.imsi.institute/no_index/descriptor-entropy-methods-for-configurational-landscapes-and-thermodynamic-fine-tuning-in-alloys-declare/" target="_new">DECLARE</a>, IMSI, U Chicago, USA, 06/26<br>
-&star; <a href="https://www.siam.org/conferences-events/siam-conferences/uq26/" target="_new">SIAM UQ</a>, Minneapolis, USA, 03/26<br>
-&star; <a href="https://mlcm-26.github.io/" target="_new">Machine Learning for Chemical Modeling, Santa Fe, USA, 05/26</a><br>
-&star; <a href="https://www.usacm.org/site_page.cfm?pk_association_webpage_menu=11354&pk_association_webpage=25785" target="_new">USACM UQ</a>, Webinar, USA, 01/26<br>
-&star; <a href="https://sites.google.com/view/ai4mat/home">NeurIPS AI4Mat</a>, San Diego, USA, 12/25<br>
-&star; <a href="https://www.coe.miami.edu/events/dislocations-conference/index.html" target="_new">Dislocations 2025</a>, Miami, USA, 11/25<br>
-&star; <a href="https://www.cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380" target="_new">CECAM</a>: UQ from DFT to ML, EPFL, Lausanne, 11/25<br>
-&star; <s><a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25</s> (unavailable)<br>
-&star; <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM Electrochemistry</a>, UCLA, 10/25<br>
-&star; <a href="https://nanomaterials2025.usacm.org" target="_new">USACM Nanomechanics 2025</a>, Urbana-Champaign, USA, 09/25<br>
+&#9734;  <a href="https://www.siam.org/conferences-events/siam-conferences/uq26/" target="_new">SIAM UQ</a>, Minneapolis, USA, 03/26<br>
+&#9734;  <a href="https://mlcm-26.github.io/" target="_new">Machine Learning for Chemical Modeling, Santa Fe, USA, 05/26</a><br>
+&#9734;  <a href="https://www.usacm.org/site_page.cfm?pk_association_webpage_menu=11354&pk_association_webpage=25785" target="_new">USACM UQ</a>, Webinar, USA, 01/26<br>
+&#9734;  <a href="https://sites.google.com/view/ai4mat/home">NeurIPS AI4Mat</a>, San Diego, USA, 12/25<br>
+&#9734;  <a href="https://www.coe.miami.edu/events/dislocations-conference/index.html" target="_new">Dislocations 2025</a>, Miami, USA, 11/25<br>
+&#9734;  <a href="https://www.cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380" target="_new">CECAM</a>: UQ from DFT to ML, EPFL, Lausanne, 11/25<br>
+&#9734;  <s><a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25</s> (unavailable)<br>
+&#9734;  <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM Electrochemistry</a>, UCLA, 10/25<br>
+&#9734;  <a href="https://nanomaterials2025.usacm.org" target="_new">USACM Nanomechanics 2025</a>, Urbana-Champaign, USA, 09/25<br>
