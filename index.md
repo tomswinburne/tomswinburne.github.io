@@ -20,6 +20,7 @@ A recent focus is harnessing high-dimensional latent spaces for multiscale inver
     - Data-driven forecasting of long-timescale behavior
     - End-to-end differentiable simulations for UQ and design
     - Inverse fine-tuning of atomic machine learning models
+
 <br>
 See <a href="/openings">open positions</a> or email <code>tswin-at-umich-dot-edu</code>.
 <a href="/team">Past members</a> have gone on to obtain competitive positions in academia and industry.
