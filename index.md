@@ -54,6 +54,8 @@ See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_o
 <br>
 <em>Irradiation defects can grow as three-dimensional Laves phase clusters</em>
 <br>
+<br>
+
 <u><strong>Some recent/upcoming presentations </strong></u><br>
 <em>&#9734; =invited, &dagger;=chair / symposium chair</em><br>
 &dagger; MRS Spring 5/27, Seattle, USA<br>
