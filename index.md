@@ -3,8 +3,7 @@
 <a href="/team"><strong>Thomas D Swinburne, PhD</strong></a>
 &emsp;&emsp;<code>tswin-at-umich-dot-edu</code><br>
 <br>
-Metallic alloys uniquely combine strength, ductility and reusability due to an often mysterious hierarchy of plasticity mechanisms.<br>
-The LM3 lab develops new simulation methods connecting atomic dynamics, microstructure and mechanical properties. We collaborate widely, drawing from applied math, machine learning, physics and mechanics.
+Metallic alloys uniquely combine strength, ductility and reusability due to an often mysterious hierarchy of plasticity mechanisms. The LM3 lab develops new simulation methods connecting atomic dynamics, microstructure and mechanical properties. We collaborate widely, drawing from applied math, machine learning, physics and mechanics.
 <!--Alloy design requires inverting complex structure-processing-property relationships from sparse and indirect data, a significant challenge for human or AI scientists. 
 A recent focus is harnessing high-dimensional latent spaces for multiscale inverse design and uncertainty quantification.-->
 <br>
@@ -60,7 +59,7 @@ See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_o
 <em>&#9734; =invited, &dagger;=chair / symposium chair</em><br>
 &dagger; MRS Spring 5/27, Seattle, USA<br>
 &#9734;  TMS Spring 4/27, Orlando, USA<br>
-&#9734;&#9734;  <a href="https://www.mmm12.org/" target="_new">MMM12</a>, Jeju, Korea, 11/26<br>
+&#9734;&dagger;  <a href="https://www.mmm12.org/" target="_new">MMM12</a>, Jeju, Korea, 11/26<br>
 &#9734;  <a href="https://www.cecam.org/workshop-details/ai-methods-to-accelerate-the-simulation-and-discovery-of-materials-1555" target="_new">AI Methods for Discovery of Materials</a>, Purdue, USA, 07/26<br>
 &#9734;  <a href="https://wales.group.ch.cam.ac.uk/energy-landscapes-2026-telluride" target="_new">EL2026</a>, Telluride, USA, 07/26<br>
 &dagger; <a href="https://www.imsi.institute/no_index/descriptor-entropy-methods-for-configurational-landscapes-and-thermodynamic-fine-tuning-in-alloys-declare/" target="_new">DECLARE</a>, IMSI, U Chicago, USA, 06/26<br>
