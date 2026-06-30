@@ -55,10 +55,12 @@ See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_o
 <br>
 <br>
 
-<u><strong>Some recent/upcoming presentations </strong></u><br>
+<u><strong>Some recent/upcoming conferences </strong></u><br>
 <em>&#9734; =invited, &dagger;=chair / symposium chair</em><br>
 &dagger; MRS Spring 5/27, Seattle, USA<br>
 &#9734;  TMS Spring 4/27, Orlando, USA<br>
+&#9734;  SIAM CSA 2/27, Pittsburgh, USA<br>
+&dagger; ADIS Workshop 12/26, Schloss Ringberg, DE<br>
 &#9734;&dagger;  <a href="https://www.mmm12.org/" target="_new">MMM12</a>, Jeju, Korea, 11/26<br>
 &#9734;  <a href="https://www.cecam.org/workshop-details/ai-methods-to-accelerate-the-simulation-and-discovery-of-materials-1555" target="_new">AI Methods for Discovery of Materials</a>, Purdue, USA, 07/26<br>
 &#9734;  <a href="https://wales.group.ch.cam.ac.uk/energy-landscapes-2026-telluride" target="_new">EL2026</a>, Telluride, USA, 07/26<br>
