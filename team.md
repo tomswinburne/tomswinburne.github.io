@@ -10,7 +10,7 @@ Associate Editor, <a href="https://www.sciencedirect.com/journal/computational-m
 <a href="https://github.com/tomswinburne/" target="_new">GitHub</a>
 <br>
 <br>
-## University of Michigan 
+## University of Michigan (Primary PhD Mentor)
 <img src='images/team/george.png' width=100/><br>
 <a href="https://scholar.google.com/citations?hl=en&user=iATnyp0AAAAJ&view_op=list_works&sortby=pubdate" target="_new"><strong>Jiyoung Lee</strong></a><br>
 07/26-: Research fellow, separation science, with Drs D Perez and P Yang (Los Alamos)<br>
@@ -31,10 +31,10 @@ Associate Editor, <a href="https://www.sciencedirect.com/journal/computational-m
 <strong>Jack Jiang</strong><br>
 01/26: MSc, Uncertainty quantification for ODEs<br>
 
-## Europe
+## Europe (External member of PhD committee)
 <img src='images/team/george.png' width=100/><br>
 <strong>Vaidehi Menon</strong><br>
-08/26-: Postdoc, Dislocations in atomic simulation (ANR DAPREDIS)<br> 
+08/26-: Postdoc, Dislocations in atomic simulation<br> 
 Sorbonne Paris Nord, with Prof S Queyreau<br>
 
 <img src='images/team/george.png' width=100/><br>
@@ -44,7 +44,7 @@ University of Warwick, with Prof J Kermode and Prof T Hudson<br>
 
 <img src='images/team/guillaume.jpeg' width=100/><br>
 <strong>Guillaume Commelin</strong><br>
-2025-: PhD, analysis of dislocation plasticity (ANR DAPREDIS)<br> 
+2025-: PhD, analysis of dislocation avalanches<br> 
 Sorbonne Paris Nord, with Prof S Queyreau<br>
 
 <img src='images/team/leonard.jpeg' width=100/><br>
@@ -54,7 +54,7 @@ IFPEN, Paris, with Drs T Pidgeon, M Menz & MC Marinica<br>
 
 <img src='images/team/emna.jpeg' width=100/><br>
 <strong>Emna Frikha</strong><br>
-2024-: PhD, He retention in plasma-facing W (ANR HEBERTUNE)<br>
+2024-: PhD, He retention in plasma-facing W<br>
 Sorbonne Paris Nord, with Prof J Mougenot.
 
 ## Past Members
