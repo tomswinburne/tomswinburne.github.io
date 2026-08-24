@@ -10,18 +10,18 @@ Associate Editor, <a href="https://www.sciencedirect.com/journal/computational-m
 <a href="https://github.com/tomswinburne/" target="_new">GitHub</a>
 <br>
 <br>
-## University of Michigan (Primary PhD Mentor)
+## University of Michigan (Primary Advisor)
 <img src='images/team/george.png' width=100/><br>
 <a href="https://scholar.google.com/citations?hl=en&user=iATnyp0AAAAJ&view_op=list_works&sortby=pubdate" target="_new"><strong>Jiyoung Lee</strong></a><br>
-07/26-: Research fellow, separation science, with Drs D Perez and P Yang (Los Alamos)<br>
+07/26-: Postdoc fellow, separation science, with Drs D Perez and P Yang (Los Alamos)<br>
 
 <img src='images/team/marvin.jpeg' width=100/><br>
 <a href="https://scholar.google.com/citations?user=w3LWShwAAAAJ&hl=en" target="_new"><strong>Marvin Poul</strong></a><br>
-02/26-: Research Fellow, Differentiable phase diagrams<br>
+02/26-: Postdoc Fellow, Differentiable phase diagrams<br>
 
 <img src='images/team/richard.jpeg' width=100/><br>
-<a href="https://www.richardzjm.com" target="_new"><strong>Richard Meng</strong></a><br>
-09/26-: Incoming PhD & MICDE Fellow, Machine learning potentials, with Prof V Gavani<br>
+<a href="https://www.richardzjm.com" target="_new"><strong>Zijian (Richard) Meng</strong></a><br>
+09/26-:PhD, MICDE Fellow, Machine learning potentials, with Prof V Gavani<br>
 
 <img src='images/team/jon.jpeg' width=100/><br>
 <strong>Jon Black</strong><br>
@@ -31,7 +31,7 @@ Associate Editor, <a href="https://www.sciencedirect.com/journal/computational-m
 <strong>Jack Jiang</strong><br>
 01/26: MSc, Uncertainty quantification for ODEs<br>
 
-## Europe (External member of PhD committee)
+## Europe (External Advisor)
 <img src='images/team/george.png' width=100/><br>
 <strong>Vaidehi Menon</strong><br>
 08/26-: Postdoc, Dislocations in atomic simulation<br> 
