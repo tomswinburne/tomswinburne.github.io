@@ -4,7 +4,7 @@
     - Graduate level course, around 20 students
     - Coding assignments expose students to state-of-the-art
     - Particular deep dive on ML interatomic potentials
-    - <a href="./assets/pdf/ME507_Syllabus.pdf" target="_new">Syllabus for Fall 26 term</a>
+    - <a href="./assets/pdf/ME507_Syllabus.pdf" target="_new">Syllabus for Winter 27 term</a>
 
 - <strong>ME 382 Mechanical Behavior of Materials</strong> (F25, W27)
     - Around 100 students (half of total intake, core course)
