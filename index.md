@@ -25,9 +25,9 @@ See <a href="/openings">open positions</a> or email <code>tswin-at-umich-dot-edu
 <a href="/team">Past members</a> have gone on to obtain competitive positions in academia and industry.
 <br>
 <br>
-<u><strong>Selected recent work</strong></u><br>
-See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a> for an up-to-date list.
-- Score matched free energies (<a href="https://sites.google.com/view/ai4mat/home" target="_new">NeurIPS AI4Mat</a> / <a href="https://arxiv.org/abs/2502.18191" target="_new">Nat. Comm. 2026</a><br>
+<u><strong>Recent representative work</strong></u><br>
+See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a> for an up-to-date list.<br>
+- Learning from thermodynamic data (<a href="https://sites.google.com/view/ai4mat/home" target="_new">NeurIPS AI4Mat</a> / <a href="https://arxiv.org/abs/2502.18191" target="_new">Nat. Comm. 2026</a>)<br>
 <em>MLIP phase diagrams as functions, for UQ and inverse problems !</em> 
 - Entropy of dislocation glide (<a href="https://www.nature.com/articles/s41467-025-62390-w" target="_new" >Nat. Comm. 25</a>/<a href="https://github.com/tomswinburne/pafi" target="_new">PAFI</a>/Rodney Group)
 <br>
@@ -54,22 +54,16 @@ See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_o
 <em>Irradiation defects can grow as three-dimensional Laves phase clusters</em>
 <br>
 <br>
-
 <u><strong>Some recent/upcoming conferences </strong></u><br>
-<em>&#9734; =invited, &dagger;=chair / symposium chair</em><br>
+<em>&#9734; =invited, &dagger;=organizer</em><br>
+&#9734; <a href="https://www.ipam.ucla.edu/programs/long-programs/" target="_new">IPAM AIMAT</a>, UCLA, 10/27<br>
+&dagger; USCCM, 7/26, Pasadena, USA<br>
 &dagger; MRS Spring 5/27, Seattle, USA<br>
+&#9734;  DPG Spring 4/27, Regensburg, DE<br>
 &#9734;  TMS Spring 4/27, Orlando, USA<br>
 &#9734;  <a href="https://www.siam.org/conferences-events/siam-conferences/cse27/" target="_new">SIAM CSE</a> 2/27, Pittsburgh, USA<br>
-&dagger; ADIS 2026, 12/26, Schloss Ringberg, DE<br>
+&dagger; ADIS 2026, 12/26, Ringberg, DE<br>
 &#9734;&dagger;  <a href="https://www.mmm12.org/" target="_new">MMM12</a>, Jeju, Korea, 11/26<br>
 &#9734;  <a href="https://www.cecam.org/workshop-details/ai-methods-to-accelerate-the-simulation-and-discovery-of-materials-1555" target="_new">AI Methods for Discovery of Materials</a>, Purdue, USA, 07/26<br>
 &#9734;  <a href="https://wales.group.ch.cam.ac.uk/energy-landscapes-2026-telluride" target="_new">EL2026</a>, Telluride, USA, 07/26<br>
-&dagger; <a href="https://www.imsi.institute/no_index/descriptor-entropy-methods-for-configurational-landscapes-and-thermodynamic-fine-tuning-in-alloys-declare/" target="_new">DECLARE</a>, IMSI, U Chicago, USA, 06/26<br>
 &#9734;  <a href="https://www.siam.org/conferences-events/siam-conferences/uq26/" target="_new">SIAM UQ</a>, Minneapolis, USA, 03/26<br>
-&#9734;  <a href="https://mlcm-26.github.io/" target="_new">Machine Learning for Chemical Modeling, Santa Fe, USA, 05/26</a><br>
-&#9734;  <a href="https://www.usacm.org/site_page.cfm?pk_association_webpage_menu=11354&pk_association_webpage=25785" target="_new">USACM UQ</a>, Webinar, USA, 01/26<br>
-&#9734;  <a href="https://www.coe.miami.edu/events/dislocations-conference/index.html" target="_new">Dislocations 2025</a>, Miami, USA, 11/25<br>
-&#9734;  <a href="https://www.cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380" target="_new">CECAM</a>: UQ from DFT to ML, EPFL, Lausanne, 11/25<br>
-&#9734;  <s><a href="https://www.icms.org.uk/workshops" target="_new">CoMPASs</a> workshop, ICMS, Edinburgh, 11/25</s> (unavailable)<br>
-&#9734;  <a href="https://www.ipam.ucla.edu/programs/long-programs/bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/" target="_new">IPAM Electrochemistry</a>, UCLA, 10/25<br>
-&#9734;  <a href="https://nanomaterials2025.usacm.org" target="_new">USACM Nanomechanics 2025</a>, Urbana-Champaign, USA, 09/25<br>
