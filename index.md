@@ -27,7 +27,7 @@ See <a href="/openings">open positions</a> or email <code>tswin-at-umich-dot-edu
 <br>
 <u><strong>Recent representative work</strong></u><br>
 See <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a> for an up-to-date list.<br>
-- Learning from thermodynamic data (<a href="https://sites.google.com/view/ai4mat/home" target="_new">NeurIPS AI4Mat</a> / <a href="https://arxiv.org/abs/2502.18191" target="_new">Nat. Comm. 2026</a>)<br>
+- Learning from phase diagrams (<a href="https://sites.google.com/view/ai4mat/home" target="_new">NeurIPS AI4Mat</a> / <a href="https://arxiv.org/abs/2502.18191" target="_new">Nat. Comm. 2026</a>)<br>
 <em>MLIP phase diagrams as functions, for UQ and inverse problems !</em> 
 - Entropy of dislocation glide (<a href="https://www.nature.com/articles/s41467-025-62390-w" target="_new" >Nat. Comm. 25</a>/<a href="https://github.com/tomswinburne/pafi" target="_new">PAFI</a>/Rodney Group)
 <br>
